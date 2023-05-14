@@ -6,7 +6,9 @@ In this work we present **HyperE2VID, a dynamic neural network architecture for 
 
 ![Overview of our proposed HyperE2VID architecture](media/detailed.png "Overview of our proposed HyperE2VID architecture")
 
-For more details please see our [paper](https://arxiv.org/abs/2305.06382). For qualitative results please see our [project website](https://ercanburak.github.io/HyperE2VID.html).
+For more details please see our [paper](https://arxiv.org/abs/2305.06382). 
+
+For qualitative results please see our [project website](https://ercanburak.github.io/HyperE2VID.html).
 
 Codes will be published soon.
 
