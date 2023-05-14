@@ -2,6 +2,10 @@
 
 This is the official repository of our paper titled **[HyperE2VID: Improving Event-Based Video Reconstruction via Hypernetworks](https://arxiv.org/abs/2305.06382)** by [Burak Ercan](https://ercanburak.github.io/), [Onur Eker](https://github.com/ekeronur/), [Canberk Sağlam](https://github.com/CanberkSaglam/), [Aykut Erdem](https://aykuterdem.github.io/), and [Erkut Erdem](https://web.cs.hacettepe.edu.tr/~erkut/).
 
+In this work we present **HyperE2VID, a dynamic neural network architecture for event-based video reconstruction**. Our approach extends existing static architectures by using **hypernetworks** and **dynamic convolutions** to generate **per-pixel adaptive filters** guided by a **context fusion** module that combines information from event voxel grids and previously reconstructed intensity images. We show that this dynamic architecture can generate **higher-quality videos** than previous state-of-the-art, **while also reducing memory consumption and inference time**.
+
+For more details please see our [paper](https://arxiv.org/abs/2305.06382). For qualitative results please see our [project website](https://ercanburak.github.io/HyperE2VID.html).
+
 Codes will be published soon.
 
 ## Citations
