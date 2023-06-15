@@ -14,6 +14,8 @@ For more details please see our [paper](https://arxiv.org/abs/2305.06382).
 
 For qualitative results please see our [project website](https://ercanburak.github.io/HyperE2VID.html).
 
+For more results and experimental analyses of HyperE2VID, please see the [interactive result analysis tool of EVREAL](https://ercanburak-evreal.hf.space/).
+
 Codes will be published soon.
 
 ## Citations
