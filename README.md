@@ -13,13 +13,13 @@ In this work we present **HyperE2VID, a dynamic neural network architecture for 
 
 ![Overview of our proposed HyperE2VID architecture](media/detailed.png "Overview of our proposed HyperE2VID architecture")
 
-For more details please see our [paper](https://arxiv.org/abs/2305.06382). 
-
-For qualitative results please see our [project website](https://ercanburak.github.io/HyperE2VID.html).
-
-For more results and experimental analyses of HyperE2VID, please see the [interactive result analysis tool of EVREAL](https://ercanburak-evreal.hf.space/).
-
-Codes will be published soon.
+- For more details please see our [paper](https://arxiv.org/abs/2305.06382). 
+- For qualitative results please see our [project website](https://ercanburak.github.io/HyperE2VID.html).
+- For more results and experimental analyses of HyperE2VID, please see the [interactive result analysis tool of EVREAL](https://ercanburak-evreal.hf.space/).
+- Model codes are published under the [model folder in this repository](model).
+- The pretrained model of HyperE2VID can be found [here](https://drive.google.com/drive/folders/1UuGnKwSz5C9di-cVH1QzSFjgTRNqpYep).
+- For evaluation and analysis of HyperE2VID model, please use the codes in [EVREAL repository](https://github.com/ercanburak/EVREAL).
+- Training codes will be published soon.
 
 ## Citations
 
@@ -35,5 +35,8 @@ year={2023}
 
 ## Acknowledgements
 
-This work was supported in part by KUIS AI Center Research Award, TUBITAK-1001 Program Award No. 121E454, and BAGEP 2021 Award of the Science Academy to A. Erdem.
-
+- This work was supported in part by KUIS AI Center Research Award, TUBITAK-1001 Program Award No. 121E454, and BAGEP 2021 Award of the Science Academy to A. Erdem.
+- This code borrows from or is inspired by the following open-source repositories:
+  - https://github.com/uzh-rpg/rpg_e2vid
+  - https://github.com/TimoStoff/event_cnn_minimal
+  - https://github.com/ZeWang95/ACDA
