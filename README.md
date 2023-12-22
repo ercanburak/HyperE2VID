@@ -2,6 +2,8 @@
 
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://ercanburak-evreal.hf.space/)
 [![arxiv.org](http://img.shields.io/badge/cs.CV-arXiv%3A2305.06382-B31B1B.svg)](https://arxiv.org/abs/2305.06382/)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hypere2vid-improving-event-based-video/video-reconstruction-on-event-camera-dataset)](https://paperswithcode.com/sota/video-reconstruction-on-event-camera-dataset?p=hypere2vid-improving-event-based-video)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hypere2vid-improving-event-based-video/video-reconstruction-on-mvsec)](https://paperswithcode.com/sota/video-reconstruction-on-mvsec?p=hypere2vid-improving-event-based-video)
 
 This is the official repository of our paper titled **[HyperE2VID: Improving Event-Based Video Reconstruction via Hypernetworks](https://arxiv.org/abs/2305.06382)** by [Burak Ercan](https://ercanburak.github.io/), [Onur Eker](https://github.com/ekeronur/), [Canberk Sağlam](https://github.com/CanberkSaglam/), [Aykut Erdem](https://aykuterdem.github.io/), and [Erkut Erdem](https://web.cs.hacettepe.edu.tr/~erkut/).
 
