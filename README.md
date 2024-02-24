@@ -32,7 +32,7 @@ If you use code in this repo in an academic context, please cite the following:
 title={{HyperE2VID}: Improving Event-Based Video Reconstruction via Hypernetworks},
 author={Ercan, Burak and Eker, Onur and Saglam, Canberk and Erdem, Aykut and Erdem, Erkut},
 journal={arXiv preprint arXiv:2305.06382},
-year={2023}
+year={2023}}
 ```
 
 ## Acknowledgements
