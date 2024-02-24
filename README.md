@@ -29,7 +29,7 @@ If you use code in this repo in an academic context, please cite the following:
 
 ```
 @article{ercan2023hypere2vid,
-title={{HyperE2VID}}: Improving Event-Based Video Reconstruction via Hypernetworks},
+title={{HyperE2VID}: Improving Event-Based Video Reconstruction via Hypernetworks},
 author={Ercan, Burak and Eker, Onur and Saglam, Canberk and Erdem, Aykut and Erdem, Erkut},
 journal={arXiv preprint arXiv:2305.06382},
 year={2023}
