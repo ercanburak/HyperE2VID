@@ -5,7 +5,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hypere2vid-improving-event-based-video/video-reconstruction-on-event-camera-dataset)](https://paperswithcode.com/sota/video-reconstruction-on-event-camera-dataset?p=hypere2vid-improving-event-based-video)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hypere2vid-improving-event-based-video/video-reconstruction-on-mvsec)](https://paperswithcode.com/sota/video-reconstruction-on-mvsec?p=hypere2vid-improving-event-based-video)
 
-This is the official repository of our paper titled **[HyperE2VID: Improving Event-Based Video Reconstruction via Hypernetworks](https://arxiv.org/abs/2305.06382)** by [Burak Ercan](https://ercanburak.github.io/), [Onur Eker](https://github.com/ekeronur/), [Canberk Sağlam](https://github.com/CanberkSaglam/), [Aykut Erdem](https://aykuterdem.github.io/), and [Erkut Erdem](https://web.cs.hacettepe.edu.tr/~erkut/).
+This is the official repository of our [IEEE TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83) paper titled **[HyperE2VID: Improving Event-Based Video Reconstruction via Hypernetworks](https://arxiv.org/abs/2305.06382)** by [Burak Ercan](https://ercanburak.github.io/), [Onur Eker](https://github.com/ekeronur/), [Canberk Sağlam](https://github.com/CanberkSaglam/), [Aykut Erdem](https://aykuterdem.github.io/), and [Erkut Erdem](https://web.cs.hacettepe.edu.tr/~erkut/).
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=BWEV56-E0mE"><img src="media/video_thumbnail.png" alt="HyperE2VID: Improving Event-Based Video Reconstruction via Hypernetworks" width="600"></a>
@@ -15,6 +15,7 @@ In this work we present **HyperE2VID, a dynamic neural network architecture for 
 
 ![Overview of our proposed HyperE2VID architecture](media/detailed.png "Overview of our proposed HyperE2VID architecture")
 
+- Our HyperE2VID paper has been accepted by [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/document/10462903).
 - For more details please see our [paper](https://arxiv.org/abs/2305.06382). 
 - For qualitative results please see our [project website](https://ercanburak.github.io/HyperE2VID.html).
 - For more results and experimental analyses of HyperE2VID, please see the [interactive result analysis tool of EVREAL](https://ercanburak-evreal.hf.space/).
