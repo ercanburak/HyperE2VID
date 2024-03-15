@@ -5,7 +5,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hypere2vid-improving-event-based-video/video-reconstruction-on-event-camera-dataset)](https://paperswithcode.com/sota/video-reconstruction-on-event-camera-dataset?p=hypere2vid-improving-event-based-video)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hypere2vid-improving-event-based-video/video-reconstruction-on-mvsec)](https://paperswithcode.com/sota/video-reconstruction-on-mvsec?p=hypere2vid-improving-event-based-video)
 
-This is the official repository of our [IEEE TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83) paper titled **[HyperE2VID: Improving Event-Based Video Reconstruction via Hypernetworks](https://arxiv.org/abs/2305.06382)** by [Burak Ercan](https://ercanburak.github.io/), [Onur Eker](https://github.com/ekeronur/), [Canberk Sağlam](https://github.com/CanberkSaglam/), [Aykut Erdem](https://aykuterdem.github.io/), and [Erkut Erdem](https://web.cs.hacettepe.edu.tr/~erkut/).
+This is the official repository of our IEEE TIP paper **[HyperE2VID: Improving Event-Based Video Reconstruction via Hypernetworks](https://ieeexplore.ieee.org/document/10462903)** by [Burak Ercan](https://ercanburak.github.io/), [Onur Eker](https://github.com/ekeronur/), [Canberk Sağlam](https://github.com/CanberkSaglam/), [Aykut Erdem](https://aykuterdem.github.io/), and [Erkut Erdem](https://web.cs.hacettepe.edu.tr/~erkut/).
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=BWEV56-E0mE"><img src="media/video_thumbnail.png" alt="HyperE2VID: Improving Event-Based Video Reconstruction via Hypernetworks" width="600"></a>
@@ -34,6 +34,8 @@ title={{HyperE2VID}: Improving Event-Based Video Reconstruction via Hypernetwork
 author={Ercan, Burak and Eker, Onur and Saglam, Canberk and Erdem, Aykut and Erdem, Erkut},
 journal={IEEE Transactions on Image Processing},
 year={2024},
+volume={33},
+pages={1826--1837},
 doi={10.1109/TIP.2024.3372460},
 publisher={IEEE}}
 ```
