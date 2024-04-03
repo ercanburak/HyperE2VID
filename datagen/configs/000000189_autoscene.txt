@@ -1,0 +1,8 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000264703.jpg 3.000 0.000 318.169 182.449 -0.557 -0.334 -0.149 -0.323 1.237 1.164 1.483 1.062
+/home/burak/coco_dataset/foreground_objects/Thinking-Woman-PNG-Clipart-Background.png 3.000 0.000 60.356 203.240 -0.667 0.709 -1.928 0.725 0.703 0.771 1.139 0.789
+/home/burak/coco_dataset/unlabeled2017_png/000000190682.png 3.000 0.000 307.915 140.345 -0.010 -1.267 -0.013 2.297 0.451 0.391 0.575 0.491
+/home/burak/coco_dataset/unlabeled2017_png/000000188415.png 3.000 0.000 196.461 581.954 -5.220 11.525 -2.168 4.502 0.214 0.200 0.366 0.305
+/home/burak/coco_dataset/foreground_objects/5a835b9eabc3d121aba7129a.png 3.000 0.000 342.574 512.743 -0.034 -0.735 -0.410 -0.327 0.858 0.562 0.654 0.947
+/home/burak/coco_dataset/unlabeled2017_png/000000000093.png 3.000 0.000 337.147 123.969 -0.506 0.499 -0.268 0.135 0.420 0.365 0.265 0.564
+/home/burak/coco_dataset/foreground_objects/motorbike2.png 3.000 0.000 338.398 236.106 10.285 -15.889 -0.711 0.127 0.683 0.476 0.479 0.606

@@ -1,0 +1,5 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000124354.jpg 3.000 0.000 218.593 259.268 -0.005 0.082 -0.050 -0.329 1.262 1.276 1.414 1.160
+/home/burak/coco_dataset/foreground_objects/Human-PNG-Free-Download.png 3.000 0.000 356.759 349.131 0.415 0.304 -0.179 -0.655 0.711 1.022 0.922 0.475
+/home/burak/coco_dataset/foreground_objects/5a90208bb15d5c051b36905b.png 3.000 0.000 193.618 160.709 0.078 -0.957 0.154 -0.612 1.039 0.857 0.907 0.971
+/home/burak/coco_dataset/unlabeled2017_png/000000192429.png 3.000 0.000 15.460 -29.106 -0.353 0.142 -1.200 0.546 0.205 0.259 0.344 0.215

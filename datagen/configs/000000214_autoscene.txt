@@ -1,0 +1,9 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000364495.jpg 3.000 0.000 9.315 102.378 -0.072 -0.029 -0.655 -0.017 1.088 1.307 1.267 1.182
+/home/burak/coco_dataset/foreground_objects/59db60c63752880e93e16eda.png 3.000 0.000 239.962 351.324 -0.117 -0.097 0.320 0.308 0.614 0.552 0.569 1.064
+/home/burak/coco_dataset/foreground_objects/58c7f157e665570916c653f5.png 3.000 0.000 144.558 226.511 -0.769 0.146 1.556 -1.944 0.829 0.873 0.702 1.014
+/home/burak/coco_dataset/unlabeled2017_png/000000000179.png 3.000 0.000 180.607 274.394 1.263 -2.910 0.752 -0.710 0.207 0.416 0.316 0.356
+/home/burak/coco_dataset/foreground_objects/chicken2.png 3.000 0.000 263.266 374.368 2.350 -0.929 0.161 -0.369 0.414 0.434 0.655 1.187
+/home/burak/coco_dataset/unlabeled2017_png/000000190264.png 3.000 0.000 96.914 198.282 -1.109 0.293 -0.473 0.010 0.283 0.403 0.322 0.599
+/home/burak/coco_dataset/foreground_objects/Dahlia-PNG-Transparent-Image-1.png 3.000 0.000 357.111 423.389 -0.573 -0.220 0.087 -0.426 0.883 0.857 0.841 0.489
+/home/burak/coco_dataset/unlabeled2017_png/000000188083.png 3.000 0.000 91.393 233.409 0.270 -1.213 0.497 -1.712 0.222 0.223 0.577 0.312

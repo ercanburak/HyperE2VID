@@ -1,0 +1,9 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000231439.jpg 3.000 0.000 43.774 25.460 0.378 0.332 -0.549 -0.099 1.383 1.089 1.317 1.439
+/home/burak/coco_dataset/unlabeled2017_png/000000189934.png 3.000 0.000 236.602 320.914 0.166 0.209 -0.047 0.144 0.208 0.376 0.506 0.231
+/home/burak/coco_dataset/foreground_objects/5954ca93deaf2c03413be389.png 3.000 0.000 118.145 42.929 -0.082 -0.467 -0.578 0.668 1.150 0.981 0.888 0.695
+/home/burak/coco_dataset/unlabeled2017_png/000000191113.png 3.000 0.000 246.221 354.380 0.905 -0.463 -0.862 0.179 0.303 0.441 0.380 0.428
+/home/burak/coco_dataset/foreground_objects/Flying-Parrot-PNG-Transparent-Image.png 3.000 0.000 343.580 462.996 0.386 -0.216 0.215 -3.771 0.670 0.782 0.891 1.128
+/home/burak/coco_dataset/foreground_objects/horse.png 3.000 0.000 351.894 436.259 1.136 -1.659 -1.224 1.367 0.430 1.084 0.744 0.897
+/home/burak/coco_dataset/foreground_objects/feather.png 3.000 0.000 316.774 349.642 -1.643 0.565 -0.648 -0.305 0.549 0.646 0.639 0.818
+/home/burak/coco_dataset/unlabeled2017_png/000000191428.png 3.000 0.000 249.487 321.447 0.201 -0.171 -2.856 0.526 0.491 0.437 0.489 0.284

@@ -1,0 +1,19 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000511043.jpg 3.000 0.000 0.894 70.454 0.013 0.727 -0.027 -0.711 1.040 1.156 1.372 1.464
+/home/burak/coco_dataset/unlabeled2017_png/000000189234.png 3.000 0.000 56.757 552.817 -0.306 0.649 -0.287 -0.005 0.568 0.345 0.501 0.420
+/home/burak/coco_dataset/foreground_objects/5a05870e9cf05203c4b603ce.png 3.000 0.000 121.775 -245.596 1.361 -3.317 0.870 -5.377 1.092 0.577 1.032 0.628
+/home/burak/coco_dataset/foreground_objects/Horned-Lizard-PNG-Transparent.png 3.000 0.000 165.972 -340.798 -7.473 1.779 -2.218 0.266 0.482 1.033 0.900 0.649
+/home/burak/coco_dataset/unlabeled2017_png/000000000351.png 3.000 0.000 64.568 -326.056 -12.890 3.889 2.713 -0.662 0.370 0.221 0.547 0.585
+/home/burak/coco_dataset/unlabeled2017_png/000000190286.png 3.000 0.000 116.364 317.995 0.053 0.701 -0.323 0.500 0.222 0.481 0.205 0.412
+/home/burak/coco_dataset/foreground_objects/Luggage-PNG-Transparent-HD-Photo.png 3.000 0.000 114.655 -382.307 10.424 -2.946 -3.870 1.031 1.107 0.507 0.558 0.786
+/home/burak/coco_dataset/unlabeled2017_png/000000190420.png 3.000 0.000 160.728 43.430 -15.621 7.764 -11.053 5.682 0.299 0.567 0.305 0.393
+/home/burak/coco_dataset/foreground_objects/5a00dcd40e8525eec2752ff9.png 3.000 0.000 273.127 302.168 12.383 -17.888 3.753 -4.991 1.153 1.103 1.047 0.530
+/home/burak/coco_dataset/foreground_objects/Sunglasses-Transparent-PNG.png 3.000 0.000 238.246 507.926 2.393 -21.720 -2.174 14.088 0.540 0.417 0.553 0.682
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b27c7.png 3.000 0.000 268.051 156.497 0.707 -2.506 1.050 -5.010 0.404 0.402 0.611 0.812
+/home/burak/coco_dataset/unlabeled2017_png/000000189064.png 3.000 0.000 62.539 369.010 9.797 -2.438 -14.891 3.142 0.539 0.572 0.226 0.585
+/home/burak/coco_dataset/foreground_objects/58987679cba9841eabab6174.png 3.000 0.000 132.178 715.715 0.816 -0.356 -0.790 1.297 0.686 1.019 0.924 0.560
+/home/burak/coco_dataset/foreground_objects/Flying-Bird-Transparent-Background.png 3.000 0.000 91.955 365.383 2.301 -0.680 4.751 -2.161 0.581 0.943 0.885 0.401
+/home/burak/coco_dataset/unlabeled2017_png/000000189120.png 3.000 0.000 250.884 -331.638 1.997 -13.840 5.093 -27.027 0.257 0.399 0.359 0.334
+/home/burak/coco_dataset/foreground_objects/Thinking-Woman-PNG-Clipart-Background.png 3.000 0.000 44.795 -189.606 -0.030 0.447 -5.638 0.407 0.588 1.000 1.039 0.908
+/home/burak/coco_dataset/unlabeled2017_png/000000191316.png 3.000 0.000 244.717 454.021 -0.191 -0.177 0.493 0.386 0.424 0.230 0.348 0.431
+/home/burak/coco_dataset/unlabeled2017_png/000000192188.png 3.000 0.000 227.476 -156.852 0.543 -0.928 0.570 0.161 0.552 0.269 0.510 0.280

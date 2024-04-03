@@ -1,0 +1,5 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000042917.jpg 3.000 0.000 151.013 191.685 -0.250 -0.245 -0.151 -0.226 1.441 1.344 1.189 1.322
+/home/burak/coco_dataset/foreground_objects/Herbs-PNG-Clipart.png 3.000 0.000 291.220 325.711 -0.377 -0.095 0.305 0.463 0.607 0.628 0.908 0.516
+/home/burak/coco_dataset/unlabeled2017_png/000000192150.png 3.000 0.000 152.542 158.785 -0.785 0.558 0.390 0.013 0.443 0.510 0.513 0.289
+/home/burak/coco_dataset/foreground_objects/5b44bd6ce99939b4572e32c3.png 3.000 0.000 86.761 44.231 0.123 0.505 -1.096 0.807 1.170 0.633 1.085 1.046

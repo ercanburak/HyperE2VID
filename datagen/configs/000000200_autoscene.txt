@@ -1,0 +1,6 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000305744.jpg 3.000 0.000 243.689 225.391 0.184 0.089 -0.102 -0.247 1.143 1.434 1.238 1.413
+/home/burak/coco_dataset/unlabeled2017_png/000000188896.png 3.000 0.000 11.187 -21.207 0.188 0.637 0.338 -0.142 0.234 0.245 0.423 0.453
+/home/burak/coco_dataset/foreground_objects/Ladybird-PNG-Transparent-HD-Photo.png 3.000 0.000 319.034 305.491 -0.116 -0.667 -0.234 0.593 1.048 0.538 0.674 0.960
+/home/burak/coco_dataset/unlabeled2017_png/000000189705.png 3.000 0.000 49.819 72.008 -0.066 0.639 -0.888 0.026 0.377 0.285 0.489 0.470
+/home/burak/coco_dataset/foreground_objects/chair1.png 3.000 0.000 287.149 283.923 -0.036 0.905 -0.036 0.845 0.696 0.552 0.688 0.871

@@ -1,0 +1,5 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000420605.jpg 3.000 0.000 262.094 299.409 -0.396 -0.308 -0.303 0.068 1.189 1.409 1.194 1.252
+/home/burak/coco_dataset/foreground_objects/Ladybird-PNG-Transparent-HD-Photo.png 3.000 0.000 191.328 169.967 -0.606 0.160 0.486 -0.843 0.524 0.620 1.104 0.525
+/home/burak/coco_dataset/unlabeled2017_png/000000190404.png 3.000 0.000 111.071 105.992 -0.400 0.014 0.279 0.149 0.376 0.313 0.468 0.356
+/home/burak/coco_dataset/foreground_objects/Lotus-PNG-HD.png 3.000 0.000 262.151 287.560 -0.309 -0.567 -0.188 0.433 1.147 0.654 0.640 0.687

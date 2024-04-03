@@ -1,0 +1,12 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000339691.jpg 3.000 0.000 29.417 42.264 0.125 -0.016 0.520 0.193 1.082 1.330 1.422 1.167
+/home/burak/coco_dataset/foreground_objects/Berries-PNG-Transparent-Image.png 3.000 0.000 310.653 674.283 5.582 -2.388 -7.114 2.721 0.635 0.431 0.633 1.117
+/home/burak/coco_dataset/foreground_objects/tree.png 3.000 0.000 269.958 515.342 -5.425 0.497 -4.857 1.293 0.898 0.557 0.944 0.985
+/home/burak/coco_dataset/foreground_objects/Ice-Drink-Transparent-Background.png 3.000 0.000 1.166 435.677 -3.752 2.325 -0.430 0.783 0.592 1.082 0.985 0.501
+/home/burak/coco_dataset/unlabeled2017_png/000000189546.png 3.000 0.000 110.425 -124.409 0.010 -0.088 -0.185 -0.350 0.268 0.291 0.434 0.244
+/home/burak/coco_dataset/unlabeled2017_png/000000190558.png 3.000 0.000 48.798 356.163 0.416 0.428 -0.365 -0.361 0.582 0.387 0.273 0.256
+/home/burak/coco_dataset/foreground_objects/Clouds-PNG-Image.png 3.000 0.000 206.059 -29.913 -2.498 1.581 -8.082 6.144 1.115 0.574 0.532 1.158
+/home/burak/coco_dataset/foreground_objects/chicken2.png 3.000 0.000 343.734 3.165 -0.014 -0.031 -1.115 2.724 0.551 0.658 1.033 1.025
+/home/burak/coco_dataset/unlabeled2017_png/000000191414.png 3.000 0.000 173.041 373.997 -2.136 10.673 -2.529 11.416 0.553 0.399 0.366 0.461
+/home/burak/coco_dataset/unlabeled2017_png/000000189964.png 3.000 0.000 101.811 385.507 -1.092 0.562 0.207 -0.812 0.549 0.488 0.261 0.351
+/home/burak/coco_dataset/unlabeled2017_png/000000190201.png 3.000 0.000 74.700 -233.431 -2.670 2.381 7.325 -9.597 0.485 0.569 0.521 0.210

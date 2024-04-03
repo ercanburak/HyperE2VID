@@ -1,0 +1,9 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000042077.jpg 3.000 0.000 180.447 168.174 -0.241 -0.403 0.491 -0.298 1.083 1.107 1.178 1.427
+/home/burak/coco_dataset/foreground_objects/Shoelaces-PNG-File.png 3.000 0.000 209.834 90.753 -0.379 0.034 0.495 -0.120 0.563 1.123 0.584 0.479
+/home/burak/coco_dataset/foreground_objects/Chips-PNG-Pic.png 3.000 0.000 293.427 77.486 -0.429 0.154 -3.121 8.731 1.048 0.639 0.423 1.074
+/home/burak/coco_dataset/unlabeled2017_png/000000189192.png 3.000 0.000 251.153 -75.391 -10.937 5.445 10.280 -5.031 0.381 0.312 0.222 0.539
+/home/burak/coco_dataset/foreground_objects/Iguana-PNG-Picture.png 3.000 0.000 183.671 532.257 0.620 0.018 0.115 -0.058 0.989 0.975 0.984 0.825
+/home/burak/coco_dataset/unlabeled2017_png/000000189317.png 3.000 0.000 359.960 6.824 0.335 0.308 0.117 0.275 0.236 0.415 0.466 0.222
+/home/burak/coco_dataset/unlabeled2017_png/000000189499.png 3.000 0.000 189.144 457.086 6.519 -1.030 10.436 -1.359 0.276 0.321 0.564 0.370
+/home/burak/coco_dataset/foreground_objects/Peony-Transparent-PNG.png 3.000 0.000 270.299 134.227 -5.729 10.808 1.119 -3.127 1.003 0.475 0.531 0.628

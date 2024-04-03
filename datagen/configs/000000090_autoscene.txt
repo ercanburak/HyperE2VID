@@ -1,0 +1,9 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000230622.jpg 3.000 0.000 260.654 212.337 -0.303 -0.151 0.713 -0.072 1.085 1.044 1.313 1.495
+/home/burak/coco_dataset/unlabeled2017_png/000000000410.png 3.000 0.000 351.051 409.281 0.706 -0.404 1.084 -0.259 0.276 0.576 0.348 0.382
+/home/burak/coco_dataset/foreground_objects/Ostrich-Transparent-Background.png 3.000 0.000 183.069 127.123 -0.013 -0.309 -0.990 0.556 0.556 1.131 0.737 0.995
+/home/burak/coco_dataset/foreground_objects/Lady-PNG-Image.png 3.000 0.000 308.673 391.301 0.324 0.283 -0.584 -0.144 1.007 0.584 1.072 0.914
+/home/burak/coco_dataset/foreground_objects/5c6404c0e4b8dd029ff25b57.png 3.000 0.000 158.004 215.302 -1.723 0.914 2.464 -0.805 0.518 0.685 0.719 0.656
+/home/burak/coco_dataset/unlabeled2017_png/000000192026.png 3.000 0.000 137.591 67.446 -0.134 -0.225 -2.330 1.633 0.399 0.230 0.392 0.445
+/home/burak/coco_dataset/unlabeled2017_png/000000189702.png 3.000 0.000 282.841 364.419 -1.198 0.748 0.800 0.043 0.495 0.247 0.215 0.256
+/home/burak/coco_dataset/foreground_objects/Salamander-PNG-File.png 3.000 0.000 79.619 20.237 0.512 0.051 0.207 0.523 0.969 1.151 0.507 0.601

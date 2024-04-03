@@ -1,0 +1,9 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000300133.jpg 3.000 0.000 44.075 29.805 -0.358 0.448 0.495 0.127 1.432 1.382 1.110 1.019
+/home/burak/coco_dataset/foreground_objects/59bf7de47a216d0b052f12c5.png 3.000 0.000 176.166 90.821 -0.600 0.769 0.741 -2.500 0.712 0.986 0.896 1.156
+/home/burak/coco_dataset/foreground_objects/Jersey-PNG-Transparent.png 3.000 0.000 284.516 236.979 -0.431 -0.392 0.069 -0.442 0.404 0.755 0.508 0.800
+/home/burak/coco_dataset/unlabeled2017_png/000000189102.png 3.000 0.000 98.448 -25.159 -0.683 0.133 -0.799 0.444 0.433 0.386 0.518 0.269
+/home/burak/coco_dataset/foreground_objects/Italian-Bread-PNG-Transparent-Image.png 3.000 0.000 62.854 -51.290 -0.599 1.618 0.277 -1.659 0.814 0.408 0.763 0.806
+/home/burak/coco_dataset/foreground_objects/5c3dc0b1e39d5d01c21da8c5.png 3.000 0.000 301.167 257.861 0.526 -1.112 -0.738 2.744 1.049 0.594 1.186 0.627
+/home/burak/coco_dataset/unlabeled2017_png/000000190250.png 3.000 0.000 245.724 199.563 -0.346 0.527 -3.005 1.893 0.478 0.209 0.262 0.507
+/home/burak/coco_dataset/unlabeled2017_png/000000188705.png 3.000 0.000 99.658 216.001 0.989 -1.936 -0.613 2.048 0.534 0.291 0.533 0.386

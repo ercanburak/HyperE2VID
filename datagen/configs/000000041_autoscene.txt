@@ -1,0 +1,15 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000335983.jpg 3.000 0.000 319.594 319.082 0.447 0.332 0.148 -0.069 1.317 1.033 1.303 1.407
+/home/burak/coco_dataset/foreground_objects/chicken3.png 3.000 0.000 287.181 626.201 6.473 -2.582 -15.490 6.745 0.627 0.968 1.036 0.909
+/home/burak/coco_dataset/foreground_objects/Cow-PNG-Free-Download.png 3.000 0.000 7.134 138.867 -1.317 2.818 -1.619 6.113 1.164 0.902 0.994 0.494
+/home/burak/coco_dataset/foreground_objects/5a26af4c087102040a95d493.png 3.000 0.000 34.816 298.268 11.613 -7.188 -1.149 1.049 1.098 0.733 0.652 0.476
+/home/burak/coco_dataset/unlabeled2017_png/000000189892.png 3.000 0.000 221.639 113.278 1.241 0.021 -18.626 8.855 0.459 0.229 0.591 0.210
+/home/burak/coco_dataset/unlabeled2017_png/000000000022.png 3.000 0.000 164.931 -19.618 3.170 -8.806 0.138 -1.569 0.298 0.302 0.224 0.342
+/home/burak/coco_dataset/foreground_objects/Bok-Choy-PNG-HD.png 3.000 0.000 200.257 -83.276 2.091 -5.795 1.549 -5.196 0.706 1.047 1.085 0.463
+/home/burak/coco_dataset/unlabeled2017_png/000000188883.png 3.000 0.000 235.295 550.991 -0.468 0.621 5.259 -1.135 0.430 0.370 0.237 0.557
+/home/burak/coco_dataset/unlabeled2017_png/000000188878.png 3.000 0.000 335.330 738.200 1.416 -0.913 3.664 -1.563 0.559 0.327 0.235 0.349
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b2922.png 3.000 0.000 79.432 305.959 -2.946 17.668 -0.391 1.926 1.002 0.818 0.784 0.845
+/home/burak/coco_dataset/unlabeled2017_png/000000189644.png 3.000 0.000 63.612 482.942 -1.608 5.037 -4.889 11.182 0.208 0.274 0.254 0.355
+/home/burak/coco_dataset/foreground_objects/5a835b71abc3d121aba71297.png 3.000 0.000 1.842 -151.700 -0.416 0.984 0.106 0.001 0.638 0.961 0.611 0.554
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b27c3.png 3.000 0.000 16.742 316.287 0.396 0.401 -0.127 -0.078 0.758 1.099 1.093 1.082
+/home/burak/coco_dataset/unlabeled2017_png/000000190352.png 3.000 0.000 281.937 46.526 12.902 -10.518 1.676 -0.737 0.411 0.345 0.405 0.364

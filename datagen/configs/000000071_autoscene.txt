@@ -1,0 +1,27 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000050755.jpg 3.000 0.000 223.781 81.398 0.401 0.023 -0.182 -0.061 1.360 1.354 1.500 1.259
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b27c7.png 3.000 0.000 218.643 734.845 -1.809 4.423 1.265 -3.098 0.913 0.893 0.743 0.572
+/home/burak/coco_dataset/unlabeled2017_png/000000189516.png 3.000 0.000 175.007 -306.123 -2.581 4.489 -3.115 5.120 0.314 0.493 0.445 0.483
+/home/burak/coco_dataset/foreground_objects/Kiwi-Bird-PNG-Pic.png 3.000 0.000 75.702 9.950 -2.383 8.989 3.414 -12.680 0.569 0.993 1.195 0.536
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b2923.png 3.000 0.000 199.324 688.100 1.955 -7.873 -4.464 18.288 0.678 0.794 1.123 1.099
+/home/burak/coco_dataset/unlabeled2017_png/000000190773.png 3.000 0.000 70.827 202.361 13.698 -5.305 -30.376 11.468 0.329 0.481 0.553 0.333
+/home/burak/coco_dataset/foreground_objects/Green-Tea-PNG-Pic.png 3.000 0.000 291.706 867.859 0.425 -0.650 -0.244 0.685 1.062 1.013 1.195 1.179
+/home/burak/coco_dataset/foreground_objects/Hand-PNG-Transparent-File.png 3.000 0.000 283.030 367.362 9.754 -8.190 -15.844 11.526 0.548 0.749 0.741 0.834
+/home/burak/coco_dataset/unlabeled2017_png/000000192491.png 3.000 0.000 196.210 323.910 -13.337 7.280 -1.379 0.612 0.461 0.218 0.564 0.450
+/home/burak/coco_dataset/unlabeled2017_png/000000189173.png 3.000 0.000 256.470 236.978 12.789 -2.069 7.530 -1.075 0.234 0.465 0.570 0.372
+/home/burak/coco_dataset/foreground_objects/Fashionable-Women-Wearing-Sunglasses-PNG.png 3.000 0.000 95.750 -160.322 14.603 -3.691 24.624 -7.167 1.061 1.146 1.135 0.703
+/home/burak/coco_dataset/unlabeled2017_png/000000190388.png 3.000 0.000 167.019 -205.227 3.269 -7.205 3.449 -7.243 0.456 0.298 0.221 0.254
+/home/burak/coco_dataset/unlabeled2017_png/000000000029.png 3.000 0.000 326.500 398.858 -8.933 3.286 1.013 -0.721 0.500 0.582 0.426 0.436
+/home/burak/coco_dataset/foreground_objects/Sneakers-PNG-Background-Image.png 3.000 0.000 65.958 102.305 1.621 -1.182 2.550 -0.962 0.842 1.173 0.788 0.658
+/home/burak/coco_dataset/foreground_objects/58b062948a4b5bbbc8492956.png 3.000 0.000 180.339 -165.463 17.564 -11.751 -6.394 3.613 0.603 1.044 0.849 0.568
+/home/burak/coco_dataset/foreground_objects/Hibiscus-PNG-HD.png 3.000 0.000 153.512 261.188 -0.729 -0.322 -23.227 3.850 0.639 0.783 1.022 0.684
+/home/burak/coco_dataset/foreground_objects/Suit-Transparent-Background.png 3.000 0.000 209.293 292.635 9.254 -17.090 19.041 -37.950 1.022 1.030 0.461 1.102
+/home/burak/coco_dataset/foreground_objects/5a26af60087102040a95d495.png 3.000 0.000 281.760 -192.921 -16.255 10.492 -18.248 12.474 0.614 0.507 0.560 0.766
+/home/burak/coco_dataset/unlabeled2017_png/000000190421.png 3.000 0.000 123.201 -395.454 4.650 -21.326 2.061 -7.284 0.234 0.359 0.239 0.240
+/home/burak/coco_dataset/unlabeled2017_png/000000188708.png 3.000 0.000 358.859 798.125 -0.569 1.565 0.979 -0.537 0.318 0.575 0.399 0.397
+/home/burak/coco_dataset/foreground_objects/Fur-Lined-Leather-Jacket-PNG-Pic.png 3.000 0.000 255.736 737.380 0.366 -0.815 -0.228 0.420 0.889 0.801 1.102 1.022
+/home/burak/coco_dataset/unlabeled2017_png/000000190373.png 3.000 0.000 120.001 184.548 -8.371 3.593 23.574 -10.447 0.550 0.599 0.200 0.222
+/home/burak/coco_dataset/unlabeled2017_png/000000192125.png 3.000 0.000 283.138 143.439 0.189 0.363 1.701 -0.790 0.427 0.547 0.260 0.269
+/home/burak/coco_dataset/foreground_objects/Sunflower-Transparent-PNG.png 3.000 0.000 166.311 -104.976 -0.075 1.753 0.842 -0.941 0.973 0.715 0.795 1.125
+/home/burak/coco_dataset/unlabeled2017_png/000000190101.png 3.000 0.000 159.378 -167.763 3.064 -3.472 -4.819 5.943 0.346 0.481 0.402 0.479
+/home/burak/coco_dataset/unlabeled2017_png/000000189755.png 3.000 0.000 184.715 313.778 -0.143 -0.777 -0.511 1.683 0.346 0.339 0.362 0.225

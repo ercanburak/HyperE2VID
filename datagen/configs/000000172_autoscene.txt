@@ -1,0 +1,6 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000087645.jpg 3.000 0.000 290.613 333.559 -0.031 -0.040 -0.254 -0.419 1.477 1.028 1.282 1.390
+/home/burak/coco_dataset/foreground_objects/Barley-Transparent-PNG.png 3.000 0.000 234.351 237.702 0.320 -0.722 0.092 0.788 1.087 0.751 0.536 0.733
+/home/burak/coco_dataset/unlabeled2017_png/000000190034.png 3.000 0.000 106.495 58.349 -0.327 -0.378 -0.062 0.051 0.203 0.462 0.589 0.545
+/home/burak/coco_dataset/unlabeled2017_png/000000192366.png 3.000 0.000 183.966 207.388 -0.218 0.628 -0.131 0.301 0.216 0.491 0.482 0.305
+/home/burak/coco_dataset/foreground_objects/5a00d03c0e8525eec2752fd1.png 3.000 0.000 227.936 222.921 -0.297 -0.302 -0.299 -0.223 0.816 0.574 0.500 1.184

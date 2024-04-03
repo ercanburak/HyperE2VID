@@ -1,0 +1,20 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000310548.jpg 3.000 0.000 210.587 306.880 0.266 0.275 0.251 0.636 1.337 1.329 1.452 1.082
+/home/burak/coco_dataset/unlabeled2017_png/000000192131.png 3.000 0.000 187.060 -211.865 -1.082 0.583 -4.016 0.803 0.589 0.451 0.472 0.419
+/home/burak/coco_dataset/foreground_objects/Honey-PNG-Photos.png 3.000 0.000 148.972 -174.578 2.676 -13.383 -1.212 7.145 1.023 0.452 1.117 0.450
+/home/burak/coco_dataset/unlabeled2017_png/000000189130.png 3.000 0.000 289.022 122.275 -4.321 4.247 -4.258 3.544 0.530 0.568 0.329 0.494
+/home/burak/coco_dataset/unlabeled2017_png/000000000232.png 3.000 0.000 135.582 -157.142 0.033 0.586 1.845 -5.184 0.282 0.472 0.255 0.457
+/home/burak/coco_dataset/unlabeled2017_png/000000188374.png 3.000 0.000 3.134 -128.957 -0.480 3.881 0.379 -0.645 0.463 0.523 0.301 0.236
+/home/burak/coco_dataset/foreground_objects/Camomile-Flower-PNG.png 3.000 0.000 296.689 509.504 -0.592 0.947 2.265 -3.059 1.055 0.885 0.999 0.569
+/home/burak/coco_dataset/foreground_objects/Cow-PNG-Free-Download.png 3.000 0.000 153.882 51.649 0.207 -1.923 -0.866 5.047 0.882 0.405 1.138 0.889
+/home/burak/coco_dataset/foreground_objects/Husky-PNG-Transparent-File.png 3.000 0.000 60.400 -324.376 0.851 -0.514 0.322 -0.702 0.766 0.402 0.519 0.439
+/home/burak/coco_dataset/foreground_objects/Chips-PNG-Pic.png 3.000 0.000 174.305 -71.525 8.610 -4.033 -1.037 0.704 0.657 0.419 0.435 0.706
+/home/burak/coco_dataset/unlabeled2017_png/000000189329.png 3.000 0.000 338.964 700.893 -3.102 1.718 -6.710 3.492 0.377 0.461 0.403 0.429
+/home/burak/coco_dataset/foreground_objects/Sheep-PNG-Transparent-File.png 3.000 0.000 220.929 -191.586 2.254 -1.607 2.738 -2.701 0.775 1.042 1.063 1.113
+/home/burak/coco_dataset/unlabeled2017_png/000000192073.png 3.000 0.000 356.490 50.689 0.687 -0.615 2.404 -2.411 0.373 0.559 0.328 0.373
+/home/burak/coco_dataset/unlabeled2017_png/000000190613.png 3.000 0.000 70.881 392.084 -0.257 2.921 1.554 -8.621 0.521 0.427 0.513 0.411
+/home/burak/coco_dataset/foreground_objects/Common-Raven-PNG-Clipart.png 3.000 0.000 129.822 424.230 -4.851 1.122 -6.452 1.109 1.002 0.978 0.796 0.583
+/home/burak/coco_dataset/foreground_objects/Jar-PNG-Picture.png 3.000 0.000 278.259 453.428 0.928 -0.164 -6.581 5.121 0.714 0.989 0.562 1.146
+/home/burak/coco_dataset/foreground_objects/chair1.png 3.000 0.000 198.771 390.373 8.724 -4.655 3.177 -1.936 0.942 0.705 1.138 1.030
+/home/burak/coco_dataset/unlabeled2017_png/000000190582.png 3.000 0.000 128.425 356.942 -3.328 0.816 2.044 -0.054 0.422 0.578 0.589 0.238
+/home/burak/coco_dataset/unlabeled2017_png/000000192425.png 3.000 0.000 237.664 392.394 4.594 -2.506 2.803 -2.125 0.590 0.507 0.367 0.404

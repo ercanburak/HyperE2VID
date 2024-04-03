@@ -1,0 +1,11 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000229880.jpg 3.000 0.000 229.003 229.194 0.394 -0.485 0.234 0.581 1.226 1.147 1.475 1.337
+/home/burak/coco_dataset/foreground_objects/5c6404aee4b8dd029ff25b55.png 3.000 0.000 118.507 202.877 0.210 -1.013 -0.640 1.081 0.689 1.048 0.933 0.694
+/home/burak/coco_dataset/foreground_objects/5a00dcf30e8525eec2752ffb.png 3.000 0.000 335.658 229.129 1.334 -1.234 2.075 -0.558 0.819 0.721 1.091 0.872
+/home/burak/coco_dataset/unlabeled2017_png/000000187998.png 3.000 0.000 92.427 157.023 -3.703 0.704 1.091 -0.464 0.566 0.343 0.345 0.306
+/home/burak/coco_dataset/unlabeled2017_png/000000189909.png 3.000 0.000 301.743 298.988 -1.939 0.123 1.788 -0.217 0.484 0.431 0.263 0.355
+/home/burak/coco_dataset/unlabeled2017_png/000000191952.png 3.000 0.000 111.330 117.521 -0.107 -1.057 -0.390 3.546 0.436 0.330 0.214 0.241
+/home/burak/coco_dataset/foreground_objects/Octopus-Toy-PNG-Photos.png 3.000 0.000 309.988 402.578 0.821 -0.286 -1.044 0.554 0.445 0.529 0.503 0.745
+/home/burak/coco_dataset/foreground_objects/Ice-Drink-Transparent-Background.png 3.000 0.000 107.780 38.298 0.363 0.521 -0.768 0.951 0.555 1.174 0.783 1.146
+/home/burak/coco_dataset/foreground_objects/horse.png 3.000 0.000 313.511 192.636 -0.883 -0.365 -2.934 0.645 0.444 0.567 0.553 0.877
+/home/burak/coco_dataset/unlabeled2017_png/000000190358.png 3.000 0.000 284.351 166.385 -0.863 1.597 1.087 -1.059 0.589 0.415 0.377 0.366

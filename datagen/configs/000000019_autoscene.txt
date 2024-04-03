@@ -1,0 +1,17 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000467329.jpg 3.000 0.000 347.080 391.285 -0.907 0.123 -0.549 -0.338 1.378 1.117 1.162 1.071
+/home/burak/coco_dataset/foreground_objects/Mayfly-PNG-Transparent-Image.png 3.000 0.000 129.482 280.985 1.475 -0.754 -7.119 2.140 0.428 0.593 1.002 0.418
+/home/burak/coco_dataset/unlabeled2017_png/000000188760.png 3.000 0.000 336.606 388.871 4.334 -3.967 6.717 -4.440 0.599 0.500 0.443 0.477
+/home/burak/coco_dataset/foreground_objects/chair1.png 3.000 0.000 81.223 -197.467 0.881 -6.513 -0.286 1.042 0.553 0.456 0.921 0.412
+/home/burak/coco_dataset/foreground_objects/Fashionable-Women-Wearing-Sunglasses-PNG.png 3.000 0.000 275.238 -286.031 2.562 -8.986 -0.585 0.642 1.184 0.632 1.028 0.628
+/home/burak/coco_dataset/unlabeled2017_png/000000189636.png 3.000 0.000 193.829 -269.088 -0.033 -0.663 0.998 -1.034 0.459 0.442 0.200 0.515
+/home/burak/coco_dataset/unlabeled2017_png/000000192310.png 3.000 0.000 75.398 344.431 1.333 -2.214 -4.229 7.788 0.229 0.428 0.577 0.339
+/home/burak/coco_dataset/unlabeled2017_png/000000188357.png 3.000 0.000 212.596 327.560 -10.477 2.922 -6.677 2.624 0.589 0.278 0.339 0.491
+/home/burak/coco_dataset/foreground_objects/Sheep-PNG-Transparent-File.png 3.000 0.000 273.217 69.772 -0.152 -2.120 -0.009 -2.864 0.766 0.910 1.098 0.656
+/home/burak/coco_dataset/unlabeled2017_png/000000000032.png 3.000 0.000 301.410 -48.169 -1.174 5.197 1.641 -4.583 0.238 0.531 0.270 0.409
+/home/burak/coco_dataset/foreground_objects/trump.png 3.000 0.000 305.566 394.343 -18.161 6.226 -19.012 7.161 0.410 0.702 0.765 0.450
+/home/burak/coco_dataset/foreground_objects/spider2.png 3.000 0.000 254.015 747.526 -9.332 3.970 8.701 -3.791 1.036 0.672 1.102 1.026
+/home/burak/coco_dataset/unlabeled2017_png/000000189250.png 3.000 0.000 41.019 -104.708 -10.488 4.941 13.425 -5.954 0.581 0.416 0.280 0.464
+/home/burak/coco_dataset/foreground_objects/Scorpion-PNG-Free-Download.png 3.000 0.000 0.914 -542.852 -0.286 0.458 -0.701 -0.170 0.641 1.082 0.622 0.847
+/home/burak/coco_dataset/foreground_objects/Chicken-Transparent-PNG.png 3.000 0.000 136.229 572.675 -0.741 2.606 -1.875 15.636 1.134 0.635 1.127 0.834
+/home/burak/coco_dataset/unlabeled2017_png/000000191055.png 3.000 0.000 73.681 480.954 3.306 -0.591 33.024 -4.593 0.222 0.586 0.254 0.220

@@ -1,0 +1,12 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000430013.jpg 3.000 0.000 249.044 291.279 0.252 0.508 0.377 -0.065 1.166 1.027 1.154 1.457
+/home/burak/coco_dataset/foreground_objects/Engineer-PNG-Transparent-Photo.png 3.000 0.000 118.809 -140.487 -4.209 1.842 1.372 -1.040 0.487 0.917 0.705 0.772
+/home/burak/coco_dataset/foreground_objects/5aed6bc26554160a79be9ff3.png 3.000 0.000 83.439 432.621 -1.528 2.193 -6.567 5.337 0.700 0.446 0.600 0.498
+/home/burak/coco_dataset/unlabeled2017_png/000000000580.png 3.000 0.000 92.877 -267.267 -2.354 2.527 -1.621 2.122 0.589 0.419 0.378 0.315
+/home/burak/coco_dataset/unlabeled2017_png/000000190669.png 3.000 0.000 222.958 601.435 -0.367 -0.469 -0.338 -0.511 0.500 0.348 0.206 0.329
+/home/burak/coco_dataset/foreground_objects/Khaki-Pant-PNG-Picture.png 3.000 0.000 125.849 456.310 -3.955 0.781 -1.317 0.111 0.906 0.779 0.777 0.681
+/home/burak/coco_dataset/foreground_objects/triceratops.png 3.000 0.000 118.979 -47.031 1.753 -0.964 13.864 -5.802 0.983 1.094 0.482 0.955
+/home/burak/coco_dataset/unlabeled2017_png/000000190489.png 3.000 0.000 145.651 -64.954 1.090 -2.056 -1.029 2.318 0.211 0.207 0.585 0.375
+/home/burak/coco_dataset/foreground_objects/Carne-Asada-PNG-File.png 3.000 0.000 132.078 -258.842 0.486 0.295 0.599 -0.119 1.049 0.792 0.830 0.986
+/home/burak/coco_dataset/unlabeled2017_png/000000188770.png 3.000 0.000 143.360 404.898 2.119 0.018 -2.312 0.178 0.264 0.353 0.319 0.509
+/home/burak/coco_dataset/unlabeled2017_png/000000191745.png 3.000 0.000 81.257 411.244 0.318 0.388 -0.202 -0.180 0.383 0.548 0.221 0.520

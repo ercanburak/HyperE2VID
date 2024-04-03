@@ -1,0 +1,6 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000229721.jpg 3.000 0.000 13.365 24.325 0.486 0.266 0.091 0.280 1.084 1.080 1.072 1.030
+/home/burak/coco_dataset/unlabeled2017_png/000000190300.png 3.000 0.000 203.457 232.775 0.923 -0.041 -1.166 0.563 0.326 0.493 0.205 0.297
+/home/burak/coco_dataset/foreground_objects/Beach-PNG-Pic.png 3.000 0.000 63.634 98.320 -0.450 -0.352 0.209 0.242 1.019 0.698 0.630 0.895
+/home/burak/coco_dataset/unlabeled2017_png/000000189066.png 3.000 0.000 52.460 32.517 -0.697 -0.139 -0.114 0.056 0.559 0.311 0.541 0.437
+/home/burak/coco_dataset/foreground_objects/5c0fce4c1e49f004df5e386f.png 3.000 0.000 178.789 223.732 -0.286 -0.238 -0.370 0.505 0.981 0.740 0.433 0.524

@@ -1,0 +1,23 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000100278.jpg 3.000 0.000 279.846 517.683 0.230 -0.854 0.358 0.341 1.433 1.078 1.001 1.251
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b2922.png 3.000 0.000 224.599 462.529 1.430 -4.204 0.685 -2.284 1.065 0.418 0.662 0.693
+/home/burak/coco_dataset/foreground_objects/5a0586a79cf05203c4b603ca.png 3.000 0.000 315.413 748.365 -5.083 10.877 0.546 -1.064 0.552 0.794 0.593 0.706
+/home/burak/coco_dataset/unlabeled2017_png/000000189554.png 3.000 0.000 34.084 617.865 9.296 -12.935 -3.611 5.928 0.406 0.244 0.294 0.331
+/home/burak/coco_dataset/unlabeled2017_png/000000191768.png 3.000 0.000 263.136 428.148 -1.459 9.208 -2.230 17.325 0.349 0.414 0.329 0.496
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b27b2.png 3.000 0.000 25.280 -246.005 -0.137 1.396 -3.560 11.665 0.510 1.042 0.567 0.788
+/home/burak/coco_dataset/unlabeled2017_png/000000190947.png 3.000 0.000 135.802 64.513 6.736 -17.335 2.373 -4.884 0.364 0.368 0.378 0.413
+/home/burak/coco_dataset/foreground_objects/58da61295f58be1227aec947.png 3.000 0.000 345.610 84.607 1.369 -1.443 -2.733 1.973 1.095 1.103 0.701 1.169
+/home/burak/coco_dataset/unlabeled2017_png/000000189385.png 3.000 0.000 334.444 163.045 -0.017 0.160 -0.141 0.519 0.373 0.362 0.468 0.235
+/home/burak/coco_dataset/unlabeled2017_png/000000190522.png 3.000 0.000 231.846 447.426 -0.214 0.949 0.344 -1.043 0.225 0.501 0.394 0.554
+/home/burak/coco_dataset/unlabeled2017_png/000000191793.png 3.000 0.000 196.274 40.471 -21.177 6.476 11.226 -3.756 0.458 0.460 0.565 0.207
+/home/burak/coco_dataset/foreground_objects/Kingfisher-Background-PNG.png 3.000 0.000 40.538 74.872 22.684 -20.688 6.171 -4.928 0.975 0.569 0.836 0.931
+/home/burak/coco_dataset/unlabeled2017_png/000000189729.png 3.000 0.000 349.171 525.066 -4.525 20.801 3.298 -19.300 0.580 0.521 0.257 0.542
+/home/burak/coco_dataset/foreground_objects/Lawyer-Transparent-PNG.png 3.000 0.000 210.677 284.124 -3.628 3.804 -7.137 6.611 0.538 1.089 0.786 1.007
+/home/burak/coco_dataset/foreground_objects/Starling-PNG-Image.png 3.000 0.000 174.602 -132.482 15.104 -8.083 7.190 -3.315 0.917 1.003 0.856 0.481
+/home/burak/coco_dataset/unlabeled2017_png/000000188072.png 3.000 0.000 130.284 -28.494 -0.812 2.914 -0.848 0.855 0.486 0.429 0.280 0.529
+/home/burak/coco_dataset/foreground_objects/Clams-PNG-Transparent.png 3.000 0.000 98.310 -32.296 -5.444 13.492 -2.087 7.025 0.813 0.986 1.030 0.838
+/home/burak/coco_dataset/foreground_objects/5a019a827ca233f48ba62757.png 3.000 0.000 75.506 -454.707 -4.033 1.956 12.083 -3.606 0.481 1.195 0.711 0.858
+/home/burak/coco_dataset/unlabeled2017_png/000000189216.png 3.000 0.000 0.954 474.044 -11.867 8.353 8.629 -7.074 0.507 0.279 0.418 0.404
+/home/burak/coco_dataset/foreground_objects/Mallard-Transparent-Background.png 3.000 0.000 318.689 112.425 -1.410 0.706 7.824 -2.545 0.927 1.113 0.851 0.542
+/home/burak/coco_dataset/foreground_objects/Horned-Lizard-PNG-Transparent.png 3.000 0.000 59.170 -207.934 0.301 -0.910 0.093 0.296 0.838 0.429 1.163 0.710
+/home/burak/coco_dataset/unlabeled2017_png/000000188912.png 3.000 0.000 236.522 -281.423 0.002 -0.492 0.259 0.016 0.337 0.522 0.405 0.523

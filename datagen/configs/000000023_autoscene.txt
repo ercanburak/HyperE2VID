@@ -1,0 +1,14 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000242289.jpg 3.000 0.000 152.368 -56.071 0.502 0.372 0.106 -0.447 1.396 1.281 1.127 1.057
+/home/burak/coco_dataset/unlabeled2017_png/000000187985.png 3.000 0.000 4.429 423.823 -11.958 13.998 -16.993 20.851 0.289 0.215 0.346 0.448
+/home/burak/coco_dataset/foreground_objects/Desert-PNG-Photo-Image.png 3.000 0.000 74.625 -56.922 4.291 -2.593 1.730 -0.348 0.827 0.788 0.578 1.113
+/home/burak/coco_dataset/unlabeled2017_png/000000000280.png 3.000 0.000 13.165 536.706 11.616 -4.687 -14.371 5.610 0.463 0.227 0.362 0.373
+/home/burak/coco_dataset/foreground_objects/Shark-PNG-Picture.png 3.000 0.000 46.432 609.381 -0.525 2.092 -0.004 0.544 1.060 1.080 1.017 1.079
+/home/burak/coco_dataset/unlabeled2017_png/000000188194.png 3.000 0.000 70.505 121.938 -20.019 9.272 -2.284 1.560 0.592 0.395 0.561 0.295
+/home/burak/coco_dataset/unlabeled2017_png/000000189708.png 3.000 0.000 272.223 366.859 -0.346 -0.460 -0.111 -0.253 0.415 0.537 0.318 0.428
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b284c.png 3.000 0.000 101.085 399.586 0.126 0.163 0.583 -0.428 0.839 0.468 0.962 0.700
+/home/burak/coco_dataset/unlabeled2017_png/000000190335.png 3.000 0.000 44.238 -531.178 -8.026 7.487 1.716 -2.001 0.305 0.593 0.503 0.217
+/home/burak/coco_dataset/foreground_objects/Labrador-PNG-Picture.png 3.000 0.000 203.080 37.215 -2.140 7.868 1.868 -7.589 1.182 0.932 1.093 0.683
+/home/burak/coco_dataset/unlabeled2017_png/000000191788.png 3.000 0.000 225.971 612.378 5.111 -0.526 -10.246 1.928 0.445 0.488 0.416 0.530
+/home/burak/coco_dataset/foreground_objects/Ladybird-PNG-Transparent-HD-Photo.png 3.000 0.000 337.415 854.163 10.758 -1.129 1.701 0.165 0.445 0.621 1.108 0.539
+/home/burak/coco_dataset/foreground_objects/Marigold-PNG-File.png 3.000 0.000 345.774 857.330 7.792 -17.080 2.067 -5.073 0.847 1.197 0.999 0.487

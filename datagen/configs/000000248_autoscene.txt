@@ -1,0 +1,5 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000024645.jpg 3.000 0.000 169.428 186.422 0.118 0.382 0.475 0.341 1.304 1.069 1.339 1.370
+/home/burak/coco_dataset/foreground_objects/Common-Raven-PNG-Clipart.png 3.000 0.000 64.857 96.407 -0.204 -0.494 -0.254 -0.211 0.575 0.760 1.116 1.168
+/home/burak/coco_dataset/unlabeled2017_png/000000187786.png 3.000 0.000 37.315 41.716 0.178 -0.081 0.160 0.132 0.360 0.215 0.417 0.301
+/home/burak/coco_dataset/foreground_objects/59db60c63752880e93e16eda.png 3.000 0.000 86.706 70.908 0.352 -0.217 0.195 0.411 0.809 1.110 0.749 0.589

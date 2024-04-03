@@ -1,0 +1,4 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000400665.jpg 3.000 0.000 312.659 269.615 0.087 0.147 -0.228 -0.329 1.487 1.371 1.071 1.146
+/home/burak/coco_dataset/foreground_objects/Gabriella-Wilde-Transparent-PNG.png 3.000 0.000 244.592 279.617 0.437 -0.217 0.554 -0.025 0.603 1.168 0.551 0.418
+/home/burak/coco_dataset/unlabeled2017_png/000000187782.png 3.000 0.000 182.757 184.839 -0.083 0.434 -0.254 -0.215 0.472 0.429 0.380 0.484

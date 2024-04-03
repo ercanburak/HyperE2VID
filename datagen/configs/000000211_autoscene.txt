@@ -1,0 +1,16 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000223080.jpg 3.000 0.000 117.723 518.167 0.217 0.428 0.579 -0.422 1.216 1.490 1.215 1.484
+/home/burak/coco_dataset/unlabeled2017_png/000000000211.png 3.000 0.000 318.727 345.084 -0.010 0.549 4.648 -10.805 0.508 0.566 0.544 0.232
+/home/burak/coco_dataset/foreground_objects/5aed6bc26554160a79be9ff3.png 3.000 0.000 53.277 -120.902 0.007 1.411 4.882 -17.759 0.843 0.976 0.437 0.597
+/home/burak/coco_dataset/unlabeled2017_png/000000000473.png 3.000 0.000 227.394 586.570 -5.595 5.050 2.893 -2.910 0.235 0.241 0.354 0.342
+/home/burak/coco_dataset/foreground_objects/Sneakers-PNG-Background-Image.png 3.000 0.000 71.566 274.296 4.629 -0.287 2.857 -0.775 0.629 0.604 0.856 0.940
+/home/burak/coco_dataset/unlabeled2017_png/000000192076.png 3.000 0.000 105.287 162.182 -0.068 -0.409 -13.763 4.098 0.473 0.416 0.249 0.416
+/home/burak/coco_dataset/foreground_objects/Parents-PNG-Pic.png 3.000 0.000 331.626 -87.926 -20.316 4.166 -17.256 3.829 0.488 1.158 1.118 1.151
+/home/burak/coco_dataset/unlabeled2017_png/000000190260.png 3.000 0.000 193.718 128.154 19.759 -1.993 -24.141 2.848 0.309 0.412 0.333 0.330
+/home/burak/coco_dataset/unlabeled2017_png/000000189825.png 3.000 0.000 295.764 545.535 -18.679 4.406 -12.012 3.278 0.554 0.422 0.336 0.549
+/home/burak/coco_dataset/unlabeled2017_png/000000192435.png 3.000 0.000 317.316 -134.657 2.258 -1.197 0.378 -0.925 0.350 0.228 0.333 0.240
+/home/burak/coco_dataset/foreground_objects/Angelfish-Transparent-PNG.png 3.000 0.000 259.106 773.388 -6.335 1.289 -3.195 0.648 0.714 0.475 0.498 1.165
+/home/burak/coco_dataset/foreground_objects/Polar-Bear-PNG-Image.png 3.000 0.000 96.874 671.938 -22.171 8.291 -20.799 7.856 0.455 0.767 0.689 0.567
+/home/burak/coco_dataset/foreground_objects/Easter-Rabbit-PNG-Pic.png 3.000 0.000 83.884 -147.046 0.556 -2.801 4.069 -11.204 0.539 0.696 0.939 1.077
+/home/burak/coco_dataset/unlabeled2017_png/000000190294.png 3.000 0.000 293.202 504.726 0.036 -0.643 -1.461 1.154 0.459 0.532 0.487 0.539
+/home/burak/coco_dataset/foreground_objects/Barn-Owl-PNG-Picture.png 3.000 0.000 131.968 280.078 1.330 -1.074 2.495 -0.808 0.892 0.786 0.790 1.164

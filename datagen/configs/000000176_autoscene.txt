@@ -1,0 +1,7 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000436573.jpg 3.000 0.000 194.449 144.937 -0.131 -0.001 0.010 0.281 1.206 1.199 1.022 1.391
+/home/burak/coco_dataset/foreground_objects/Rain-Boot-PNG-Transparent-Image.png 3.000 0.000 209.025 249.614 -0.515 0.705 0.709 -1.099 0.654 0.709 0.778 0.963
+/home/burak/coco_dataset/foreground_objects/Suit-Transparent-Background.png 3.000 0.000 245.855 205.760 -0.219 0.351 0.622 -0.291 0.590 0.759 0.476 0.680
+/home/burak/coco_dataset/unlabeled2017_png/000000191653.png 3.000 0.000 119.802 103.459 -0.403 -0.358 0.338 0.455 0.333 0.449 0.240 0.339
+/home/burak/coco_dataset/foreground_objects/Barn-Swallow-PNG-Clipart.png 3.000 0.000 140.941 139.211 -0.852 0.132 -0.007 -0.373 0.793 0.548 0.916 0.965
+/home/burak/coco_dataset/unlabeled2017_png/000000192242.png 3.000 0.000 54.969 22.867 -0.644 1.407 -0.386 -0.232 0.316 0.208 0.202 0.351

@@ -1,0 +1,18 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000523141.jpg 3.000 0.000 67.226 74.715 0.159 0.567 -0.102 -0.069 1.308 1.478 1.356 1.428
+/home/burak/coco_dataset/unlabeled2017_png/000000187985.png 3.000 0.000 161.347 -8.731 -2.061 0.544 0.815 -0.109 0.348 0.457 0.300 0.393
+/home/burak/coco_dataset/foreground_objects/horse.png 3.000 0.000 35.264 434.135 -13.188 2.058 -4.590 0.498 1.166 0.988 1.118 0.873
+/home/burak/coco_dataset/foreground_objects/5a01ed1e18e87004f1ca4305.png 3.000 0.000 24.811 228.221 0.945 -0.880 2.763 -2.599 1.072 0.578 0.976 1.025
+/home/burak/coco_dataset/foreground_objects/basket.png 3.000 0.000 241.533 511.450 0.267 -0.870 0.186 0.664 0.779 0.797 0.508 0.580
+/home/burak/coco_dataset/unlabeled2017_png/000000188700.png 3.000 0.000 305.183 170.082 -8.633 4.362 3.900 -2.078 0.324 0.494 0.360 0.510
+/home/burak/coco_dataset/foreground_objects/5a26af4c087102040a95d493.png 3.000 0.000 30.853 389.037 -0.793 0.244 0.218 0.486 1.031 0.406 0.441 1.192
+/home/burak/coco_dataset/unlabeled2017_png/000000188848.png 3.000 0.000 66.910 -156.018 1.825 -1.326 -0.304 0.620 0.310 0.401 0.588 0.495
+/home/burak/coco_dataset/unlabeled2017_png/000000188213.png 3.000 0.000 178.727 -263.704 3.483 -1.303 -4.056 1.218 0.567 0.575 0.246 0.484
+/home/burak/coco_dataset/unlabeled2017_png/000000191111.png 3.000 0.000 244.538 -21.470 3.741 -9.388 1.371 -3.561 0.522 0.243 0.454 0.434
+/home/burak/coco_dataset/unlabeled2017_png/000000188355.png 3.000 0.000 203.584 -205.791 -1.624 0.966 3.324 -0.499 0.587 0.285 0.208 0.508
+/home/burak/coco_dataset/foreground_objects/Sparrow-PNG-Photos.png 3.000 0.000 48.718 -204.486 2.100 -3.218 -2.610 3.545 1.138 0.830 0.958 0.413
+/home/burak/coco_dataset/foreground_objects/58b062948a4b5bbbc8492956.png 3.000 0.000 36.641 362.179 -3.618 1.334 -1.385 0.429 1.071 0.484 0.940 1.039
+/home/burak/coco_dataset/unlabeled2017_png/000000187998.png 3.000 0.000 63.656 -210.616 1.537 -0.473 -4.070 1.021 0.489 0.251 0.491 0.467
+/home/burak/coco_dataset/unlabeled2017_png/000000188736.png 3.000 0.000 96.939 235.894 1.939 -0.192 0.015 -0.039 0.310 0.434 0.268 0.485
+/home/burak/coco_dataset/foreground_objects/Bald-Eagle-Transparent-Images-PNG.png 3.000 0.000 46.933 -336.072 -3.966 6.884 3.589 -5.394 1.175 0.883 0.822 1.014
+/home/burak/coco_dataset/foreground_objects/5a00d06b0e8525eec2752fd3.png 3.000 0.000 53.487 -63.423 0.959 -0.023 2.764 -1.817 0.689 0.427 0.623 0.883

@@ -1,0 +1,11 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000058328.jpg 3.000 0.000 192.769 328.826 -0.309 0.205 -0.271 -0.281 1.244 1.180 1.110 1.180
+/home/burak/coco_dataset/unlabeled2017_png/000000188573.png 3.000 0.000 323.948 432.935 1.531 -1.326 0.320 0.351 0.460 0.304 0.361 0.273
+/home/burak/coco_dataset/foreground_objects/fish1.png 3.000 0.000 345.120 258.767 -0.138 -0.098 -0.408 -0.389 0.690 0.544 0.552 0.534
+/home/burak/coco_dataset/unlabeled2017_png/000000191437.png 3.000 0.000 124.754 -15.750 -0.747 0.999 -0.149 -0.329 0.435 0.376 0.202 0.391
+/home/burak/coco_dataset/unlabeled2017_png/000000192373.png 3.000 0.000 79.738 29.018 0.037 0.184 0.967 -0.827 0.511 0.488 0.437 0.413
+/home/burak/coco_dataset/foreground_objects/Pterosaurs-Transparent-Background.png 3.000 0.000 44.449 87.820 0.662 -0.441 -0.476 0.585 0.786 0.897 0.470 0.665
+/home/burak/coco_dataset/unlabeled2017_png/000000188664.png 3.000 0.000 120.022 75.435 0.080 -0.305 0.471 0.241 0.428 0.570 0.325 0.498
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b2766.png 3.000 0.000 275.936 347.548 0.531 -1.082 -0.388 0.707 1.067 0.853 1.167 0.639
+/home/burak/coco_dataset/foreground_objects/chicken2.png 3.000 0.000 250.175 387.364 -0.725 0.272 -0.319 -0.109 0.728 0.880 1.098 0.403
+/home/burak/coco_dataset/foreground_objects/Clams-PNG-Transparent.png 3.000 0.000 270.861 157.386 -1.731 1.868 0.366 -0.356 0.437 0.617 0.593 0.990

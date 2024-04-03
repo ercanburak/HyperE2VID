@@ -1,0 +1,7 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000029232.jpg 3.000 0.000 80.384 -32.336 -0.462 -0.103 -0.517 -0.099 1.301 1.211 1.455 1.195
+/home/burak/coco_dataset/foreground_objects/Reindeer-PNG-Transparent-Image.png 3.000 0.000 132.344 115.772 0.319 -1.144 -0.028 -0.280 0.937 0.807 1.182 1.000
+/home/burak/coco_dataset/unlabeled2017_png/000000191324.png 3.000 0.000 335.624 300.815 -0.090 0.957 -0.453 2.353 0.473 0.585 0.297 0.311
+/home/burak/coco_dataset/foreground_objects/Mussel-Transparent-Background.png 3.000 0.000 140.891 187.169 -0.941 1.463 -0.997 1.986 0.419 1.078 0.924 1.159
+/home/burak/coco_dataset/unlabeled2017_png/000000189408.png 3.000 0.000 248.938 306.524 1.411 -1.587 -0.606 -0.077 0.323 0.254 0.324 0.562
+/home/burak/coco_dataset/foreground_objects/chair1.png 3.000 0.000 73.775 120.672 2.152 -0.782 0.214 -0.273 0.569 0.876 0.899 0.884

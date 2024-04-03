@@ -1,0 +1,5 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000327145.jpg 3.000 0.000 123.723 121.821 -0.145 -0.042 -0.527 -0.321 1.270 1.305 1.300 1.273
+/home/burak/coco_dataset/foreground_objects/5954bf12deaf2c03413be360.png 3.000 0.000 165.256 169.924 -0.012 0.419 0.391 0.323 0.591 1.057 0.903 0.421
+/home/burak/coco_dataset/foreground_objects/Walrus-PNG-Clipart.png 3.000 0.000 221.475 203.615 0.071 -0.194 -0.252 -0.503 1.170 1.129 0.835 0.836
+/home/burak/coco_dataset/unlabeled2017_png/000000189826.png 3.000 0.000 287.801 240.550 0.244 -0.485 0.484 -0.268 0.489 0.571 0.383 0.583

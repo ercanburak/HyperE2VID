@@ -22,6 +22,7 @@ In this work we present **HyperE2VID, a dynamic neural network architecture for 
 - Model codes are published under the [model folder in this repository](model).
 - The pretrained model of HyperE2VID can be found [here](https://drive.google.com/drive/folders/1UuGnKwSz5C9di-cVH1QzSFjgTRNqpYep).
 - For evaluation and analysis of HyperE2VID model, please use the codes in [EVREAL repository](https://github.com/ercanburak/EVREAL).
+- Instructions to generate training data can be found in the [datagen folder](datagen).
 - Training codes will be published soon.
 
 ## Citations

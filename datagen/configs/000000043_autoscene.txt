@@ -1,0 +1,18 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000303711.jpg 3.000 0.000 357.114 246.583 0.295 0.055 0.022 -0.249 1.149 1.356 1.461 1.414
+/home/burak/coco_dataset/foreground_objects/5af2b1be6554160a79bea032.png 3.000 0.000 195.513 -355.775 4.420 -3.194 1.573 -2.136 1.075 0.787 0.598 0.467
+/home/burak/coco_dataset/foreground_objects/5a26af4c087102040a95d493.png 3.000 0.000 93.088 383.555 -2.380 14.296 0.376 -4.539 1.145 0.510 0.949 0.788
+/home/burak/coco_dataset/foreground_objects/Fresh-Healthy-Food-PNG-Pic.png 3.000 0.000 273.222 508.981 3.060 -9.725 -2.883 11.858 0.600 1.111 0.519 1.025
+/home/burak/coco_dataset/unlabeled2017_png/000000189719.png 3.000 0.000 1.374 25.163 -22.430 9.804 5.293 -2.334 0.559 0.234 0.471 0.266
+/home/burak/coco_dataset/unlabeled2017_png/000000188851.png 3.000 0.000 191.444 641.121 -1.965 6.019 -3.609 10.019 0.297 0.354 0.264 0.507
+/home/burak/coco_dataset/foreground_objects/5a00d06b0e8525eec2752fd3.png 3.000 0.000 120.401 544.069 5.133 -13.791 2.399 -6.541 0.928 0.627 0.906 0.584
+/home/burak/coco_dataset/foreground_objects/Mayfly-PNG-Transparent-Image.png 3.000 0.000 144.595 641.589 -1.729 0.809 1.076 0.229 0.672 1.018 0.544 0.986
+/home/burak/coco_dataset/foreground_objects/Salamander-PNG-File.png 3.000 0.000 8.159 -583.225 1.663 -0.572 10.692 -3.688 1.074 0.518 1.166 0.894
+/home/burak/coco_dataset/unlabeled2017_png/000000189309.png 3.000 0.000 135.914 647.947 13.736 -8.702 -3.099 2.204 0.319 0.347 0.281 0.407
+/home/burak/coco_dataset/unlabeled2017_png/000000189222.png 3.000 0.000 185.721 564.358 -9.979 14.772 6.286 -10.463 0.389 0.386 0.494 0.255
+/home/burak/coco_dataset/unlabeled2017_png/000000189976.png 3.000 0.000 2.193 -568.860 9.212 -35.310 -1.206 5.218 0.386 0.352 0.272 0.425
+/home/burak/coco_dataset/unlabeled2017_png/000000189873.png 3.000 0.000 137.748 -16.581 -2.183 2.915 8.908 -9.197 0.417 0.457 0.499 0.353
+/home/burak/coco_dataset/foreground_objects/Mantis-PNG-Transparent-Image.png 3.000 0.000 62.787 -141.176 0.182 -0.509 -0.357 -0.497 0.544 1.030 1.163 1.117
+/home/burak/coco_dataset/unlabeled2017_png/000000192358.png 3.000 0.000 58.405 292.088 2.872 -1.460 0.000 -0.627 0.406 0.452 0.434 0.568
+/home/burak/coco_dataset/unlabeled2017_png/000000190404.png 3.000 0.000 240.321 113.863 0.586 -2.524 -0.617 0.540 0.572 0.241 0.477 0.368
+/home/burak/coco_dataset/foreground_objects/Peony-Transparent-PNG.png 3.000 0.000 175.726 372.507 3.801 -8.338 -3.937 7.779 0.808 0.732 0.951 0.673

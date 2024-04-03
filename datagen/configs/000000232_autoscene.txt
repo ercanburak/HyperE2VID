@@ -1,0 +1,5 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000075659.jpg 3.000 0.000 261.927 260.211 -0.191 -0.292 -0.288 -0.371 1.333 1.443 1.234 1.307
+/home/burak/coco_dataset/unlabeled2017_png/000000188297.png 3.000 0.000 197.800 211.144 -0.251 -0.041 0.459 -0.913 0.302 0.342 0.401 0.540
+/home/burak/coco_dataset/foreground_objects/Raincoat-PNG-Transparent-Picture.png 3.000 0.000 354.940 317.094 0.633 -0.346 1.119 -0.469 0.533 0.599 0.838 0.885
+/home/burak/coco_dataset/foreground_objects/Autumn-Leaves-PNG-HD.png 3.000 0.000 115.912 83.702 0.519 -0.194 -0.069 -0.508 0.564 0.540 0.443 0.784

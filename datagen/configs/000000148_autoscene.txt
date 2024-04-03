@@ -1,0 +1,5 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000399070.jpg 3.000 0.000 238.538 200.131 0.240 0.116 0.344 0.418 1.084 1.109 1.122 1.491
+/home/burak/coco_dataset/foreground_objects/Shoelaces-PNG-File.png 3.000 0.000 44.487 56.407 0.633 -0.338 -0.199 -0.584 0.924 0.404 0.741 0.430
+/home/burak/coco_dataset/unlabeled2017_png/000000190276.png 3.000 0.000 133.028 128.681 0.140 0.116 -0.185 -0.466 0.465 0.428 0.229 0.553
+/home/burak/coco_dataset/foreground_objects/58c7e84ce665570916c653a9.png 3.000 0.000 69.443 110.635 -0.409 -0.264 -0.025 -0.009 0.625 0.487 0.630 0.668

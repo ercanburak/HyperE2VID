@@ -1,0 +1,10 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000286947.jpg 3.000 0.000 254.124 137.948 0.663 0.169 0.446 0.422 1.132 1.056 1.349 1.239
+/home/burak/coco_dataset/foreground_objects/59567be284b1c2079d25cb61.png 3.000 0.000 56.312 143.264 -0.799 -0.052 0.199 -0.461 1.016 0.453 0.724 1.159
+/home/burak/coco_dataset/unlabeled2017_png/000000188007.png 3.000 0.000 347.591 420.763 -0.046 -0.551 0.123 -0.906 0.446 0.396 0.209 0.400
+/home/burak/coco_dataset/unlabeled2017_png/000000189632.png 3.000 0.000 306.579 446.618 0.085 -0.085 0.170 0.342 0.251 0.280 0.214 0.202
+/home/burak/coco_dataset/foreground_objects/Goldfish-PNG-Free-Download.png 3.000 0.000 251.515 264.560 0.088 0.046 -0.381 -0.381 0.436 0.942 1.144 0.951
+/home/burak/coco_dataset/foreground_objects/chair1.png 3.000 0.000 349.637 271.808 0.673 0.216 0.467 0.103 0.571 0.542 0.721 1.059
+/home/burak/coco_dataset/unlabeled2017_png/000000192393.png 3.000 0.000 174.909 96.869 -0.592 0.439 0.604 -0.145 0.276 0.589 0.324 0.557
+/home/burak/coco_dataset/foreground_objects/Floral-Dress-PNG-File.png 3.000 0.000 248.670 178.474 0.496 0.001 0.101 0.050 0.980 0.807 0.732 0.554
+/home/burak/coco_dataset/unlabeled2017_png/000000190039.png 3.000 0.000 291.843 146.147 0.930 -1.541 -0.895 0.603 0.246 0.541 0.360 0.399

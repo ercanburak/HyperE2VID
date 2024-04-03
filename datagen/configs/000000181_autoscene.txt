@@ -1,0 +1,17 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000453343.jpg 3.000 0.000 7.412 -57.425 -0.164 0.414 -0.127 0.471 1.230 1.323 1.485 1.147
+/home/burak/coco_dataset/unlabeled2017_png/000000189909.png 3.000 0.000 204.281 567.750 -9.940 10.998 2.990 -3.225 0.413 0.452 0.324 0.393
+/home/burak/coco_dataset/unlabeled2017_png/000000188848.png 3.000 0.000 208.548 495.320 5.189 -6.783 1.632 -1.853 0.469 0.203 0.512 0.287
+/home/burak/coco_dataset/foreground_objects/5a902068b15d5c051b369056.png 3.000 0.000 102.572 -238.292 -3.889 13.374 0.308 -2.284 0.442 0.458 1.124 0.558
+/home/burak/coco_dataset/foreground_objects/Marigold-PNG-File.png 3.000 0.000 130.298 -164.454 4.685 -2.972 -5.405 3.826 0.818 0.410 1.127 1.038
+/home/burak/coco_dataset/unlabeled2017_png/000000188895.png 3.000 0.000 202.097 -68.694 0.033 1.193 1.440 -4.745 0.528 0.314 0.253 0.510
+/home/burak/coco_dataset/foreground_objects/Chicken-Transparent-PNG.png 3.000 0.000 24.511 -379.726 1.116 -4.059 -1.394 3.804 0.887 1.138 0.524 0.539
+/home/burak/coco_dataset/unlabeled2017_png/000000190012.png 3.000 0.000 8.088 -242.603 -0.516 -0.190 -0.011 0.658 0.317 0.401 0.224 0.247
+/home/burak/coco_dataset/foreground_objects/5a00d05d0e8525eec2752fd2.png 3.000 0.000 24.734 152.799 1.715 -2.041 0.141 -0.500 0.536 0.900 1.060 0.622
+/home/burak/coco_dataset/unlabeled2017_png/000000187799.png 3.000 0.000 78.869 374.891 12.814 -11.191 11.465 -9.715 0.292 0.284 0.559 0.540
+/home/burak/coco_dataset/unlabeled2017_png/000000190109.png 3.000 0.000 195.481 339.206 -0.138 -1.615 -0.739 6.850 0.428 0.410 0.410 0.466
+/home/burak/coco_dataset/unlabeled2017_png/000000188399.png 3.000 0.000 161.909 385.397 -0.200 -0.640 -0.843 1.653 0.578 0.286 0.534 0.457
+/home/burak/coco_dataset/foreground_objects/Reindeer-PNG-Transparent-Image.png 3.000 0.000 284.415 389.954 -0.235 2.299 -0.311 -0.462 1.071 0.672 0.493 1.162
+/home/burak/coco_dataset/foreground_objects/58add914e612507e27bd3c13.png 3.000 0.000 337.476 774.692 -0.168 0.755 1.377 -3.504 0.520 0.828 0.727 0.812
+/home/burak/coco_dataset/foreground_objects/59bf80d47a216d0b052f12e1.png 3.000 0.000 329.955 771.614 2.741 -5.166 -0.604 1.969 0.852 0.545 0.575 0.521
+/home/burak/coco_dataset/foreground_objects/car1.png 3.000 0.000 174.716 -164.473 1.743 -6.136 -2.922 10.934 0.533 0.883 0.454 1.198

@@ -1,0 +1,7 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000196563.jpg 3.000 0.000 145.774 110.735 -0.059 0.115 -0.399 -0.319 1.225 1.405 1.203 1.397
+/home/burak/coco_dataset/foreground_objects/Rat-PNG-Photos.png 3.000 0.000 84.954 66.975 0.016 0.578 -0.836 0.759 0.487 0.585 0.694 0.885
+/home/burak/coco_dataset/unlabeled2017_png/000000190970.png 3.000 0.000 1.885 32.018 -0.332 0.114 0.606 0.090 0.221 0.593 0.255 0.563
+/home/burak/coco_dataset/foreground_objects/Gardening-Transparent-Background.png 3.000 0.000 359.689 352.414 -0.713 -0.024 -0.800 0.812 1.055 0.813 0.563 0.749
+/home/burak/coco_dataset/foreground_objects/Italian-Bread-PNG-Transparent-Image.png 3.000 0.000 84.804 99.631 0.007 -0.225 -0.663 0.238 0.725 1.150 0.922 0.555
+/home/burak/coco_dataset/unlabeled2017_png/000000189150.png 3.000 0.000 266.756 254.716 0.259 -0.578 0.041 -0.126 0.386 0.421 0.489 0.469

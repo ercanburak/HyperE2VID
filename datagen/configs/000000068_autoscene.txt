@@ -1,0 +1,5 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000495237.jpg 3.000 0.000 288.888 262.575 0.550 0.275 0.169 0.232 1.160 1.200 1.346 1.286
+/home/burak/coco_dataset/unlabeled2017_png/000000189184.png 3.000 0.000 236.158 233.797 -0.308 -0.406 -0.902 0.426 0.443 0.449 0.271 0.567
+/home/burak/coco_dataset/foreground_objects/Nescafe-PNG-Clipart.png 3.000 0.000 168.387 203.160 0.146 0.424 0.423 0.365 1.069 0.902 0.422 0.605
+/home/burak/coco_dataset/foreground_objects/5a835b71abc3d121aba71297.png 3.000 0.000 40.794 63.982 0.320 0.112 -0.324 0.192 1.055 0.676 0.413 0.907

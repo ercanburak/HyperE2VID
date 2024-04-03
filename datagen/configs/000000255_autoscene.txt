@@ -1,0 +1,12 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000101290.jpg 3.000 0.000 325.443 638.346 0.711 -0.288 -0.494 0.207 1.142 1.205 1.109 1.202
+/home/burak/coco_dataset/foreground_objects/chair1.png 3.000 0.000 115.965 -193.704 -1.047 0.124 42.052 -26.707 1.175 0.694 0.937 0.849
+/home/burak/coco_dataset/unlabeled2017_png/000000190613.png 3.000 0.000 28.576 70.902 -0.065 -0.473 0.508 -0.223 0.517 0.548 0.522 0.466
+/home/burak/coco_dataset/foreground_objects/putin.png 3.000 0.000 358.610 -107.204 13.707 -24.480 -3.872 6.428 0.552 0.980 0.932 0.671
+/home/burak/coco_dataset/unlabeled2017_png/000000191196.png 3.000 0.000 207.768 72.535 -4.765 4.212 8.748 -9.297 0.300 0.340 0.469 0.528
+/home/burak/coco_dataset/foreground_objects/5a835b9eabc3d121aba7129a.png 3.000 0.000 359.930 241.898 -8.845 10.241 -14.282 17.078 0.648 0.571 0.726 0.585
+/home/burak/coco_dataset/unlabeled2017_png/000000191180.png 3.000 0.000 235.565 -141.434 5.246 -2.429 -8.771 5.089 0.204 0.357 0.321 0.369
+/home/burak/coco_dataset/foreground_objects/Pterosaurs-Transparent-Background.png 3.000 0.000 54.491 -363.529 -1.444 0.948 2.206 -1.824 0.669 0.928 0.717 0.951
+/home/burak/coco_dataset/unlabeled2017_png/000000187786.png 3.000 0.000 289.951 520.678 9.115 -2.488 7.198 -2.311 0.474 0.256 0.540 0.284
+/home/burak/coco_dataset/unlabeled2017_png/000000188915.png 3.000 0.000 30.285 -42.727 -1.587 8.827 -1.901 14.392 0.450 0.310 0.342 0.373
+/home/burak/coco_dataset/foreground_objects/polar_bear.png 3.000 0.000 312.783 19.234 -10.892 14.082 -4.840 5.514 0.689 0.753 0.898 0.687

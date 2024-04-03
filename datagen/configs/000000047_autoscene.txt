@@ -1,0 +1,13 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000134788.jpg 3.000 0.000 183.643 -204.122 0.073 -0.535 -0.605 0.214 1.394 1.425 1.374 1.248
+/home/burak/coco_dataset/foreground_objects/59bf7de47a216d0b052f12c5.png 3.000 0.000 163.095 167.026 -0.849 0.341 -2.280 2.796 1.095 0.717 0.978 0.682
+/home/burak/coco_dataset/unlabeled2017_png/000000190343.png 3.000 0.000 229.925 -39.399 8.715 -3.898 -1.727 1.130 0.421 0.268 0.280 0.389
+/home/burak/coco_dataset/foreground_objects/Moth-Transparent-PNG.png 3.000 0.000 354.765 308.076 -0.666 0.179 0.550 -1.057 0.937 0.650 0.541 0.514
+/home/burak/coco_dataset/foreground_objects/5a54e536edcceab89d2a2d73.png 3.000 0.000 357.546 521.350 2.146 -0.986 -4.391 2.749 0.749 0.849 0.958 1.042
+/home/burak/coco_dataset/foreground_objects/Camomile-Flower-PNG.png 3.000 0.000 221.897 -159.232 -9.744 8.905 -3.487 3.103 0.472 0.654 0.597 0.740
+/home/burak/coco_dataset/unlabeled2017_png/000000189149.png 3.000 0.000 102.178 483.353 0.457 0.383 -11.697 2.956 0.309 0.364 0.490 0.531
+/home/burak/coco_dataset/foreground_objects/5a05870e9cf05203c4b603ce.png 3.000 0.000 3.594 -16.933 -1.437 3.453 -0.649 0.370 0.678 0.937 0.603 1.037
+/home/burak/coco_dataset/foreground_objects/5c6404c0e4b8dd029ff25b57.png 3.000 0.000 77.836 -176.724 -15.911 27.846 2.515 -5.466 0.960 0.404 0.401 1.032
+/home/burak/coco_dataset/unlabeled2017_png/000000189126.png 3.000 0.000 195.181 238.100 -1.683 2.726 1.781 -3.917 0.233 0.221 0.571 0.490
+/home/burak/coco_dataset/unlabeled2017_png/000000189210.png 3.000 0.000 100.361 -469.365 3.044 -2.207 34.771 -27.421 0.597 0.558 0.535 0.231
+/home/burak/coco_dataset/unlabeled2017_png/000000189545.png 3.000 0.000 167.395 548.124 -12.122 2.267 9.695 -1.700 0.431 0.551 0.403 0.448

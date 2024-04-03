@@ -1,0 +1,5 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000514442.jpg 3.000 0.000 217.232 206.788 0.017 -0.055 0.376 0.193 1.361 1.404 1.058 1.063
+/home/burak/coco_dataset/foreground_objects/Bison-Transparent-Background.png 3.000 0.000 346.210 341.995 -0.895 0.466 -0.302 1.085 0.703 0.693 0.671 0.432
+/home/burak/coco_dataset/foreground_objects/5a01d110cad612fd1571187e.png 3.000 0.000 271.442 301.467 -1.337 0.826 1.355 -0.768 0.989 1.100 0.413 0.526
+/home/burak/coco_dataset/unlabeled2017_png/000000188054.png 3.000 0.000 340.559 321.165 0.096 -0.533 0.070 -0.029 0.562 0.441 0.361 0.510

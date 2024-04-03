@@ -1,0 +1,5 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000331294.jpg 3.000 0.000 146.031 110.457 0.187 0.219 0.236 -0.123 1.155 1.125 1.251 1.079
+/home/burak/coco_dataset/foreground_objects/5c61e382e4b8dd029ff25b02.png 3.000 0.000 201.869 165.193 -0.394 0.338 0.262 0.096 0.715 1.011 1.190 0.416
+/home/burak/coco_dataset/unlabeled2017_png/000000000141.png 3.000 0.000 192.295 157.232 -0.977 0.302 0.547 0.187 0.280 0.314 0.378 0.304
+/home/burak/coco_dataset/foreground_objects/Ichthyosaur-Download-PNG-Image.png 3.000 0.000 111.689 125.505 0.131 -0.066 -0.451 0.407 0.850 0.492 0.726 1.117

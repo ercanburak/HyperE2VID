@@ -1,0 +1,9 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000411383.jpg 3.000 0.000 99.722 -45.077 -0.216 -0.052 0.499 0.358 1.323 1.100 1.062 1.046
+/home/burak/coco_dataset/unlabeled2017_png/000000190294.png 3.000 0.000 178.719 318.106 2.253 -0.365 -0.016 0.342 0.591 0.206 0.391 0.269
+/home/burak/coco_dataset/foreground_objects/Bull-PNG-Free-Download.png 3.000 0.000 331.791 363.884 1.387 -1.032 0.500 -0.890 1.072 0.936 0.474 0.460
+/home/burak/coco_dataset/unlabeled2017_png/000000192328.png 3.000 0.000 121.854 39.687 -2.292 0.129 0.671 -0.033 0.496 0.527 0.349 0.229
+/home/burak/coco_dataset/foreground_objects/5c6404aee4b8dd029ff25b55.png 3.000 0.000 295.955 326.293 -1.336 0.677 -0.131 -0.656 0.758 0.520 0.997 0.623
+/home/burak/coco_dataset/unlabeled2017_png/000000192010.png 3.000 0.000 268.185 322.353 -2.697 2.325 -1.664 1.928 0.396 0.385 0.527 0.348
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b2745.png 3.000 0.000 138.808 22.223 0.461 -0.750 0.722 0.017 0.411 0.978 0.655 1.188
+/home/burak/coco_dataset/foreground_objects/rccar2.png 3.000 0.000 246.816 211.883 -1.159 2.194 -1.771 2.305 0.768 1.026 0.720 0.688

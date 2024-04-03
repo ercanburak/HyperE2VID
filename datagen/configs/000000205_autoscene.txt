@@ -1,0 +1,12 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000052885.jpg 3.000 0.000 53.756 87.158 0.524 0.291 -0.399 -0.387 1.457 1.296 1.419 1.286
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b284c.png 3.000 0.000 0.851 163.941 2.572 -1.821 4.428 -2.465 1.175 1.122 0.911 0.405
+/home/burak/coco_dataset/foreground_objects/Abraham-Lincoln-Transparent-Background.png 3.000 0.000 236.014 650.479 4.365 -0.533 -13.879 1.979 0.633 0.845 0.990 0.400
+/home/burak/coco_dataset/unlabeled2017_png/000000191824.png 3.000 0.000 14.394 -248.179 6.479 -8.449 2.153 -4.163 0.284 0.412 0.386 0.472
+/home/burak/coco_dataset/unlabeled2017_png/000000188878.png 3.000 0.000 82.719 349.435 0.158 0.466 1.706 -2.655 0.447 0.492 0.577 0.402
+/home/burak/coco_dataset/foreground_objects/5954ca7fdeaf2c03413be386.png 3.000 0.000 297.783 -14.202 0.463 0.103 0.419 -0.623 1.070 0.680 1.115 1.161
+/home/burak/coco_dataset/foreground_objects/kim.png 3.000 0.000 230.848 430.921 -20.505 9.382 5.648 -2.325 0.443 0.911 0.450 1.199
+/home/burak/coco_dataset/unlabeled2017_png/000000192300.png 3.000 0.000 211.682 595.350 -1.664 0.383 -22.146 12.289 0.503 0.452 0.359 0.398
+/home/burak/coco_dataset/unlabeled2017_png/000000189580.png 3.000 0.000 168.318 479.707 -6.623 14.862 1.044 -1.966 0.260 0.296 0.498 0.578
+/home/burak/coco_dataset/foreground_objects/spider2.png 3.000 0.000 350.041 504.596 -1.070 0.352 0.370 -0.128 0.862 0.711 0.816 0.733
+/home/burak/coco_dataset/unlabeled2017_png/000000189541.png 3.000 0.000 205.135 325.105 0.180 0.381 0.188 0.501 0.307 0.452 0.244 0.498

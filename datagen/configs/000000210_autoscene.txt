@@ -1,0 +1,9 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000116883.jpg 3.000 0.000 138.221 82.220 0.267 0.526 -0.127 -0.019 1.368 1.328 1.449 1.282
+/home/burak/coco_dataset/foreground_objects/Barn-Owl-PNG-Picture.png 3.000 0.000 154.662 149.052 0.082 -0.597 0.957 -0.675 0.572 0.908 1.125 0.904
+/home/burak/coco_dataset/unlabeled2017_png/000000190686.png 3.000 0.000 141.659 290.897 -0.021 1.564 0.207 -2.451 0.399 0.493 0.301 0.401
+/home/burak/coco_dataset/foreground_objects/5aed6bc26554160a79be9ff3.png 3.000 0.000 267.130 150.036 -1.169 0.473 -0.322 0.611 0.439 1.183 0.688 0.867
+/home/burak/coco_dataset/foreground_objects/Banana-PNG.png 3.000 0.000 137.781 36.599 -1.027 3.458 -0.852 2.111 0.683 0.611 0.485 0.783
+/home/burak/coco_dataset/unlabeled2017_png/000000190820.png 3.000 0.000 276.563 382.608 -1.303 2.251 -0.383 1.826 0.326 0.500 0.553 0.489
+/home/burak/coco_dataset/unlabeled2017_png/000000188374.png 3.000 0.000 132.207 65.604 0.540 0.260 0.472 0.029 0.488 0.539 0.406 0.263
+/home/burak/coco_dataset/foreground_objects/5b44bdcae99939b4572e32c6.png 3.000 0.000 187.009 116.587 -0.559 -0.287 -2.272 3.224 0.991 0.809 0.680 0.662

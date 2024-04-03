@@ -1,0 +1,8 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000046708.jpg 3.000 0.000 44.662 136.398 0.169 -0.155 0.615 0.267 1.075 1.273 1.265 1.221
+/home/burak/coco_dataset/unlabeled2017_png/000000190813.png 3.000 0.000 142.702 168.281 1.784 -1.492 -0.969 1.222 0.546 0.426 0.361 0.495
+/home/burak/coco_dataset/foreground_objects/Khaki-Pant-PNG-Picture.png 3.000 0.000 90.165 26.071 -3.226 1.558 2.983 -1.041 0.927 0.425 0.896 0.781
+/home/burak/coco_dataset/foreground_objects/Camomile-Flower-PNG.png 3.000 0.000 262.771 189.533 1.476 -2.140 -0.094 0.579 0.927 0.406 0.946 0.965
+/home/burak/coco_dataset/unlabeled2017_png/000000189518.png 3.000 0.000 267.149 205.508 -0.676 0.049 -0.366 -0.032 0.474 0.397 0.528 0.587
+/home/burak/coco_dataset/foreground_objects/Beach-PNG-Pic.png 3.000 0.000 11.708 -81.193 1.092 -0.821 -2.432 1.130 0.520 0.763 0.564 1.134
+/home/burak/coco_dataset/unlabeled2017_png/000000191194.png 3.000 0.000 202.530 308.502 1.087 -0.426 0.345 -0.482 0.537 0.437 0.374 0.273

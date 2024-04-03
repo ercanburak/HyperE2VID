@@ -1,0 +1,5 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000040172.jpg 3.000 0.000 331.629 301.568 0.106 -0.078 -0.031 0.148 1.051 1.302 1.003 1.049
+/home/burak/coco_dataset/foreground_objects/Amphibian-PNG-HD.png 3.000 0.000 94.065 56.172 -0.515 -0.346 -0.329 -0.044 0.486 0.963 1.081 0.683
+/home/burak/coco_dataset/foreground_objects/Pelican-PNG-Free-Download.png 3.000 0.000 336.893 378.453 -0.329 -0.366 0.283 0.170 1.189 0.554 0.966 0.524
+/home/burak/coco_dataset/unlabeled2017_png/000000191723.png 3.000 0.000 242.238 218.432 -0.353 0.345 -0.379 -0.280 0.376 0.357 0.477 0.377

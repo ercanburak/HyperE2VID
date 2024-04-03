@@ -1,0 +1,10 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000331720.jpg 3.000 0.000 14.926 -62.204 -0.405 -0.022 -0.552 -0.325 1.216 1.030 1.265 1.050
+/home/burak/coco_dataset/foreground_objects/Lady-PNG-Image.png 3.000 0.000 124.227 268.789 -0.481 -0.365 0.100 0.067 0.817 0.443 1.036 0.980
+/home/burak/coco_dataset/foreground_objects/5a00dcd40e8525eec2752ff9.png 3.000 0.000 26.764 8.083 -0.645 1.038 -1.999 1.293 1.015 0.884 1.080 0.416
+/home/burak/coco_dataset/unlabeled2017_png/000000191172.png 3.000 0.000 228.457 212.083 -0.738 3.029 1.656 -2.917 0.225 0.432 0.306 0.201
+/home/burak/coco_dataset/unlabeled2017_png/000000190263.png 3.000 0.000 99.590 15.569 -0.561 -0.022 -2.147 2.190 0.454 0.307 0.484 0.248
+/home/burak/coco_dataset/foreground_objects/Blueberry-PNG-Free-Download.png 3.000 0.000 233.857 237.375 -0.167 0.344 -0.314 0.797 1.103 0.889 1.158 0.961
+/home/burak/coco_dataset/unlabeled2017_png/000000191411.png 3.000 0.000 130.850 143.400 -1.197 0.485 3.564 -0.726 0.294 0.352 0.571 0.286
+/home/burak/coco_dataset/foreground_objects/59bf7de47a216d0b052f12c5.png 3.000 0.000 146.500 207.965 -2.047 1.427 -0.109 0.650 0.907 0.938 0.454 0.891
+/home/burak/coco_dataset/unlabeled2017_png/000000192073.png 3.000 0.000 139.314 258.240 -0.465 0.736 -0.035 -0.853 0.261 0.537 0.392 0.249

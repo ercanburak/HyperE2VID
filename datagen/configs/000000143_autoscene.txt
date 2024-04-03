@@ -1,0 +1,22 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000520666.jpg 3.000 0.000 22.168 -71.026 -0.121 0.424 0.156 0.214 1.144 1.099 1.057 1.100
+/home/burak/coco_dataset/unlabeled2017_png/000000190557.png 3.000 0.000 272.655 527.300 8.900 -27.936 7.237 -24.932 0.566 0.480 0.446 0.543
+/home/burak/coco_dataset/foreground_objects/Lamb-PNG-Image.png 3.000 0.000 149.526 301.283 -22.004 14.148 21.203 -13.480 0.785 0.490 0.515 0.452
+/home/burak/coco_dataset/foreground_objects/5c61e382e4b8dd029ff25b02.png 3.000 0.000 310.666 183.978 -7.424 2.476 6.445 -2.037 1.088 1.169 0.645 0.780
+/home/burak/coco_dataset/foreground_objects/Peregrine-Falcon-Transparent-Background.png 3.000 0.000 113.987 362.650 -21.529 5.281 -11.810 2.603 1.181 0.908 0.437 0.412
+/home/burak/coco_dataset/unlabeled2017_png/000000191504.png 3.000 0.000 143.055 223.730 0.316 -0.144 1.785 -0.563 0.279 0.234 0.567 0.414
+/home/burak/coco_dataset/unlabeled2017_png/000000189562.png 3.000 0.000 245.375 357.138 -0.570 0.536 -0.093 -0.351 0.334 0.219 0.285 0.444
+/home/burak/coco_dataset/unlabeled2017_png/000000190830.png 3.000 0.000 11.501 475.542 2.504 -6.990 0.912 -3.289 0.350 0.450 0.207 0.410
+/home/burak/coco_dataset/unlabeled2017_png/000000190493.png 3.000 0.000 190.052 127.217 -5.589 13.514 -8.906 23.481 0.438 0.346 0.369 0.438
+/home/burak/coco_dataset/foreground_objects/5b44bdcae99939b4572e32c6.png 3.000 0.000 97.721 640.809 -12.356 8.598 -3.200 2.421 0.665 0.904 0.430 1.076
+/home/burak/coco_dataset/unlabeled2017_png/000000191826.png 3.000 0.000 147.092 -169.398 -1.787 0.572 -1.892 1.208 0.599 0.210 0.447 0.245
+/home/burak/coco_dataset/foreground_objects/Bok-Choy-PNG-HD.png 3.000 0.000 259.008 375.950 0.623 -0.375 -6.441 1.595 0.688 1.074 0.412 0.801
+/home/burak/coco_dataset/foreground_objects/5940063dbd0e8b4eeeb603bf.png 3.000 0.000 289.828 756.239 11.093 -5.369 0.809 0.088 0.918 1.036 1.047 0.901
+/home/burak/coco_dataset/unlabeled2017_png/000000189514.png 3.000 0.000 152.679 -55.837 -0.368 -0.323 0.826 -0.389 0.565 0.459 0.441 0.246
+/home/burak/coco_dataset/unlabeled2017_png/000000192051.png 3.000 0.000 99.089 -402.127 -0.637 0.222 0.016 0.498 0.554 0.271 0.568 0.449
+/home/burak/coco_dataset/foreground_objects/5aed6bce6554160a79be9ff4.png 3.000 0.000 66.660 -135.451 -3.225 4.429 0.100 0.124 0.769 0.903 0.877 0.744
+/home/burak/coco_dataset/foreground_objects/Killer-Whale-PNG-Image.png 3.000 0.000 65.924 -166.727 2.711 -3.499 7.753 -12.407 1.156 1.072 0.400 0.583
+/home/burak/coco_dataset/foreground_objects/Sun-PNG-Photo.png 3.000 0.000 258.416 -157.989 -13.623 7.502 -15.398 9.700 0.811 0.453 0.401 1.196
+/home/burak/coco_dataset/foreground_objects/Milkshake-PNG-HD-Quality.png 3.000 0.000 22.195 -21.892 2.251 -1.131 1.370 -0.987 1.193 0.534 0.831 0.450
+/home/burak/coco_dataset/unlabeled2017_png/000000189702.png 3.000 0.000 254.316 353.224 -4.100 1.635 -1.826 1.275 0.384 0.234 0.279 0.447
+/home/burak/coco_dataset/unlabeled2017_png/000000191768.png 3.000 0.000 136.863 -8.016 -3.325 7.023 -0.127 -0.802 0.333 0.312 0.306 0.451

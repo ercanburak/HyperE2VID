@@ -1,0 +1,15 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000330675.jpg 3.000 0.000 178.498 317.431 -0.084 0.775 -0.128 -0.140 1.292 1.304 1.194 1.224
+/home/burak/coco_dataset/foreground_objects/Spider-PNG-Pic.png 3.000 0.000 169.988 541.116 -2.065 14.849 0.217 0.234 0.468 0.838 0.720 0.676
+/home/burak/coco_dataset/unlabeled2017_png/000000192022.png 3.000 0.000 191.852 89.157 -1.880 0.729 10.337 -3.175 0.459 0.510 0.377 0.457
+/home/burak/coco_dataset/foreground_objects/58987679cba9841eabab6174.png 3.000 0.000 76.591 -229.564 9.172 -5.723 -2.229 1.724 1.051 1.060 1.169 0.998
+/home/burak/coco_dataset/foreground_objects/Common-Raven-PNG-Clipart.png 3.000 0.000 57.022 207.465 0.409 -0.315 -9.117 5.828 1.066 0.685 0.959 0.620
+/home/burak/coco_dataset/foreground_objects/Goldfish-PNG-Free-Download.png 3.000 0.000 307.250 131.310 2.078 -1.133 -13.160 3.969 0.499 0.498 1.149 0.969
+/home/burak/coco_dataset/foreground_objects/Albatross-PNG-HD.png 3.000 0.000 145.398 369.477 -1.819 2.665 -4.804 6.651 1.171 0.688 0.808 0.530
+/home/burak/coco_dataset/unlabeled2017_png/000000191988.png 3.000 0.000 333.980 72.729 0.524 -1.423 5.566 -13.289 0.267 0.319 0.431 0.274
+/home/burak/coco_dataset/unlabeled2017_png/000000187782.png 3.000 0.000 297.380 633.854 4.427 -4.916 1.274 -1.550 0.267 0.404 0.379 0.222
+/home/burak/coco_dataset/unlabeled2017_png/000000191309.png 3.000 0.000 156.897 -60.120 5.976 -5.944 -2.607 3.006 0.393 0.433 0.371 0.482
+/home/burak/coco_dataset/unlabeled2017_png/000000191745.png 3.000 0.000 273.688 119.619 0.615 -1.433 -8.929 25.342 0.398 0.478 0.255 0.450
+/home/burak/coco_dataset/foreground_objects/59db60be3752880e93e16ed9.png 3.000 0.000 65.301 -299.524 -0.974 0.344 0.708 0.022 0.953 1.113 0.888 0.678
+/home/burak/coco_dataset/foreground_objects/5af2b1c36554160a79bea033.png 3.000 0.000 82.430 423.575 -1.303 0.458 0.109 0.660 1.042 0.772 1.177 0.610
+/home/burak/coco_dataset/unlabeled2017_png/000000190671.png 3.000 0.000 45.713 -114.300 28.260 -5.187 -6.110 1.699 0.384 0.346 0.432 0.214

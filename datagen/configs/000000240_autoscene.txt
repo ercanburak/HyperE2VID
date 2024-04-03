@@ -1,0 +1,7 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000562681.jpg 3.000 0.000 26.663 61.647 0.070 0.322 -0.247 -0.107 1.367 1.396 1.096 1.346
+/home/burak/coco_dataset/unlabeled2017_png/000000190650.png 3.000 0.000 119.777 130.810 -0.128 -0.099 1.195 -0.501 0.504 0.212 0.387 0.536
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b291f.png 3.000 0.000 109.582 60.891 0.095 0.146 0.332 -0.225 0.511 0.497 0.724 1.111
+/home/burak/coco_dataset/foreground_objects/Lady-PNG-Image.png 3.000 0.000 341.391 328.870 0.428 0.461 0.171 2.603 0.817 0.630 0.582 1.120
+/home/burak/coco_dataset/foreground_objects/Bok-Choy-PNG-HD.png 3.000 0.000 36.184 16.519 -0.030 0.108 0.584 0.114 0.630 0.620 0.733 0.525
+/home/burak/coco_dataset/unlabeled2017_png/000000188523.png 3.000 0.000 138.890 174.291 -0.186 -0.683 -0.177 -0.657 0.532 0.446 0.490 0.453

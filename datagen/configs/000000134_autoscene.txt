@@ -1,0 +1,9 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000203512.jpg 3.000 0.000 317.324 376.651 -0.650 -0.107 0.094 -0.076 1.102 1.416 1.287 1.205
+/home/burak/coco_dataset/unlabeled2017_png/000000190276.png 3.000 0.000 351.471 359.132 2.070 -2.530 -2.224 3.074 0.514 0.392 0.304 0.219
+/home/burak/coco_dataset/foreground_objects/Peregrine-Falcon-Transparent-Background.png 3.000 0.000 33.313 80.448 4.492 -0.987 1.713 -0.234 0.871 1.183 0.552 1.122
+/home/burak/coco_dataset/foreground_objects/5c0fce4c1e49f004df5e386f.png 3.000 0.000 180.914 137.546 0.278 -1.703 -0.220 2.157 0.635 0.897 1.145 0.854
+/home/burak/coco_dataset/unlabeled2017_png/000000189082.png 3.000 0.000 326.578 422.971 -0.634 3.507 0.045 -1.591 0.254 0.261 0.222 0.227
+/home/burak/coco_dataset/unlabeled2017_png/000000191294.png 3.000 0.000 121.587 191.695 0.857 -1.285 1.272 -1.623 0.281 0.467 0.456 0.334
+/home/burak/coco_dataset/foreground_objects/58add914e612507e27bd3c13.png 3.000 0.000 99.504 27.994 0.480 0.138 0.347 0.474 1.116 1.196 0.567 0.893
+/home/burak/coco_dataset/foreground_objects/5a0586a79cf05203c4b603ca.png 3.000 0.000 329.687 327.646 0.356 -1.700 0.795 -3.147 0.992 1.127 0.830 0.726

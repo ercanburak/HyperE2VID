@@ -1,0 +1,7 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000511879.jpg 3.000 0.000 61.101 70.278 0.389 0.313 -0.559 -0.210 1.024 1.146 1.379 1.061
+/home/burak/coco_dataset/unlabeled2017_png/000000188357.png 3.000 0.000 338.432 130.958 -3.266 10.092 1.780 -6.862 0.582 0.549 0.494 0.575
+/home/burak/coco_dataset/foreground_objects/Zebra-PNG-Transparent-Photo.png 3.000 0.000 186.737 614.763 0.495 -1.160 -1.096 1.088 0.770 0.995 0.521 1.030
+/home/burak/coco_dataset/foreground_objects/Arugula-PNG-File.png 3.000 0.000 284.098 106.422 -0.124 0.317 -7.125 3.196 1.197 0.846 0.953 1.112
+/home/burak/coco_dataset/foreground_objects/horse.png 3.000 0.000 274.899 95.315 4.460 -0.180 -2.643 0.330 0.526 0.580 0.751 0.885
+/home/burak/coco_dataset/unlabeled2017_png/000000000601.png 3.000 0.000 200.946 -89.560 0.433 -4.201 0.000 -0.401 0.263 0.359 0.448 0.386

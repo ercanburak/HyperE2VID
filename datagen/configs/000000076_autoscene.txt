@@ -1,0 +1,6 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000187649.jpg 3.000 0.000 324.576 319.226 0.353 0.186 -0.406 -0.324 1.200 1.426 1.288 1.418
+/home/burak/coco_dataset/foreground_objects/Blueberry-PNG-Free-Download.png 3.000 0.000 163.711 128.966 -0.442 0.125 -0.235 0.227 0.461 0.933 0.789 1.141
+/home/burak/coco_dataset/foreground_objects/Leopard-PNG-Image.png 3.000 0.000 15.671 -29.487 -0.087 -0.001 0.387 0.454 0.916 0.501 1.141 0.618
+/home/burak/coco_dataset/unlabeled2017_png/000000191196.png 3.000 0.000 262.233 272.837 0.318 -0.429 -0.023 -0.098 0.588 0.417 0.302 0.474
+/home/burak/coco_dataset/unlabeled2017_png/000000188424.png 3.000 0.000 218.066 185.619 -0.110 0.416 0.311 0.443 0.312 0.533 0.592 0.277

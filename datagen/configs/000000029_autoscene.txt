@@ -1,0 +1,21 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000344224.jpg 3.000 0.000 58.355 -39.098 0.086 0.321 0.033 -0.770 1.436 1.297 1.189 1.237
+/home/burak/coco_dataset/unlabeled2017_png/000000190852.png 3.000 0.000 292.492 540.273 0.140 0.511 0.194 -0.557 0.477 0.286 0.528 0.447
+/home/burak/coco_dataset/foreground_objects/rccar2.png 3.000 0.000 155.431 322.949 -2.709 1.941 1.052 -1.454 1.122 1.103 0.946 0.568
+/home/burak/coco_dataset/foreground_objects/5a00d4e20e8525eec2752fdd.png 3.000 0.000 27.812 -381.414 -7.034 4.409 -6.758 3.558 0.813 0.473 0.439 1.023
+/home/burak/coco_dataset/foreground_objects/Zebra-PNG-Transparent-Photo.png 3.000 0.000 308.272 191.944 0.773 -0.445 0.829 0.065 1.193 1.160 0.572 0.571
+/home/burak/coco_dataset/foreground_objects/Giant-Squid-PNG-Photos.png 3.000 0.000 181.215 489.464 -0.824 3.607 -0.006 -0.382 1.030 1.086 0.872 0.992
+/home/burak/coco_dataset/unlabeled2017_png/000000188736.png 3.000 0.000 143.473 506.243 -2.052 6.318 -3.435 8.179 0.324 0.395 0.213 0.470
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b27ab.png 3.000 0.000 50.504 -144.117 23.068 -3.987 1.227 -0.371 0.936 1.104 1.004 0.804
+/home/burak/coco_dataset/foreground_objects/tractor.png 3.000 0.000 98.858 -273.528 -0.666 0.267 0.219 0.466 0.855 0.515 0.478 0.479
+/home/burak/coco_dataset/unlabeled2017_png/000000189931.png 3.000 0.000 212.222 620.498 4.160 -1.237 0.240 0.236 0.491 0.500 0.419 0.414
+/home/burak/coco_dataset/foreground_objects/Autumn-Leaves-PNG-HD.png 3.000 0.000 343.736 685.076 -1.099 4.296 -2.573 8.890 0.976 1.042 0.635 1.132
+/home/burak/coco_dataset/unlabeled2017_png/000000190697.png 3.000 0.000 223.729 -174.355 -1.699 6.032 1.701 -5.943 0.442 0.501 0.474 0.291
+/home/burak/coco_dataset/unlabeled2017_png/000000188729.png 3.000 0.000 326.057 -26.898 6.732 -12.060 -3.378 5.845 0.313 0.325 0.240 0.552
+/home/burak/coco_dataset/foreground_objects/tree.png 3.000 0.000 179.197 498.113 -1.493 0.593 -2.134 1.007 0.755 1.052 0.515 0.858
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b2923.png 3.000 0.000 282.329 -137.798 0.060 0.078 0.295 0.282 0.666 0.494 0.557 0.965
+/home/burak/coco_dataset/unlabeled2017_png/000000188835.png 3.000 0.000 342.961 714.159 -0.011 0.016 -0.082 -0.158 0.265 0.206 0.411 0.468
+/home/burak/coco_dataset/unlabeled2017_png/000000188993.png 3.000 0.000 154.453 409.912 -0.561 3.265 0.273 -2.320 0.386 0.399 0.579 0.386
+/home/burak/coco_dataset/unlabeled2017_png/000000192276.png 3.000 0.000 254.928 550.455 0.110 0.327 3.032 -1.753 0.489 0.440 0.372 0.277
+/home/burak/coco_dataset/foreground_objects/Short-Hair-PNG-Photos.png 3.000 0.000 258.710 -55.710 -6.154 0.553 -15.322 1.891 0.980 1.048 1.086 0.629
+/home/burak/coco_dataset/unlabeled2017_png/000000188278.png 3.000 0.000 101.711 441.810 -0.275 1.077 -0.394 -0.476 0.559 0.348 0.220 0.571

@@ -1,0 +1,5 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000034799.jpg 3.000 0.000 262.688 270.827 -0.152 -0.256 0.039 -0.113 1.318 1.074 1.001 1.434
+/home/burak/coco_dataset/foreground_objects/59db60be3752880e93e16ed9.png 3.000 0.000 204.846 210.904 -0.185 -0.624 1.058 -0.220 0.867 0.911 1.183 0.856
+/home/burak/coco_dataset/foreground_objects/Hand-PNG-Transparent-File.png 3.000 0.000 317.456 348.665 0.018 0.050 0.225 0.208 1.122 0.526 0.635 0.729
+/home/burak/coco_dataset/unlabeled2017_png/000000188401.png 3.000 0.000 324.729 325.350 1.121 -0.462 -0.369 -0.378 0.434 0.461 0.293 0.288

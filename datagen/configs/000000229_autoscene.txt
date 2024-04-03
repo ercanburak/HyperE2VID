@@ -1,0 +1,15 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000532652.jpg 3.000 0.000 133.285 12.638 -0.330 -0.019 0.080 -0.579 1.415 1.125 1.352 1.256
+/home/burak/coco_dataset/unlabeled2017_png/000000190937.png 3.000 0.000 328.376 771.436 -0.336 -0.369 -2.121 3.326 0.546 0.422 0.201 0.571
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b2748.png 3.000 0.000 106.620 -193.698 -0.132 -0.154 0.884 -0.161 1.024 1.116 0.967 1.081
+/home/burak/coco_dataset/foreground_objects/Blueberry-PNG-Free-Download.png 3.000 0.000 339.631 731.750 0.324 0.180 0.257 0.395 1.097 0.833 1.093 0.998
+/home/burak/coco_dataset/unlabeled2017_png/000000189749.png 3.000 0.000 241.906 360.048 9.781 -2.681 -8.062 2.642 0.548 0.501 0.265 0.552
+/home/burak/coco_dataset/unlabeled2017_png/000000188600.png 3.000 0.000 252.709 60.813 5.843 -9.924 -3.542 6.844 0.355 0.377 0.567 0.588
+/home/burak/coco_dataset/foreground_objects/Mayfly-PNG-Transparent-Image.png 3.000 0.000 156.059 -221.876 0.869 0.071 -3.544 2.158 0.421 1.044 0.905 0.485
+/home/burak/coco_dataset/unlabeled2017_png/000000191594.png 3.000 0.000 184.353 565.611 -3.242 3.228 2.522 -2.988 0.263 0.507 0.558 0.398
+/home/burak/coco_dataset/unlabeled2017_png/000000000413.png 3.000 0.000 54.683 -287.561 -2.292 1.312 -2.066 1.424 0.334 0.241 0.385 0.207
+/home/burak/coco_dataset/unlabeled2017_png/000000188104.png 3.000 0.000 242.559 345.584 -0.122 -0.176 -1.674 0.613 0.568 0.594 0.439 0.512
+/home/burak/coco_dataset/foreground_objects/Coconut-Tree-PNG-Photos.png 3.000 0.000 162.419 596.407 13.272 -3.200 9.542 -2.764 0.931 1.180 1.157 0.575
+/home/burak/coco_dataset/foreground_objects/Floral-Dress-PNG-File.png 3.000 0.000 214.020 482.184 -0.439 0.044 0.714 -7.867 0.537 0.716 0.918 0.568
+/home/burak/coco_dataset/foreground_objects/Reindeer-PNG-Transparent-Image.png 3.000 0.000 26.748 -418.155 1.885 -1.550 -12.382 6.739 0.784 0.474 0.933 0.440
+/home/burak/coco_dataset/foreground_objects/Pigeon-PNG-Image.png 3.000 0.000 276.929 -132.048 -0.307 0.267 -0.846 0.248 0.939 0.754 0.824 1.144

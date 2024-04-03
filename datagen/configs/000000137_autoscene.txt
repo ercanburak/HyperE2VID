@@ -1,0 +1,11 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000418460.jpg 3.000 0.000 62.467 -53.978 0.363 0.033 -0.303 -0.169 1.055 1.072 1.383 1.239
+/home/burak/coco_dataset/foreground_objects/Halloween-Costume-PNG-No-Background.png 3.000 0.000 215.202 360.379 -5.949 1.130 11.442 -1.331 0.687 0.513 0.615 0.411
+/home/burak/coco_dataset/foreground_objects/5940063dbd0e8b4eeeb603bf.png 3.000 0.000 296.670 744.738 -0.772 -0.118 -14.812 7.473 0.627 0.612 1.145 1.070
+/home/burak/coco_dataset/unlabeled2017_png/000000187862.png 3.000 0.000 66.301 303.998 -8.882 16.213 0.091 0.160 0.313 0.243 0.325 0.487
+/home/burak/coco_dataset/unlabeled2017_png/000000189575.png 3.000 0.000 160.551 463.301 -4.917 17.826 -0.239 0.975 0.284 0.550 0.321 0.301
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b2748.png 3.000 0.000 102.177 279.564 -12.913 11.458 4.600 -3.991 0.854 1.138 0.955 1.114
+/home/burak/coco_dataset/unlabeled2017_png/000000000481.png 3.000 0.000 68.068 -127.698 -0.308 3.225 -1.825 5.926 0.376 0.343 0.423 0.541
+/home/burak/coco_dataset/foreground_objects/5a00d4a40e8525eec2752fda.png 3.000 0.000 317.346 647.134 -4.447 11.602 0.182 -0.477 0.532 0.549 0.452 0.715
+/home/burak/coco_dataset/foreground_objects/Drink-PNG-Image-Free-Download.png 3.000 0.000 202.378 -98.691 -6.085 2.994 6.884 -3.880 1.000 0.755 0.604 1.004
+/home/burak/coco_dataset/unlabeled2017_png/000000188121.png 3.000 0.000 28.190 377.660 0.092 0.570 -0.450 0.287 0.592 0.222 0.456 0.532

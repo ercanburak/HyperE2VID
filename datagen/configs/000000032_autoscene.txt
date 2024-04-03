@@ -1,0 +1,6 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000512225.jpg 3.000 0.000 143.150 151.464 -0.008 0.363 -0.097 -0.213 1.212 1.153 1.200 1.296
+/home/burak/coco_dataset/unlabeled2017_png/000000189592.png 3.000 0.000 135.683 90.878 0.009 -0.597 -0.030 0.251 0.370 0.329 0.537 0.567
+/home/burak/coco_dataset/foreground_objects/5c0fce4c1e49f004df5e386f.png 3.000 0.000 21.952 50.916 0.608 -0.423 -0.034 -0.293 1.110 0.787 0.740 0.438
+/home/burak/coco_dataset/foreground_objects/Fashionable-Women-Wearing-Sunglasses-PNG(1).png 3.000 0.000 58.366 37.477 -0.387 -0.232 -0.119 -0.148 1.171 0.600 0.944 1.177
+/home/burak/coco_dataset/unlabeled2017_png/000000191702.png 3.000 0.000 319.977 309.629 0.087 0.812 -0.127 0.407 0.255 0.555 0.482 0.567

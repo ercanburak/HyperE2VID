@@ -1,0 +1,7 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000038462.jpg 3.000 0.000 211.098 297.253 0.299 0.125 -0.389 -0.147 1.190 1.446 1.497 1.446
+/home/burak/coco_dataset/foreground_objects/Grey-Wolf-PNG-Transparent-Image.png 3.000 0.000 294.955 -77.717 0.095 -0.916 -0.520 0.039 1.040 0.898 1.098 0.664
+/home/burak/coco_dataset/foreground_objects/Sunflower-Transparent-PNG.png 3.000 0.000 126.549 -124.519 -1.753 0.796 2.390 -0.626 1.123 0.911 0.678 0.527
+/home/burak/coco_dataset/unlabeled2017_png/000000000008.png 3.000 0.000 55.094 -136.810 -0.038 0.459 0.509 -4.191 0.350 0.568 0.511 0.202
+/home/burak/coco_dataset/foreground_objects/Engineer-PNG-Transparent-Photo.png 3.000 0.000 130.032 334.947 -4.592 6.446 8.518 -10.217 0.948 1.138 0.732 1.145
+/home/burak/coco_dataset/unlabeled2017_png/000000192435.png 3.000 0.000 267.987 534.270 0.546 -0.245 0.387 -1.284 0.593 0.506 0.424 0.318

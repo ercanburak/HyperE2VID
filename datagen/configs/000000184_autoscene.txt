@@ -1,0 +1,7 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000095930.jpg 3.000 0.000 334.258 336.576 -0.306 -0.333 0.203 0.482 1.043 1.039 1.136 1.042
+/home/burak/coco_dataset/unlabeled2017_png/000000188982.png 3.000 0.000 333.267 346.203 -0.789 0.476 -0.540 -0.078 0.221 0.556 0.236 0.442
+/home/burak/coco_dataset/foreground_objects/Amphibian-PNG-HD.png 3.000 0.000 70.062 96.590 0.501 0.134 -0.104 -0.016 0.755 1.135 0.669 1.104
+/home/burak/coco_dataset/foreground_objects/Hibiscus-PNG-HD.png 3.000 0.000 237.714 230.676 0.478 0.278 -0.247 -0.290 0.773 1.189 0.490 1.072
+/home/burak/coco_dataset/unlabeled2017_png/000000192331.png 3.000 0.000 347.137 303.804 -0.468 -0.307 -0.105 -0.397 0.550 0.438 0.238 0.466
+/home/burak/coco_dataset/foreground_objects/Short-Hair-PNG-Photos.png 3.000 0.000 233.828 235.009 0.237 0.028 -0.415 -0.344 0.915 0.416 0.442 0.987

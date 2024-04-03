@@ -1,0 +1,5 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000408767.jpg 3.000 0.000 75.093 69.647 0.185 0.286 0.184 0.152 1.032 1.254 1.257 1.032
+/home/burak/coco_dataset/foreground_objects/Scorpion-PNG-Free-Download.png 3.000 0.000 98.629 83.682 1.055 -0.573 0.921 -0.966 0.760 0.746 0.620 1.118
+/home/burak/coco_dataset/foreground_objects/Goldfish-PNG-Free-Download.png 3.000 0.000 298.237 286.626 -0.199 0.701 -0.527 -0.227 0.811 0.854 0.830 0.507
+/home/burak/coco_dataset/unlabeled2017_png/000000191128.png 3.000 0.000 260.434 231.444 -0.246 -0.450 0.129 -0.595 0.589 0.528 0.228 0.316

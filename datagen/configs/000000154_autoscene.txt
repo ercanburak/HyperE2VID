@@ -1,0 +1,11 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000022093.jpg 3.000 0.000 120.000 35.970 0.273 0.118 -0.383 0.517 1.146 1.325 1.476 1.083
+/home/burak/coco_dataset/foreground_objects/Halloween-Costume-PNG-No-Background.png 3.000 0.000 261.454 128.500 -0.407 0.262 1.061 -0.312 0.603 1.011 1.066 1.159
+/home/burak/coco_dataset/foreground_objects/chicken3.png 3.000 0.000 325.800 418.491 -0.203 0.201 0.244 -0.048 0.592 0.659 1.062 0.859
+/home/burak/coco_dataset/unlabeled2017_png/000000189028.png 3.000 0.000 208.339 257.561 0.588 0.254 1.062 -0.479 0.424 0.258 0.596 0.366
+/home/burak/coco_dataset/foreground_objects/5a00d05d0e8525eec2752fd2.png 3.000 0.000 196.616 144.814 -3.121 2.408 -0.745 0.273 0.963 0.795 1.044 0.480
+/home/burak/coco_dataset/unlabeled2017_png/000000188737.png 3.000 0.000 300.453 369.507 0.064 -0.120 -0.442 -0.326 0.244 0.343 0.375 0.222
+/home/burak/coco_dataset/unlabeled2017_png/000000191415.png 3.000 0.000 288.543 212.658 -0.141 0.019 0.353 0.214 0.214 0.414 0.227 0.258
+/home/burak/coco_dataset/foreground_objects/Human-PNG-Clipart.png 3.000 0.000 32.655 112.093 -0.211 -0.037 -1.939 2.486 1.103 0.742 0.837 0.893
+/home/burak/coco_dataset/unlabeled2017_png/000000190337.png 3.000 0.000 165.894 204.188 -1.645 4.538 -0.583 2.181 0.558 0.481 0.220 0.242
+/home/burak/coco_dataset/foreground_objects/Box-Jellyfish-PNG-Clipart.png 3.000 0.000 352.509 466.100 -0.035 0.004 0.149 0.123 0.886 0.903 0.709 1.167

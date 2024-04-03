@@ -1,0 +1,9 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000076105.jpg 3.000 0.000 211.633 302.684 0.353 -0.160 0.448 0.007 1.437 1.337 1.462 1.060
+/home/burak/coco_dataset/foreground_objects/58b83b5515d8273a5cab2f90.png 3.000 0.000 276.765 408.746 3.374 -0.712 3.056 -0.676 0.773 0.567 0.454 0.625
+/home/burak/coco_dataset/foreground_objects/59bedb387a216d0b052f128d.png 3.000 0.000 348.663 253.835 -2.845 1.372 1.843 -0.263 0.556 0.902 0.854 0.444
+/home/burak/coco_dataset/unlabeled2017_png/000000188792.png 3.000 0.000 190.489 186.681 0.174 -0.580 -0.660 -0.125 0.523 0.341 0.214 0.420
+/home/burak/coco_dataset/unlabeled2017_png/000000189338.png 3.000 0.000 222.902 271.869 1.789 -2.681 -0.441 0.102 0.243 0.570 0.485 0.226
+/home/burak/coco_dataset/foreground_objects/Sandal-PNG-Picture-1.png 3.000 0.000 38.368 126.494 0.217 -0.288 -1.708 0.829 0.459 0.894 0.473 0.420
+/home/burak/coco_dataset/foreground_objects/Barn-Swallow-PNG-Clipart.png 3.000 0.000 282.410 216.407 2.117 -1.352 2.631 -2.109 0.881 0.551 1.196 0.707
+/home/burak/coco_dataset/unlabeled2017_png/000000189851.png 3.000 0.000 99.262 115.984 -1.243 1.695 0.213 0.108 0.424 0.504 0.358 0.363

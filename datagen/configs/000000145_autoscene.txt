@@ -1,0 +1,12 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000509377.jpg 3.000 0.000 102.765 -8.433 0.183 0.466 0.178 0.072 1.163 1.197 1.235 1.464
+/home/burak/coco_dataset/unlabeled2017_png/000000188261.png 3.000 0.000 144.480 -198.051 6.204 -12.248 -0.969 3.089 0.241 0.479 0.462 0.569
+/home/burak/coco_dataset/unlabeled2017_png/000000191315.png 3.000 0.000 68.026 178.521 0.612 -4.277 2.551 -10.472 0.399 0.215 0.430 0.333
+/home/burak/coco_dataset/foreground_objects/58b8411815d8273a5cab2fbf.png 3.000 0.000 148.247 -273.854 0.778 -0.765 0.202 0.168 0.542 0.517 0.804 0.569
+/home/burak/coco_dataset/unlabeled2017_png/000000000141.png 3.000 0.000 68.718 -254.690 0.029 -0.312 -4.813 1.589 0.463 0.513 0.438 0.532
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b27c3.png 3.000 0.000 158.474 410.027 -9.708 6.796 -1.964 1.381 0.732 0.704 1.156 0.669
+/home/burak/coco_dataset/unlabeled2017_png/000000191397.png 3.000 0.000 154.399 255.697 2.266 -0.849 4.005 -0.874 0.216 0.281 0.387 0.432
+/home/burak/coco_dataset/foreground_objects/Engineer-PNG-Transparent-Photo.png 3.000 0.000 94.849 -247.770 0.032 0.049 0.092 0.108 1.159 0.644 1.109 1.165
+/home/burak/coco_dataset/unlabeled2017_png/000000191420.png 3.000 0.000 135.964 499.405 0.421 0.351 -0.022 -0.542 0.347 0.580 0.436 0.489
+/home/burak/coco_dataset/foreground_objects/broom.png 3.000 0.000 36.637 190.114 1.012 -6.489 0.002 1.051 0.934 0.469 1.117 0.455
+/home/burak/coco_dataset/foreground_objects/Octopus-Toy-PNG-Photos.png 3.000 0.000 74.180 385.064 0.484 -1.007 -1.720 2.452 0.530 1.173 0.454 1.050

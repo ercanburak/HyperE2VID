@@ -1,0 +1,9 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000281222.jpg 3.000 0.000 192.707 134.776 -0.500 -0.156 0.810 -0.047 1.047 1.146 1.074 1.137
+/home/burak/coco_dataset/unlabeled2017_png/000000191415.png 3.000 0.000 93.842 -10.055 1.187 -0.357 -0.298 -0.354 0.572 0.434 0.309 0.273
+/home/burak/coco_dataset/foreground_objects/Rat-PNG-Photos.png 3.000 0.000 314.157 221.039 0.060 0.186 -0.319 -0.108 0.884 0.892 0.601 0.922
+/home/burak/coco_dataset/foreground_objects/585aa81c4f6ae202fedf2907.png 3.000 0.000 247.248 260.307 -0.772 -0.090 0.396 -0.759 0.814 0.579 0.519 0.860
+/home/burak/coco_dataset/foreground_objects/Zebra-PNG-Transparent-Photo.png 3.000 0.000 158.912 268.879 -0.456 -0.392 -0.796 -0.041 0.803 0.591 0.968 0.681
+/home/burak/coco_dataset/unlabeled2017_png/000000190268.png 3.000 0.000 156.696 178.747 -0.043 -0.795 0.392 0.364 0.282 0.214 0.378 0.581
+/home/burak/coco_dataset/unlabeled2017_png/000000190974.png 3.000 0.000 194.376 269.648 -0.025 0.421 0.156 -0.258 0.285 0.422 0.564 0.374
+/home/burak/coco_dataset/foreground_objects/Tie-Transparent-Background.png 3.000 0.000 42.012 42.608 0.617 -1.778 0.815 -1.275 0.638 0.774 0.608 0.889

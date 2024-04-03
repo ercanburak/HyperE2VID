@@ -1,0 +1,7 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000272908.jpg 3.000 0.000 69.012 164.079 0.241 0.014 -0.152 -0.032 1.174 1.398 1.389 1.400
+/home/burak/coco_dataset/unlabeled2017_png/000000190465.png 3.000 0.000 117.098 -285.779 7.617 -4.886 5.477 -3.694 0.241 0.431 0.265 0.530
+/home/burak/coco_dataset/foreground_objects/Beaver-PNG-HD.png 3.000 0.000 348.321 103.063 4.410 -3.705 -7.527 6.072 0.599 1.143 0.523 0.647
+/home/burak/coco_dataset/unlabeled2017_png/000000191485.png 3.000 0.000 8.066 399.611 -5.193 5.753 4.464 -5.878 0.586 0.447 0.333 0.540
+/home/burak/coco_dataset/foreground_objects/cockroach.png 3.000 0.000 228.782 518.145 -3.994 2.964 14.245 -8.787 1.058 0.407 1.040 1.037
+/home/burak/coco_dataset/foreground_objects/rccar2.png 3.000 0.000 241.871 -11.440 2.570 -11.994 0.015 0.108 0.538 0.784 0.749 0.830

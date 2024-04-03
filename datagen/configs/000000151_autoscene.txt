@@ -1,0 +1,13 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000420198.jpg 3.000 0.000 345.714 627.423 0.620 0.241 0.435 0.323 1.421 1.122 1.450 1.438
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b27b2.png 3.000 0.000 14.982 -367.751 0.479 0.123 -0.137 0.325 0.560 0.516 0.515 0.448
+/home/burak/coco_dataset/foreground_objects/Pelican-PNG-Free-Download.png 3.000 0.000 307.232 565.047 4.254 -8.438 -0.046 0.433 0.757 0.824 0.815 0.921
+/home/burak/coco_dataset/unlabeled2017_png/000000191792.png 3.000 0.000 253.252 -311.033 1.562 -5.938 3.296 -17.795 0.415 0.279 0.440 0.352
+/home/burak/coco_dataset/foreground_objects/5aead1916554160a79be9faa.png 3.000 0.000 119.872 -143.206 3.054 -2.125 -8.903 8.133 1.045 0.731 0.609 0.946
+/home/burak/coco_dataset/unlabeled2017_png/000000190250.png 3.000 0.000 58.367 283.108 3.404 -1.957 -5.716 3.533 0.212 0.583 0.547 0.490
+/home/burak/coco_dataset/foreground_objects/Khaki-Pant-PNG-Picture.png 3.000 0.000 70.269 104.414 -4.481 1.932 -0.509 0.212 0.698 0.580 0.581 0.832
+/home/burak/coco_dataset/unlabeled2017_png/000000190726.png 3.000 0.000 18.171 -382.282 2.988 -7.531 5.221 -15.057 0.596 0.220 0.212 0.370
+/home/burak/coco_dataset/foreground_objects/5a01ed1e18e87004f1ca4305.png 3.000 0.000 87.175 619.216 -0.502 4.078 5.689 -36.829 1.190 1.146 0.710 1.051
+/home/burak/coco_dataset/foreground_objects/59bedb387a216d0b052f128d.png 3.000 0.000 318.033 260.934 0.821 -1.765 -6.752 10.096 1.151 1.096 0.412 0.571
+/home/burak/coco_dataset/unlabeled2017_png/000000190851.png 3.000 0.000 300.665 733.797 2.542 -17.678 0.999 -3.962 0.205 0.438 0.590 0.236
+/home/burak/coco_dataset/unlabeled2017_png/000000000361.png 3.000 0.000 29.286 623.022 0.737 0.022 1.376 -1.476 0.483 0.232 0.253 0.241

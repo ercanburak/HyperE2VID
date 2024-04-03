@@ -1,0 +1,16 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000270380.jpg 3.000 0.000 172.720 175.241 -0.481 -0.117 0.013 0.600 1.487 1.358 1.184 1.222
+/home/burak/coco_dataset/unlabeled2017_png/000000189890.png 3.000 0.000 271.399 -169.767 0.650 -1.037 -0.163 0.900 0.502 0.370 0.471 0.218
+/home/burak/coco_dataset/unlabeled2017_png/000000189662.png 3.000 0.000 31.946 374.956 -1.295 3.402 1.277 -2.331 0.408 0.229 0.411 0.222
+/home/burak/coco_dataset/unlabeled2017_png/000000000132.png 3.000 0.000 329.826 435.822 4.127 -1.691 12.530 -6.293 0.326 0.226 0.319 0.538
+/home/burak/coco_dataset/foreground_objects/Kiwi-Bird-PNG-Pic.png 3.000 0.000 207.425 592.479 -1.215 2.725 -0.229 -0.361 0.848 0.453 0.752 0.991
+/home/burak/coco_dataset/unlabeled2017_png/000000189529.png 3.000 0.000 140.839 277.922 3.079 -4.536 -6.097 10.716 0.361 0.312 0.406 0.352
+/home/burak/coco_dataset/foreground_objects/Ichthyosaur-Download-PNG-Image.png 3.000 0.000 167.473 -209.579 2.276 -1.962 5.315 -5.348 0.788 0.555 1.096 0.550
+/home/burak/coco_dataset/unlabeled2017_png/000000191299.png 3.000 0.000 232.364 662.775 -0.060 0.333 2.331 -1.779 0.574 0.373 0.347 0.368
+/home/burak/coco_dataset/foreground_objects/Grey-Wolf-PNG-Transparent-Image.png 3.000 0.000 95.286 -39.456 -5.166 1.510 -10.508 3.548 0.661 0.443 0.646 0.952
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b2748.png 3.000 0.000 117.310 -236.458 -10.696 2.905 -9.878 3.561 1.008 0.458 0.429 0.621
+/home/burak/coco_dataset/foreground_objects/Barn-Swallow-PNG-Clipart.png 3.000 0.000 5.403 -235.188 2.909 -2.801 -1.301 1.930 0.692 1.078 0.665 1.005
+/home/burak/coco_dataset/foreground_objects/59bedb177a216d0b052f128a.png 3.000 0.000 209.286 -197.516 1.006 -2.573 1.499 -2.580 0.472 1.134 1.033 0.494
+/home/burak/coco_dataset/unlabeled2017_png/000000188760.png 3.000 0.000 312.243 708.966 -0.328 -0.135 1.049 -1.974 0.339 0.556 0.347 0.426
+/home/burak/coco_dataset/foreground_objects/Alligator-PNG-Transparent-HD-Photo.png 3.000 0.000 204.238 517.035 3.678 -1.308 3.749 -1.076 0.696 1.060 0.985 0.850
+/home/burak/coco_dataset/unlabeled2017_png/000000192139.png 3.000 0.000 121.885 425.311 -2.986 0.701 -2.668 0.985 0.339 0.467 0.327 0.235

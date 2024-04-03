@@ -1,0 +1,7 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000160342.jpg 3.000 0.000 70.691 64.914 0.263 0.445 0.187 0.042 1.324 1.291 1.146 1.349
+/home/burak/coco_dataset/foreground_objects/Milkshake-PNG-HD-Quality.png 3.000 0.000 114.857 163.036 -0.200 0.479 0.004 0.640 0.537 1.127 0.748 0.937
+/home/burak/coco_dataset/foreground_objects/5af2b1c36554160a79bea033.png 3.000 0.000 38.434 83.682 -0.920 0.342 0.772 -1.060 0.894 0.422 0.509 0.621
+/home/burak/coco_dataset/unlabeled2017_png/000000192138.png 3.000 0.000 33.129 30.912 0.760 0.036 0.167 -0.148 0.592 0.252 0.321 0.565
+/home/burak/coco_dataset/unlabeled2017_png/000000190214.png 3.000 0.000 322.052 301.358 -0.368 -0.118 0.625 -0.306 0.485 0.508 0.582 0.415
+/home/burak/coco_dataset/foreground_objects/Dirty-Pig-PNG.png 3.000 0.000 131.447 173.477 -1.077 0.254 -0.436 -0.379 1.167 0.855 1.100 0.639

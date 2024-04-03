@@ -1,0 +1,12 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000579365.jpg 3.000 0.000 230.881 101.333 -0.303 0.094 -0.058 0.532 1.247 1.359 1.382 1.097
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b27c7.png 3.000 0.000 86.198 297.942 5.748 -3.748 -13.449 7.505 0.548 1.066 0.450 0.644
+/home/burak/coco_dataset/unlabeled2017_png/000000189873.png 3.000 0.000 88.919 426.369 0.047 -2.722 0.508 -0.652 0.519 0.292 0.556 0.496
+/home/burak/coco_dataset/foreground_objects/Asparagus-Transparent-Background.png 3.000 0.000 92.662 357.832 0.107 -0.442 0.716 -0.740 0.635 1.004 0.767 1.108
+/home/burak/coco_dataset/foreground_objects/58da61445f58be1227aec94a.png 3.000 0.000 266.981 490.895 12.422 -14.043 -5.427 6.500 1.199 0.877 0.981 0.610
+/home/burak/coco_dataset/unlabeled2017_png/000000190761.png 3.000 0.000 149.189 310.511 6.586 -0.749 -20.560 3.260 0.377 0.592 0.343 0.472
+/home/burak/coco_dataset/unlabeled2017_png/000000189890.png 3.000 0.000 314.462 -109.970 -3.072 0.387 -6.579 1.245 0.332 0.388 0.425 0.485
+/home/burak/coco_dataset/unlabeled2017_png/000000188887.png 3.000 0.000 23.757 127.385 -0.478 -0.374 -0.649 -0.159 0.565 0.544 0.443 0.311
+/home/burak/coco_dataset/foreground_objects/5a54e536edcceab89d2a2d73.png 3.000 0.000 198.377 484.896 0.511 -4.718 -0.404 1.388 0.505 1.031 1.135 0.883
+/home/burak/coco_dataset/unlabeled2017_png/000000000226.png 3.000 0.000 99.141 -60.502 -0.154 -0.692 -0.399 0.973 0.385 0.229 0.371 0.469
+/home/burak/coco_dataset/foreground_objects/Mantis-PNG-Transparent-Image.png 3.000 0.000 206.650 -124.269 14.913 -1.461 -8.537 0.752 0.516 0.663 1.174 0.824

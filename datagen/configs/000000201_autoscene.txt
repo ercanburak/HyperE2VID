@@ -1,0 +1,20 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000364794.jpg 3.000 0.000 287.308 209.837 -0.183 -0.571 -0.084 -0.202 1.120 1.025 1.210 1.392
+/home/burak/coco_dataset/foreground_objects/5954ca7fdeaf2c03413be386.png 3.000 0.000 185.587 -122.018 1.576 -2.668 -10.278 11.001 1.108 1.057 0.431 1.159
+/home/burak/coco_dataset/foreground_objects/5c0fce541e49f004df5e3870.png 3.000 0.000 4.265 -389.717 3.808 -3.846 3.000 -3.419 0.727 0.785 0.513 0.435
+/home/burak/coco_dataset/unlabeled2017_png/000000190986.png 3.000 0.000 103.660 210.392 4.845 -0.514 18.972 -3.869 0.343 0.518 0.353 0.366
+/home/burak/coco_dataset/unlabeled2017_png/000000188449.png 3.000 0.000 15.767 -164.218 7.633 -7.007 -3.468 3.512 0.307 0.569 0.322 0.214
+/home/burak/coco_dataset/unlabeled2017_png/000000191479.png 3.000 0.000 150.545 329.371 6.243 -3.003 -1.966 0.537 0.388 0.292 0.337 0.549
+/home/burak/coco_dataset/foreground_objects/octopus.png 3.000 0.000 189.411 -8.461 4.714 -4.502 -10.804 10.640 1.130 1.034 0.790 0.614
+/home/burak/coco_dataset/foreground_objects/5996e4a99c43bb35d25d73a5.png 3.000 0.000 133.612 -176.196 2.715 -4.511 -4.169 7.905 1.003 0.426 1.145 0.540
+/home/burak/coco_dataset/foreground_objects/Angelfish-Transparent-PNG.png 3.000 0.000 344.493 563.023 2.389 -6.174 -1.596 2.422 1.038 0.410 0.830 0.459
+/home/burak/coco_dataset/foreground_objects/Sneakers-PNG-Background-Image.png 3.000 0.000 0.473 -411.221 5.603 -6.140 -9.156 10.498 0.753 1.113 0.949 1.116
+/home/burak/coco_dataset/foreground_objects/monkey.png 3.000 0.000 44.646 256.828 -4.489 11.244 -2.661 5.806 0.549 0.899 0.480 0.456
+/home/burak/coco_dataset/unlabeled2017_png/000000191499.png 3.000 0.000 321.338 16.356 -8.593 15.419 -8.930 15.688 0.365 0.353 0.417 0.447
+/home/burak/coco_dataset/unlabeled2017_png/000000191085.png 3.000 0.000 39.223 449.999 2.658 -7.220 -1.682 5.470 0.464 0.537 0.252 0.218
+/home/burak/coco_dataset/foreground_objects/Thinking-Woman-PNG-Clipart-Background.png 3.000 0.000 212.154 59.485 -0.991 3.540 -5.009 11.773 0.864 0.852 1.099 0.968
+/home/burak/coco_dataset/unlabeled2017_png/000000188603.png 3.000 0.000 128.215 -313.493 0.235 0.483 0.581 -0.284 0.513 0.345 0.224 0.322
+/home/burak/coco_dataset/unlabeled2017_png/000000189832.png 3.000 0.000 28.768 -330.463 -8.532 5.306 -3.235 1.875 0.452 0.398 0.415 0.272
+/home/burak/coco_dataset/unlabeled2017_png/000000189246.png 3.000 0.000 303.409 -72.633 -6.048 7.709 -7.004 7.425 0.388 0.245 0.570 0.335
+/home/burak/coco_dataset/unlabeled2017_png/000000000238.png 3.000 0.000 65.033 391.962 -0.344 1.489 -0.690 0.962 0.217 0.272 0.543 0.578
+/home/burak/coco_dataset/foreground_objects/Twins-PNG-Free-Download.png 3.000 0.000 76.913 315.310 14.053 -6.554 1.402 -0.502 0.440 0.562 0.553 0.491

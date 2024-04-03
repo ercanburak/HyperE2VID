@@ -1,0 +1,13 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000271975.jpg 3.000 0.000 257.117 166.275 0.479 0.180 0.433 0.138 1.086 1.485 1.249 1.071
+/home/burak/coco_dataset/foreground_objects/59db61da3752880e93e16edf.png 3.000 0.000 336.629 616.103 -0.587 0.195 -1.355 0.735 1.129 0.799 0.906 0.609
+/home/burak/coco_dataset/unlabeled2017_png/000000191486.png 3.000 0.000 64.059 -349.660 -3.460 1.332 2.637 -0.870 0.227 0.498 0.391 0.300
+/home/burak/coco_dataset/unlabeled2017_png/000000192134.png 3.000 0.000 17.491 -389.242 1.162 -6.304 -0.648 2.530 0.355 0.426 0.292 0.339
+/home/burak/coco_dataset/unlabeled2017_png/000000190465.png 3.000 0.000 117.456 502.303 -1.470 0.354 -6.565 0.970 0.331 0.454 0.483 0.204
+/home/burak/coco_dataset/foreground_objects/Honey-PNG-Photos.png 3.000 0.000 278.901 131.252 -3.591 2.248 9.593 -5.611 0.615 1.009 0.771 0.576
+/home/burak/coco_dataset/foreground_objects/Easter-Rabbit-PNG-Pic.png 3.000 0.000 97.926 389.839 4.364 -2.317 3.990 -2.403 0.598 0.838 0.596 1.199
+/home/burak/coco_dataset/unlabeled2017_png/000000190780.png 3.000 0.000 59.851 -288.421 -0.043 2.076 0.338 -3.031 0.439 0.307 0.357 0.531
+/home/burak/coco_dataset/foreground_objects/Hibiscus-PNG-HD.png 3.000 0.000 262.742 424.314 2.335 -9.584 -1.599 4.940 0.757 1.010 0.820 0.523
+/home/burak/coco_dataset/foreground_objects/putin.png 3.000 0.000 30.912 -192.778 -2.434 0.613 1.454 -0.640 1.007 0.696 0.434 1.015
+/home/burak/coco_dataset/unlabeled2017_png/000000188773.png 3.000 0.000 28.205 305.032 -0.421 -0.385 0.449 -0.095 0.381 0.214 0.335 0.506
+/home/burak/coco_dataset/foreground_objects/Salamander-PNG-File.png 3.000 0.000 93.051 500.129 1.175 -3.154 0.451 -1.666 0.747 1.174 0.983 0.474

@@ -1,0 +1,7 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000560603.jpg 3.000 0.000 334.444 296.644 0.200 0.371 -0.209 -0.266 1.068 1.415 1.385 1.171
+/home/burak/coco_dataset/foreground_objects/59bf7de47a216d0b052f12c5.png 3.000 0.000 320.380 306.434 -0.134 0.078 -0.210 0.365 1.087 0.661 1.127 0.917
+/home/burak/coco_dataset/foreground_objects/Christopher-Columbus-PNG-HD-1.png 3.000 0.000 273.210 288.932 0.255 -0.522 -0.293 0.476 1.075 0.847 1.105 0.455
+/home/burak/coco_dataset/unlabeled2017_png/000000000481.png 3.000 0.000 49.481 6.627 0.083 -0.082 0.781 -0.572 0.232 0.251 0.431 0.289
+/home/burak/coco_dataset/foreground_objects/basket.png 3.000 0.000 38.091 12.670 -0.664 -0.105 -0.867 0.769 0.868 0.966 1.123 1.012
+/home/burak/coco_dataset/unlabeled2017_png/000000190720.png 3.000 0.000 189.310 158.064 -0.105 -0.730 -0.841 0.165 0.365 0.225 0.401 0.503

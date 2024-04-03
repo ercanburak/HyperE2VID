@@ -1,0 +1,13 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000429893.jpg 3.000 0.000 318.495 378.468 -0.097 0.367 -0.424 0.014 1.349 1.157 1.190 1.289
+/home/burak/coco_dataset/foreground_objects/589c89ce64b351149f22a85e.png 3.000 0.000 253.887 574.734 0.756 -3.558 -0.967 3.539 1.074 0.779 0.551 0.911
+/home/burak/coco_dataset/unlabeled2017_png/000000189818.png 3.000 0.000 27.047 -254.314 -4.488 2.686 -12.407 6.045 0.491 0.337 0.265 0.303
+/home/burak/coco_dataset/foreground_objects/Suit-Transparent-Background.png 3.000 0.000 161.840 595.293 -2.978 5.097 -4.534 8.824 1.152 0.986 0.913 0.769
+/home/burak/coco_dataset/foreground_objects/motorbike2.png 3.000 0.000 315.508 680.353 -0.308 1.511 -0.887 2.058 0.606 1.125 1.075 0.445
+/home/burak/coco_dataset/unlabeled2017_png/000000190683.png 3.000 0.000 36.566 -102.466 -1.932 1.508 9.414 -7.984 0.389 0.217 0.579 0.329
+/home/burak/coco_dataset/unlabeled2017_png/000000190024.png 3.000 0.000 290.772 12.452 21.754 -8.786 -4.336 2.196 0.552 0.372 0.407 0.595
+/home/burak/coco_dataset/foreground_objects/Termite-PNG-Photo.png 3.000 0.000 24.530 -264.427 -1.437 1.195 -7.402 7.641 0.463 1.019 0.888 0.970
+/home/burak/coco_dataset/unlabeled2017_png/000000191137.png 3.000 0.000 250.544 -151.397 0.903 -0.016 -0.763 0.395 0.212 0.213 0.507 0.337
+/home/burak/coco_dataset/foreground_objects/Moth-Transparent-PNG.png 3.000 0.000 75.188 -195.442 1.363 -0.742 -0.171 -0.484 1.097 0.724 1.152 0.483
+/home/burak/coco_dataset/unlabeled2017_png/000000190194.png 3.000 0.000 245.114 -119.519 -2.934 4.199 3.101 -4.560 0.457 0.406 0.373 0.331
+/home/burak/coco_dataset/foreground_objects/Banana-PNG.png 3.000 0.000 282.571 614.799 -0.197 -0.038 0.338 0.443 0.844 1.114 0.795 1.133

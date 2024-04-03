@@ -1,0 +1,8 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000184754.jpg 3.000 0.000 205.707 301.213 0.006 0.525 0.378 0.044 1.119 1.093 1.439 1.394
+/home/burak/coco_dataset/foreground_objects/Giant-Squid-PNG-Photos.png 3.000 0.000 101.174 -118.316 -4.724 0.948 -3.624 0.888 0.434 0.618 0.451 0.471
+/home/burak/coco_dataset/unlabeled2017_png/000000191848.png 3.000 0.000 230.653 667.018 2.068 -1.257 -4.587 3.089 0.349 0.512 0.596 0.355
+/home/burak/coco_dataset/foreground_objects/Northern-Pintail-PNG-File.png 3.000 0.000 300.093 -109.132 -6.170 6.612 -5.515 4.977 0.483 0.881 0.846 1.141
+/home/burak/coco_dataset/foreground_objects/Parents-PNG-Pic.png 3.000 0.000 109.135 -247.406 -3.192 1.416 3.539 -1.684 0.983 0.409 0.868 0.948
+/home/burak/coco_dataset/unlabeled2017_png/000000188424.png 3.000 0.000 278.940 426.031 3.030 -4.996 7.837 -9.819 0.434 0.314 0.548 0.445
+/home/burak/coco_dataset/unlabeled2017_png/000000191745.png 3.000 0.000 359.667 469.081 -0.727 0.318 0.495 -0.824 0.279 0.574 0.262 0.524

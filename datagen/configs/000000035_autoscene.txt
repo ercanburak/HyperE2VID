@@ -1,0 +1,24 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000061665.jpg 3.000 0.000 68.958 -135.659 -0.013 -0.640 -0.347 -0.524 1.107 1.257 1.281 1.359
+/home/burak/coco_dataset/unlabeled2017_png/000000188851.png 3.000 0.000 308.283 559.036 2.447 -11.906 -0.613 5.049 0.525 0.257 0.565 0.356
+/home/burak/coco_dataset/unlabeled2017_png/000000190424.png 3.000 0.000 183.368 -170.347 -2.008 6.113 -4.556 11.924 0.298 0.490 0.539 0.298
+/home/burak/coco_dataset/foreground_objects/5a0586a79cf05203c4b603ca.png 3.000 0.000 59.122 -341.049 8.206 -4.174 -7.352 3.270 1.183 1.029 0.929 0.703
+/home/burak/coco_dataset/foreground_objects/Kiwi-Bird-PNG-Pic.png 3.000 0.000 23.406 332.172 -15.445 5.715 -25.478 8.259 0.752 0.603 0.447 0.938
+/home/burak/coco_dataset/unlabeled2017_png/000000190830.png 3.000 0.000 259.738 -212.042 1.523 -2.579 20.015 -34.453 0.562 0.231 0.450 0.412
+/home/burak/coco_dataset/unlabeled2017_png/000000189944.png 3.000 0.000 42.283 -81.466 -0.872 2.156 -9.002 12.604 0.567 0.573 0.584 0.597
+/home/burak/coco_dataset/unlabeled2017_png/000000192279.png 3.000 0.000 133.399 567.726 5.187 -9.545 -4.968 9.593 0.285 0.253 0.251 0.533
+/home/burak/coco_dataset/unlabeled2017_png/000000190835.png 3.000 0.000 300.514 151.317 -0.475 0.030 -4.120 11.643 0.595 0.430 0.531 0.529
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b284c.png 3.000 0.000 0.896 -445.962 -1.137 0.792 -2.711 2.176 1.013 0.503 0.971 1.011
+/home/burak/coco_dataset/foreground_objects/Raincoat-PNG-Transparent-Picture.png 3.000 0.000 141.459 -116.000 -1.806 2.222 -0.748 0.754 0.750 0.403 0.589 1.106
+/home/burak/coco_dataset/foreground_objects/5a835b71abc3d121aba71297.png 3.000 0.000 69.222 -353.528 -1.423 0.306 -12.879 1.902 0.721 1.171 0.862 0.944
+/home/burak/coco_dataset/foreground_objects/58da61445f58be1227aec94a.png 3.000 0.000 123.768 -26.061 5.168 -2.162 -16.889 6.660 0.640 0.428 0.814 1.015
+/home/burak/coco_dataset/unlabeled2017_png/000000188687.png 3.000 0.000 118.784 352.501 -9.868 2.738 -8.267 2.055 0.549 0.563 0.389 0.233
+/home/burak/coco_dataset/foreground_objects/Thinking-Woman-PNG-Clipart-Background.png 3.000 0.000 130.323 -298.295 -0.230 0.363 -2.796 17.348 1.121 0.867 0.628 0.966
+/home/burak/coco_dataset/foreground_objects/Maple-Leaf-PNG-Transparent-1.png 3.000 0.000 306.920 61.676 -0.115 0.865 0.112 -0.240 0.887 0.468 0.950 0.617
+/home/burak/coco_dataset/unlabeled2017_png/000000189465.png 3.000 0.000 200.871 556.197 -12.514 36.532 2.372 -7.249 0.386 0.273 0.402 0.271
+/home/burak/coco_dataset/unlabeled2017_png/000000189126.png 3.000 0.000 181.117 253.678 -8.100 4.836 4.823 -2.673 0.490 0.466 0.334 0.276
+/home/burak/coco_dataset/foreground_objects/58987664cba9841eabab6173.png 3.000 0.000 240.732 342.538 -3.942 0.140 0.800 -0.347 0.418 0.811 0.622 0.407
+/home/burak/coco_dataset/unlabeled2017_png/000000191544.png 3.000 0.000 232.946 820.224 -0.592 0.532 -1.951 1.663 0.475 0.496 0.275 0.472
+/home/burak/coco_dataset/foreground_objects/Floral-Dress-PNG-File.png 3.000 0.000 247.945 788.504 -5.453 1.535 -0.487 0.407 1.125 0.565 1.163 0.711
+/home/burak/coco_dataset/foreground_objects/Engineer-PNG-Transparent-Photo.png 3.000 0.000 294.049 600.233 4.059 -3.612 4.915 -4.128 0.806 0.804 1.188 0.649
+/home/burak/coco_dataset/unlabeled2017_png/000000191795.png 3.000 0.000 215.145 -215.934 4.893 -11.370 2.615 -6.485 0.215 0.430 0.599 0.278

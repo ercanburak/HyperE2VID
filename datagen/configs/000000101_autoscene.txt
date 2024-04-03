@@ -1,0 +1,9 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000394994.jpg 3.000 0.000 223.767 181.014 0.029 -0.704 -0.185 -0.140 1.080 1.012 1.243 1.137
+/home/burak/coco_dataset/foreground_objects/58c7e84ce665570916c653a9.png 3.000 0.000 276.518 569.957 2.658 -6.009 -6.447 16.590 0.823 0.973 0.742 0.892
+/home/burak/coco_dataset/foreground_objects/Goldfish-PNG-Free-Download.png 3.000 0.000 175.488 -17.325 -3.946 9.244 2.720 -7.917 0.411 0.863 1.010 1.050
+/home/burak/coco_dataset/unlabeled2017_png/000000000372.png 3.000 0.000 80.633 -235.766 1.968 -3.357 -0.211 0.537 0.210 0.212 0.205 0.212
+/home/burak/coco_dataset/foreground_objects/Gulls-PNG-Photos.png 3.000 0.000 267.712 105.991 -2.992 1.131 0.922 -0.574 0.537 0.450 0.642 0.472
+/home/burak/coco_dataset/unlabeled2017_png/000000192285.png 3.000 0.000 159.524 474.931 2.628 -0.660 2.438 -0.317 0.430 0.537 0.410 0.551
+/home/burak/coco_dataset/unlabeled2017_png/000000187865.png 3.000 0.000 46.593 -100.076 18.930 -3.017 -4.944 1.022 0.335 0.349 0.458 0.466
+/home/burak/coco_dataset/foreground_objects/58987664cba9841eabab6173.png 3.000 0.000 333.064 -85.910 0.967 -3.187 0.590 -3.697 0.964 0.754 1.112 0.681

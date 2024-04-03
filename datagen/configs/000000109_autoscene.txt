@@ -1,0 +1,14 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000564660.jpg 3.000 0.000 355.655 222.696 0.768 0.053 -0.051 0.098 1.087 1.326 1.341 1.075
+/home/burak/coco_dataset/unlabeled2017_png/000000187903.png 3.000 0.000 9.055 140.806 1.185 -8.820 1.186 -6.285 0.447 0.586 0.556 0.294
+/home/burak/coco_dataset/foreground_objects/58da61295f58be1227aec947.png 3.000 0.000 244.731 654.652 2.479 -3.180 0.323 -0.006 0.828 0.630 0.693 1.017
+/home/burak/coco_dataset/unlabeled2017_png/000000000410.png 3.000 0.000 82.855 496.500 -3.513 13.445 3.071 -11.861 0.242 0.236 0.282 0.222
+/home/burak/coco_dataset/foreground_objects/pig.png 3.000 0.000 334.390 142.128 3.419 -9.230 3.105 -9.802 0.755 0.972 0.579 0.980
+/home/burak/coco_dataset/unlabeled2017_png/000000187916.png 3.000 0.000 72.479 475.129 -0.726 1.696 -0.178 -0.824 0.481 0.508 0.386 0.385
+/home/burak/coco_dataset/foreground_objects/chicken2.png 3.000 0.000 270.135 505.236 1.710 -4.370 1.672 -2.050 1.025 0.991 0.782 0.837
+/home/burak/coco_dataset/unlabeled2017_png/000000188535.png 3.000 0.000 318.452 27.204 -0.568 0.120 1.777 -3.579 0.490 0.492 0.419 0.541
+/home/burak/coco_dataset/unlabeled2017_png/000000188499.png 3.000 0.000 232.500 -0.063 -0.677 3.771 -0.777 3.176 0.519 0.496 0.569 0.595
+/home/burak/coco_dataset/foreground_objects/Alligator-PNG-Transparent-HD-Photo.png 3.000 0.000 307.225 579.530 -0.016 -0.865 0.211 0.452 1.119 0.824 0.905 0.667
+/home/burak/coco_dataset/foreground_objects/5ca393a61cf23004f2836818.png 3.000 0.000 164.936 270.509 1.105 -7.613 1.004 -7.958 1.088 0.849 1.169 1.131
+/home/burak/coco_dataset/unlabeled2017_png/000000190493.png 3.000 0.000 141.948 502.843 -5.152 2.765 -5.038 3.580 0.498 0.494 0.472 0.210
+/home/burak/coco_dataset/foreground_objects/59400ca4bd0e8b4eeeb603c0.png 3.000 0.000 185.128 289.035 1.493 -4.163 -1.266 3.970 0.774 1.167 0.744 0.615

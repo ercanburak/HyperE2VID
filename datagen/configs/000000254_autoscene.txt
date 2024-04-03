@@ -1,0 +1,11 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000344895.jpg 3.000 0.000 94.670 -25.457 -0.426 0.240 0.037 0.394 1.250 1.028 1.229 1.444
+/home/burak/coco_dataset/unlabeled2017_png/000000188452.png 3.000 0.000 122.587 42.649 0.043 -0.214 -0.539 0.276 0.514 0.523 0.548 0.427
+/home/burak/coco_dataset/foreground_objects/Sikh-Turban-PNG-Clipart.png 3.000 0.000 156.787 97.549 0.649 -1.013 0.040 0.269 0.561 0.620 1.114 0.988
+/home/burak/coco_dataset/unlabeled2017_png/000000192242.png 3.000 0.000 302.960 291.815 0.506 -1.126 0.891 -2.592 0.313 0.541 0.277 0.490
+/home/burak/coco_dataset/unlabeled2017_png/000000190113.png 3.000 0.000 105.905 -33.537 0.826 -1.120 2.048 -0.481 0.216 0.286 0.558 0.225
+/home/burak/coco_dataset/foreground_objects/Maple-Leaf-PNG-Transparent-1.png 3.000 0.000 3.173 -16.947 -0.106 -0.281 0.056 -0.300 1.196 0.571 0.757 0.403
+/home/burak/coco_dataset/foreground_objects/Flying-Bird-Transparent-Background.png 3.000 0.000 90.724 159.698 -0.311 0.567 -0.224 0.031 1.087 1.179 0.415 1.038
+/home/burak/coco_dataset/foreground_objects/5b44bd6ce99939b4572e32c3.png 3.000 0.000 145.123 13.546 1.088 -1.490 -1.016 1.286 0.406 0.541 1.095 0.848
+/home/burak/coco_dataset/unlabeled2017_png/000000000466.png 3.000 0.000 50.848 -76.910 -0.184 0.294 2.014 -0.307 0.323 0.444 0.414 0.485
+/home/burak/coco_dataset/foreground_objects/putin.png 3.000 0.000 99.584 135.969 0.191 0.188 0.342 0.339 0.721 0.911 0.824 1.078

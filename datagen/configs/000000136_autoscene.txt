@@ -1,0 +1,7 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000435621.jpg 3.000 0.000 279.980 287.604 -0.141 0.037 0.449 0.387 1.182 1.337 1.152 1.003
+/home/burak/coco_dataset/unlabeled2017_png/000000187780.png 3.000 0.000 292.840 308.551 0.126 -0.298 0.205 -0.481 0.410 0.438 0.241 0.369
+/home/burak/coco_dataset/foreground_objects/Maple-Leaf-PNG-Transparent-1.png 3.000 0.000 330.417 363.982 -0.394 0.149 0.602 0.281 1.088 0.585 0.466 1.182
+/home/burak/coco_dataset/unlabeled2017_png/000000191479.png 3.000 0.000 233.859 265.850 -0.784 1.017 -0.730 0.082 0.270 0.301 0.404 0.582
+/home/burak/coco_dataset/foreground_objects/5a00dcd40e8525eec2752ff9.png 3.000 0.000 82.592 43.047 0.310 -0.967 0.561 -0.029 0.963 0.694 0.617 0.936
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b2922.png 3.000 0.000 6.718 40.988 -0.227 0.081 0.016 -0.603 0.616 0.479 0.965 0.452

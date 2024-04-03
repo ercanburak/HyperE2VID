@@ -1,0 +1,20 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000082903.jpg 3.000 0.000 196.012 -63.623 -0.592 0.452 -0.058 0.019 1.472 1.241 1.395 1.140
+/home/burak/coco_dataset/foreground_objects/Beach-PNG-Pic.png 3.000 0.000 323.164 -103.590 -5.842 9.834 5.079 -8.294 0.450 0.450 0.997 0.820
+/home/burak/coco_dataset/foreground_objects/585aa81c4f6ae202fedf2907.png 3.000 0.000 237.632 749.174 0.144 -0.834 1.203 -0.460 0.828 1.161 0.684 1.001
+/home/burak/coco_dataset/foreground_objects/Komodo-Dragon-PNG-Picture.png 3.000 0.000 260.183 -329.473 0.068 0.957 2.518 -4.280 0.863 1.174 0.510 0.595
+/home/burak/coco_dataset/unlabeled2017_png/000000188664.png 3.000 0.000 197.031 549.820 -1.761 -0.196 5.912 -1.064 0.558 0.286 0.536 0.230
+/home/burak/coco_dataset/foreground_objects/Full-Grown-White-Rose-PNG.png 3.000 0.000 177.645 -200.038 -3.126 10.209 0.348 -2.453 0.591 0.815 0.877 1.172
+/home/burak/coco_dataset/unlabeled2017_png/000000192146.png 3.000 0.000 148.376 -5.775 -18.519 2.104 1.506 -0.725 0.527 0.521 0.225 0.505
+/home/burak/coco_dataset/unlabeled2017_png/000000191440.png 3.000 0.000 184.098 5.690 -6.350 1.801 9.877 -3.253 0.382 0.432 0.591 0.201
+/home/burak/coco_dataset/foreground_objects/59bf80c37a216d0b052f12df.png 3.000 0.000 315.033 -193.051 -0.585 1.680 3.783 -21.638 0.513 1.132 0.783 0.976
+/home/burak/coco_dataset/unlabeled2017_png/000000192462.png 3.000 0.000 337.278 495.219 -5.349 2.641 -5.010 2.261 0.381 0.379 0.242 0.542
+/home/burak/coco_dataset/foreground_objects/Iguana-PNG-Picture.png 3.000 0.000 255.930 -264.288 -10.129 8.729 -4.854 4.084 1.178 0.839 0.416 0.990
+/home/burak/coco_dataset/foreground_objects/59db60be3752880e93e16ed9.png 3.000 0.000 347.348 351.476 9.953 -40.458 2.281 -8.320 1.135 0.874 0.531 0.748
+/home/burak/coco_dataset/unlabeled2017_png/000000191092.png 3.000 0.000 57.234 521.407 -13.414 4.226 1.357 -0.868 0.267 0.538 0.413 0.488
+/home/burak/coco_dataset/foreground_objects/Lawyer-Transparent-PNG.png 3.000 0.000 123.567 343.373 -0.601 0.853 -5.484 2.708 0.686 0.529 1.085 0.519
+/home/burak/coco_dataset/unlabeled2017_png/000000190030.png 3.000 0.000 339.802 -75.412 -1.830 2.457 6.884 -10.483 0.445 0.210 0.309 0.410
+/home/burak/coco_dataset/unlabeled2017_png/000000191633.png 3.000 0.000 217.012 15.301 -4.681 41.854 0.818 -5.399 0.587 0.527 0.357 0.379
+/home/burak/coco_dataset/unlabeled2017_png/000000190263.png 3.000 0.000 16.114 -95.500 -17.703 19.370 -0.802 1.534 0.439 0.288 0.515 0.466
+/home/burak/coco_dataset/foreground_objects/Socks-PNG-Transparent-Image.png 3.000 0.000 52.610 177.560 -0.037 -0.347 1.940 -10.554 0.876 0.846 1.077 0.781
+/home/burak/coco_dataset/unlabeled2017_png/000000189832.png 3.000 0.000 36.137 -35.478 -1.999 0.942 -7.719 2.884 0.302 0.209 0.514 0.268

@@ -1,0 +1,15 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000243587.jpg 3.000 0.000 350.530 685.414 0.673 -0.866 0.085 -0.166 1.274 1.310 1.110 1.243
+/home/burak/coco_dataset/foreground_objects/Northern-Pintail-PNG-File.png 3.000 0.000 197.356 128.514 36.054 -5.183 24.469 -3.419 0.952 1.104 0.831 0.695
+/home/burak/coco_dataset/unlabeled2017_png/000000188525.png 3.000 0.000 86.463 342.446 0.695 -8.705 4.108 -35.958 0.429 0.399 0.567 0.359
+/home/burak/coco_dataset/foreground_objects/Rat-PNG-Photos.png 3.000 0.000 154.406 253.485 -18.317 2.713 -21.038 3.404 0.863 0.763 0.867 0.707
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b2748.png 3.000 0.000 94.617 464.076 -5.405 4.253 3.967 -3.435 0.590 0.632 0.974 1.191
+/home/burak/coco_dataset/unlabeled2017_png/000000191308.png 3.000 0.000 74.059 -295.954 -4.730 21.386 -6.402 24.902 0.245 0.597 0.231 0.567
+/home/burak/coco_dataset/unlabeled2017_png/000000192012.png 3.000 0.000 282.020 290.789 13.933 -2.272 3.098 -0.971 0.356 0.513 0.377 0.348
+/home/burak/coco_dataset/unlabeled2017_png/000000192425.png 3.000 0.000 99.385 316.319 -5.554 2.302 -5.820 3.295 0.431 0.435 0.464 0.383
+/home/burak/coco_dataset/unlabeled2017_png/000000188210.png 3.000 0.000 263.525 40.320 -0.691 4.622 -1.071 4.008 0.307 0.580 0.433 0.282
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b2923.png 3.000 0.000 236.801 814.892 0.466 -0.106 -1.414 2.477 0.865 0.913 0.952 1.177
+/home/burak/coco_dataset/foreground_objects/Parents-PNG-Pic.png 3.000 0.000 52.754 451.896 2.595 -2.193 -14.888 12.968 0.633 1.124 0.492 0.954
+/home/burak/coco_dataset/unlabeled2017_png/000000188150.png 3.000 0.000 231.040 592.083 -5.602 14.070 15.130 -35.378 0.238 0.211 0.235 0.224
+/home/burak/coco_dataset/foreground_objects/Ladybird-PNG-Transparent-HD-Photo.png 3.000 0.000 132.915 599.645 -3.297 12.807 3.628 -11.870 0.935 1.074 0.698 0.873
+/home/burak/coco_dataset/foreground_objects/Polar-Bear-PNG-Image.png 3.000 0.000 320.331 476.757 1.431 -0.957 -1.356 1.555 0.668 0.621 1.137 0.911

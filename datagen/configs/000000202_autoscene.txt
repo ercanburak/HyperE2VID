@@ -1,0 +1,8 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000242655.jpg 3.000 0.000 149.585 90.801 0.339 -0.521 0.275 0.327 1.158 1.468 1.290 1.371
+/home/burak/coco_dataset/foreground_objects/Berries-PNG-Transparent-Image.png 3.000 0.000 68.159 -12.202 -0.907 1.698 1.044 -1.791 1.118 0.679 0.689 1.167
+/home/burak/coco_dataset/unlabeled2017_png/000000192366.png 3.000 0.000 251.228 168.362 0.115 0.763 0.418 0.100 0.516 0.484 0.451 0.525
+/home/burak/coco_dataset/foreground_objects/5aead1916554160a79be9faa.png 3.000 0.000 231.021 191.578 2.007 -1.933 0.915 -1.614 1.087 1.109 0.641 0.527
+/home/burak/coco_dataset/unlabeled2017_png/000000190004.png 3.000 0.000 317.080 442.601 0.192 0.228 -1.056 0.363 0.219 0.566 0.469 0.368
+/home/burak/coco_dataset/unlabeled2017_png/000000189909.png 3.000 0.000 102.955 166.835 0.153 -0.246 1.332 -0.795 0.385 0.250 0.240 0.321
+/home/burak/coco_dataset/foreground_objects/Yellow-Dandelion-PNG-Transparent-Image.png 3.000 0.000 52.544 12.560 -0.460 1.337 -3.618 4.270 0.989 0.534 0.601 0.506

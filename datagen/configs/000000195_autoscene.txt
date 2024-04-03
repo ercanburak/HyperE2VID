@@ -1,0 +1,18 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000257579.jpg 3.000 0.000 260.871 636.271 -0.129 -0.703 -0.302 -0.250 1.324 1.249 1.174 1.411
+/home/burak/coco_dataset/foreground_objects/Lawyer-Transparent-PNG.png 3.000 0.000 332.631 219.185 -15.561 16.758 2.200 -2.161 1.109 1.185 1.140 0.925
+/home/burak/coco_dataset/unlabeled2017_png/000000000501.png 3.000 0.000 161.189 -408.292 8.106 -4.890 -2.034 0.846 0.437 0.388 0.444 0.425
+/home/burak/coco_dataset/foreground_objects/feather.png 3.000 0.000 17.794 -360.290 6.933 -5.687 -7.843 6.037 0.547 0.470 1.186 1.130
+/home/burak/coco_dataset/unlabeled2017_png/000000189062.png 3.000 0.000 41.165 -394.740 -2.739 2.663 6.438 -8.319 0.285 0.479 0.209 0.200
+/home/burak/coco_dataset/foreground_objects/Human-PNG-Free-Download.png 3.000 0.000 32.389 58.432 -6.687 1.514 -11.356 2.810 0.523 0.989 0.617 0.818
+/home/burak/coco_dataset/unlabeled2017_png/000000191970.png 3.000 0.000 14.132 289.288 -6.415 8.545 -4.038 5.616 0.455 0.465 0.269 0.494
+/home/burak/coco_dataset/foreground_objects/5c0fce4c1e49f004df5e386f.png 3.000 0.000 136.431 215.706 2.739 -14.510 -1.254 3.825 0.545 0.706 0.448 1.103
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b2766.png 3.000 0.000 236.950 824.981 -0.308 2.490 -0.561 3.106 1.154 1.179 0.436 0.412
+/home/burak/coco_dataset/foreground_objects/5a26af4c087102040a95d493.png 3.000 0.000 294.400 -166.189 -0.241 -0.731 -2.090 8.324 0.930 0.615 0.476 1.113
+/home/burak/coco_dataset/foreground_objects/Secretary-PNG-Transparent.png 3.000 0.000 319.782 712.465 1.077 -1.208 5.703 -3.126 0.420 0.546 0.825 0.550
+/home/burak/coco_dataset/foreground_objects/589c89df64b351149f22a860.png 3.000 0.000 214.841 -174.066 0.173 0.373 0.322 -0.178 0.811 0.838 0.817 1.051
+/home/burak/coco_dataset/unlabeled2017_png/000000190296.png 3.000 0.000 85.571 242.252 0.921 0.035 -2.413 0.532 0.409 0.298 0.340 0.416
+/home/burak/coco_dataset/unlabeled2017_png/000000187778.png 3.000 0.000 352.416 250.246 -2.395 19.273 -3.589 27.668 0.485 0.201 0.556 0.479
+/home/burak/coco_dataset/unlabeled2017_png/000000190820.png 3.000 0.000 6.140 -356.968 3.468 -21.427 8.162 -48.957 0.436 0.471 0.332 0.330
+/home/burak/coco_dataset/unlabeled2017_png/000000189728.png 3.000 0.000 178.298 136.423 -0.686 2.025 6.824 -11.377 0.419 0.382 0.409 0.311
+/home/burak/coco_dataset/unlabeled2017_png/000000189329.png 3.000 0.000 156.337 739.976 1.254 -1.667 -3.604 6.751 0.278 0.313 0.222 0.261

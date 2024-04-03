@@ -1,0 +1,11 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000489653.jpg 3.000 0.000 291.963 329.549 0.111 -0.779 0.349 0.245 1.122 1.197 1.035 1.190
+/home/burak/coco_dataset/unlabeled2017_png/000000190683.png 3.000 0.000 193.189 212.358 1.036 -1.983 0.565 0.211 0.207 0.439 0.585 0.324
+/home/burak/coco_dataset/foreground_objects/motorbike2.png 3.000 0.000 89.405 45.734 0.052 -0.011 0.172 0.298 0.438 0.530 0.998 0.688
+/home/burak/coco_dataset/foreground_objects/Green-Tea-PNG-Pic.png 3.000 0.000 264.968 262.242 1.736 -0.283 -3.403 0.732 0.589 0.871 0.863 0.850
+/home/burak/coco_dataset/foreground_objects/5c6404aee4b8dd029ff25b55.png 3.000 0.000 272.127 165.292 0.033 -0.432 -0.276 -0.244 0.430 1.048 0.618 1.173
+/home/burak/coco_dataset/foreground_objects/Suit-Transparent-Background.png 3.000 0.000 355.164 276.191 -0.214 0.218 0.494 -2.176 0.658 1.166 0.486 0.845
+/home/burak/coco_dataset/unlabeled2017_png/000000190577.png 3.000 0.000 114.925 176.289 0.517 -3.303 0.152 -3.949 0.548 0.418 0.531 0.212
+/home/burak/coco_dataset/unlabeled2017_png/000000188743.png 3.000 0.000 253.094 249.216 -0.687 0.532 -0.239 0.652 0.539 0.253 0.203 0.351
+/home/burak/coco_dataset/unlabeled2017_png/000000000093.png 3.000 0.000 217.208 355.699 -0.492 1.013 -1.070 0.237 0.429 0.357 0.342 0.250
+/home/burak/coco_dataset/foreground_objects/5a05870e9cf05203c4b603ce.png 3.000 0.000 304.849 289.578 1.277 -0.133 -2.157 0.151 0.953 1.114 0.931 0.561

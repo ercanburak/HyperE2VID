@@ -1,0 +1,5 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000364472.jpg 3.000 0.000 228.989 221.918 0.138 0.093 0.136 0.175 1.261 1.388 1.472 1.369
+/home/burak/coco_dataset/foreground_objects/Kiwi-Bird-PNG-Pic.png 3.000 0.000 176.100 170.637 0.071 -0.086 -1.259 0.639 0.779 0.957 0.942 0.686
+/home/burak/coco_dataset/foreground_objects/Bison-Transparent-Background.png 3.000 0.000 306.535 323.521 0.900 -0.271 0.341 -1.105 0.535 0.458 0.739 0.570
+/home/burak/coco_dataset/unlabeled2017_png/000000188153.png 3.000 0.000 149.500 167.565 -0.437 -0.292 0.162 0.188 0.578 0.467 0.336 0.235

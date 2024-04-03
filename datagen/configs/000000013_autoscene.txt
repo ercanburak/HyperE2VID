@@ -1,0 +1,12 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000029380.jpg 3.000 0.000 131.093 -1.611 0.402 0.069 0.311 0.278 1.046 1.397 1.043 1.346
+/home/burak/coco_dataset/unlabeled2017_png/000000189849.png 3.000 0.000 252.497 125.273 6.775 -4.834 7.839 -5.742 0.538 0.554 0.307 0.260
+/home/burak/coco_dataset/unlabeled2017_png/000000000070.png 3.000 0.000 320.131 130.448 2.649 -5.168 -4.005 6.355 0.415 0.258 0.364 0.406
+/home/burak/coco_dataset/foreground_objects/Clouds-PNG-Image.png 3.000 0.000 132.675 243.543 -1.659 10.366 -0.984 4.471 0.873 0.771 1.076 1.142
+/home/burak/coco_dataset/unlabeled2017_png/000000192182.png 3.000 0.000 160.012 -137.576 0.180 -0.274 0.416 -0.778 0.531 0.504 0.276 0.468
+/home/burak/coco_dataset/unlabeled2017_png/000000000402.png 3.000 0.000 56.456 -195.616 -8.708 2.584 -1.264 0.428 0.226 0.494 0.344 0.370
+/home/burak/coco_dataset/foreground_objects/Grain-PNG-Photos.png 3.000 0.000 240.657 400.156 0.735 -0.168 0.063 -0.426 0.952 0.713 0.859 0.410
+/home/burak/coco_dataset/unlabeled2017_png/000000190830.png 3.000 0.000 346.149 563.505 1.462 -0.538 -1.853 0.667 0.225 0.369 0.246 0.544
+/home/burak/coco_dataset/foreground_objects/Box-Jellyfish-PNG-Clipart.png 3.000 0.000 155.476 42.421 -10.305 17.541 3.859 -7.051 0.440 0.508 0.796 1.156
+/home/burak/coco_dataset/foreground_objects/58c7e84ce665570916c653a9.png 3.000 0.000 331.461 574.121 0.840 -0.426 0.048 -0.741 0.659 0.777 0.892 0.653
+/home/burak/coco_dataset/foreground_objects/59db60be3752880e93e16ed9.png 3.000 0.000 354.447 111.613 -33.775 5.033 0.944 -0.370 0.892 0.650 0.604 0.483

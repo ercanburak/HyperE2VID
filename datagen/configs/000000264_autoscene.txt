@@ -1,0 +1,6 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000382626.jpg 3.000 0.000 139.030 123.557 0.045 -0.074 0.036 -0.159 1.348 1.398 1.081 1.447
+/home/burak/coco_dataset/unlabeled2017_png/000000000523.png 3.000 0.000 353.673 367.699 0.301 -0.013 0.936 -0.166 0.281 0.398 0.249 0.439
+/home/burak/coco_dataset/unlabeled2017_png/000000190786.png 3.000 0.000 91.854 82.008 0.161 -0.273 0.388 0.056 0.574 0.297 0.380 0.428
+/home/burak/coco_dataset/foreground_objects/Kiwi-Bird-PNG-Pic.png 3.000 0.000 265.932 280.080 0.019 -0.004 -0.010 0.024 0.548 0.767 1.024 0.589
+/home/burak/coco_dataset/foreground_objects/Dahlia-PNG-Transparent-Image-1.png 3.000 0.000 129.589 162.151 -0.371 -0.309 -0.011 0.051 0.888 0.417 0.975 0.773

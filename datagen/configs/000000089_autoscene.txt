@@ -1,0 +1,8 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000494802.jpg 3.000 0.000 39.130 -70.062 0.121 -0.305 0.015 -0.494 1.152 1.194 1.419 1.371
+/home/burak/coco_dataset/unlabeled2017_png/000000191970.png 3.000 0.000 178.738 428.044 0.349 -0.209 0.408 -1.094 0.581 0.436 0.269 0.403
+/home/burak/coco_dataset/unlabeled2017_png/000000191909.png 3.000 0.000 133.730 266.080 4.545 -3.864 8.099 -6.505 0.422 0.256 0.412 0.221
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b291f.png 3.000 0.000 18.573 205.807 12.105 -1.629 -2.991 0.393 1.192 0.583 0.806 0.823
+/home/burak/coco_dataset/foreground_objects/Engineer-PNG-Transparent-Photo.png 3.000 0.000 280.498 504.891 1.294 -0.151 4.524 -1.966 0.835 0.712 0.826 1.005
+/home/burak/coco_dataset/unlabeled2017_png/000000188513.png 3.000 0.000 261.539 -72.354 1.270 -2.307 -0.578 -0.059 0.478 0.221 0.512 0.462
+/home/burak/coco_dataset/foreground_objects/Heart-Pendant-PNG-Image.png 3.000 0.000 264.135 26.427 -8.569 6.526 10.957 -7.595 0.603 1.171 0.615 1.197

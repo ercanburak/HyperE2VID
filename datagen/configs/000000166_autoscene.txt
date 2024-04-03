@@ -1,0 +1,7 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000542494.jpg 3.000 0.000 143.169 215.680 -0.055 -0.295 0.399 -0.021 1.234 1.413 1.405 1.171
+/home/burak/coco_dataset/foreground_objects/Clouds-PNG-Image.png 3.000 0.000 48.855 87.168 -0.082 0.471 0.516 0.242 0.623 0.609 0.540 0.781
+/home/burak/coco_dataset/unlabeled2017_png/000000191201.png 3.000 0.000 55.660 12.927 -0.760 0.348 0.531 -0.725 0.405 0.244 0.462 0.426
+/home/burak/coco_dataset/foreground_objects/Raincoat-PNG-Transparent-Picture.png 3.000 0.000 354.976 458.434 -0.854 1.123 1.617 -1.534 0.648 0.995 0.465 0.594
+/home/burak/coco_dataset/foreground_objects/Yellow-Dandelion-PNG-Transparent-Image.png 3.000 0.000 268.053 376.600 -0.409 -0.091 -0.831 0.102 1.049 1.116 1.175 0.538
+/home/burak/coco_dataset/unlabeled2017_png/000000191406.png 3.000 0.000 264.975 231.832 -0.524 0.114 -1.031 0.313 0.452 0.578 0.414 0.533

@@ -1,0 +1,11 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000166012.jpg 3.000 0.000 135.223 118.406 0.048 -0.743 0.180 0.092 1.175 1.121 1.005 1.428
+/home/burak/coco_dataset/foreground_objects/5a00d06b0e8525eec2752fd3.png 3.000 0.000 239.642 252.164 0.665 -3.448 0.192 -3.111 0.691 0.742 0.846 1.062
+/home/burak/coco_dataset/unlabeled2017_png/000000000158.png 3.000 0.000 359.514 362.002 0.418 0.430 0.631 -1.642 0.530 0.512 0.258 0.356
+/home/burak/coco_dataset/unlabeled2017_png/000000000383.png 3.000 0.000 354.777 259.662 0.796 -0.430 0.518 0.107 0.568 0.311 0.495 0.344
+/home/burak/coco_dataset/foreground_objects/Chinese-Flower-PNG-Picture.png 3.000 0.000 242.814 369.328 0.713 -0.703 -0.295 0.673 0.568 0.614 0.470 0.828
+/home/burak/coco_dataset/foreground_objects/cockroach.png 3.000 0.000 163.481 40.418 0.639 -0.673 0.145 -0.001 0.634 0.986 0.508 0.633
+/home/burak/coco_dataset/unlabeled2017_png/000000000301.png 3.000 0.000 48.445 145.513 -1.258 3.477 -0.028 -1.039 0.355 0.598 0.243 0.210
+/home/burak/coco_dataset/foreground_objects/Gardening-Transparent-Background.png 3.000 0.000 74.936 168.097 -0.047 -0.047 -0.093 -0.106 1.058 0.688 0.752 0.529
+/home/burak/coco_dataset/unlabeled2017_png/000000000313.png 3.000 0.000 280.889 183.121 -0.270 -0.308 -0.220 1.081 0.374 0.463 0.497 0.393
+/home/burak/coco_dataset/foreground_objects/Mantis-PNG-Transparent-Image.png 3.000 0.000 210.470 134.070 -0.421 -0.107 0.072 -0.378 0.726 1.057 0.756 0.685

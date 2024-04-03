@@ -1,0 +1,11 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000186007.jpg 3.000 0.000 237.854 337.266 -0.489 0.166 0.458 0.316 1.006 1.231 1.341 1.073
+/home/burak/coco_dataset/unlabeled2017_png/000000188921.png 3.000 0.000 217.100 179.537 -0.605 0.242 1.797 -0.783 0.406 0.243 0.583 0.229
+/home/burak/coco_dataset/unlabeled2017_png/000000000141.png 3.000 0.000 157.296 198.281 -0.104 0.304 -0.066 -0.704 0.377 0.295 0.283 0.290
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b2746.png 3.000 0.000 344.380 213.561 -0.950 1.771 -0.279 -0.342 0.764 0.776 0.852 0.491
+/home/burak/coco_dataset/foreground_objects/Moth-Transparent-PNG.png 3.000 0.000 239.649 315.159 0.650 -0.328 -0.218 0.964 0.708 0.918 0.448 1.032
+/home/burak/coco_dataset/foreground_objects/Nelson-Mandela-PNG-Image.png 3.000 0.000 332.848 320.463 -1.850 0.340 -2.175 1.167 0.513 1.120 1.093 0.874
+/home/burak/coco_dataset/foreground_objects/Amphibian-PNG-HD.png 3.000 0.000 267.864 365.335 -2.498 3.076 0.930 -0.557 0.733 0.924 0.723 1.097
+/home/burak/coco_dataset/foreground_objects/Honey-PNG-Photos.png 3.000 0.000 8.419 19.854 -1.108 0.354 0.134 -0.892 0.669 0.599 0.645 1.191
+/home/burak/coco_dataset/unlabeled2017_png/000000188451.png 3.000 0.000 145.120 96.988 0.337 0.436 -0.596 -0.186 0.477 0.457 0.236 0.485
+/home/burak/coco_dataset/unlabeled2017_png/000000190046.png 3.000 0.000 65.283 -46.210 3.266 -3.421 -0.118 0.288 0.525 0.559 0.206 0.564

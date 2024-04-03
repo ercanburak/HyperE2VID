@@ -1,0 +1,13 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000173942.jpg 3.000 0.000 284.651 43.628 0.030 -0.369 0.631 -0.628 1.426 1.467 1.273 1.280
+/home/burak/coco_dataset/unlabeled2017_png/000000190912.png 3.000 0.000 207.986 465.804 2.697 -19.349 -3.602 26.003 0.391 0.203 0.337 0.444
+/home/burak/coco_dataset/foreground_objects/5a54e527edcceab89d2a2d71.png 3.000 0.000 246.411 671.254 25.357 -7.066 16.742 -4.333 0.840 0.860 0.822 0.652
+/home/burak/coco_dataset/foreground_objects/Fur-Lined-Leather-Jacket-PNG-Pic.png 3.000 0.000 269.946 762.976 4.585 -13.506 7.161 -24.050 1.019 1.176 0.807 0.731
+/home/burak/coco_dataset/foreground_objects/589c89ce64b351149f22a85e.png 3.000 0.000 285.992 -219.851 -2.010 1.456 -0.875 0.676 0.765 0.699 1.169 1.073
+/home/burak/coco_dataset/foreground_objects/tractor.png 3.000 0.000 120.849 704.873 -8.945 13.512 13.839 -21.150 0.804 0.810 0.431 0.985
+/home/burak/coco_dataset/unlabeled2017_png/000000192169.png 3.000 0.000 94.983 276.279 -0.884 2.535 5.552 -33.432 0.279 0.208 0.467 0.258
+/home/burak/coco_dataset/foreground_objects/5aead1c86554160a79be9fb0.png 3.000 0.000 90.023 -303.132 5.921 -7.424 5.878 -7.648 0.839 1.031 0.678 0.507
+/home/burak/coco_dataset/foreground_objects/Bacon-PNG-Clipart.png 3.000 0.000 14.954 485.140 -2.308 1.724 0.621 -0.191 1.195 0.674 0.616 0.562
+/home/burak/coco_dataset/unlabeled2017_png/000000188788.png 3.000 0.000 243.698 268.467 -2.033 2.194 -0.287 -0.580 0.462 0.579 0.462 0.342
+/home/burak/coco_dataset/unlabeled2017_png/000000189749.png 3.000 0.000 173.994 -305.930 1.006 -0.140 11.040 -3.016 0.405 0.309 0.516 0.493
+/home/burak/coco_dataset/unlabeled2017_png/000000192393.png 3.000 0.000 268.896 -99.080 -4.461 6.699 -2.811 4.676 0.457 0.306 0.228 0.542

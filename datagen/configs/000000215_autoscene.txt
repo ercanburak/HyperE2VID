@@ -1,0 +1,25 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000453420.jpg 3.000 0.000 271.233 410.066 0.246 0.593 0.383 -0.603 1.106 1.053 1.228 1.316
+/home/burak/coco_dataset/foreground_objects/Raincoat-PNG-Transparent-Picture.png 3.000 0.000 43.893 -64.924 0.121 -2.409 0.138 -0.485 0.466 0.780 0.680 0.771
+/home/burak/coco_dataset/unlabeled2017_png/000000191257.png 3.000 0.000 200.366 495.667 2.119 -3.794 1.396 -2.024 0.559 0.304 0.549 0.564
+/home/burak/coco_dataset/foreground_objects/Ice-Skating-Shoes-Transparent-Background.png 3.000 0.000 334.191 161.018 1.271 -3.816 1.871 -10.085 0.445 0.637 0.955 1.023
+/home/burak/coco_dataset/foreground_objects/Clouds-PNG-Image.png 3.000 0.000 23.973 156.169 -15.746 2.670 40.036 -6.931 0.830 0.922 0.468 1.040
+/home/burak/coco_dataset/unlabeled2017_png/000000190889.png 3.000 0.000 3.558 162.725 -6.801 6.978 1.637 -2.480 0.412 0.266 0.343 0.289
+/home/burak/coco_dataset/foreground_objects/Spider-PNG-Pic.png 3.000 0.000 105.101 -86.118 -0.471 0.979 -16.697 12.997 1.029 0.940 1.087 0.911
+/home/burak/coco_dataset/foreground_objects/Flying-Parrot-PNG-Transparent-Image.png 3.000 0.000 122.440 -366.178 9.167 -18.143 -5.380 11.103 0.507 0.437 0.424 1.051
+/home/burak/coco_dataset/unlabeled2017_png/000000189627.png 3.000 0.000 57.523 -375.569 1.932 0.105 -2.927 0.878 0.502 0.276 0.288 0.289
+/home/burak/coco_dataset/unlabeled2017_png/000000190565.png 3.000 0.000 178.003 238.764 0.665 0.088 0.126 -0.890 0.380 0.363 0.553 0.437
+/home/burak/coco_dataset/unlabeled2017_png/000000188020.png 3.000 0.000 309.095 838.246 1.715 -9.472 1.358 -12.061 0.379 0.299 0.486 0.328
+/home/burak/coco_dataset/unlabeled2017_png/000000190369.png 3.000 0.000 266.570 604.045 0.156 -0.081 -2.066 6.906 0.243 0.464 0.361 0.219
+/home/burak/coco_dataset/foreground_objects/59db61da3752880e93e16edf.png 3.000 0.000 172.184 -362.421 -17.227 4.294 -11.899 2.837 0.482 0.843 1.190 0.752
+/home/burak/coco_dataset/foreground_objects/Suit-Transparent-Background.png 3.000 0.000 61.354 -309.225 0.444 -0.001 -0.226 -0.258 0.439 0.910 0.640 1.091
+/home/burak/coco_dataset/foreground_objects/Sunglasses-Transparent-PNG.png 3.000 0.000 44.278 532.921 -10.427 1.820 -22.338 5.320 0.640 0.467 0.470 0.532
+/home/burak/coco_dataset/unlabeled2017_png/000000187960.png 3.000 0.000 278.762 4.563 10.331 -4.042 -0.188 0.087 0.487 0.202 0.464 0.356
+/home/burak/coco_dataset/unlabeled2017_png/000000190034.png 3.000 0.000 171.303 422.057 5.883 -19.929 5.872 -18.503 0.334 0.466 0.571 0.436
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b2766.png 3.000 0.000 25.811 293.563 -1.683 11.594 1.563 -7.348 0.561 0.787 0.706 0.843
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b2923.png 3.000 0.000 234.502 -162.632 -2.988 20.973 5.784 -43.280 0.887 0.438 0.700 0.716
+/home/burak/coco_dataset/unlabeled2017_png/000000192123.png 3.000 0.000 192.414 766.514 0.212 -1.113 -1.099 1.745 0.466 0.562 0.327 0.434
+/home/burak/coco_dataset/foreground_objects/rccar2.png 3.000 0.000 125.965 310.192 20.339 -24.586 14.074 -16.741 0.928 0.907 1.185 0.682
+/home/burak/coco_dataset/unlabeled2017_png/000000188297.png 3.000 0.000 162.399 609.873 -18.243 6.297 -11.161 3.862 0.395 0.499 0.523 0.210
+/home/burak/coco_dataset/foreground_objects/vulture.png 3.000 0.000 263.522 -17.139 0.649 -5.050 -1.002 4.948 0.558 0.875 0.839 0.758
+/home/burak/coco_dataset/unlabeled2017_png/000000191182.png 3.000 0.000 194.231 764.221 -2.336 18.599 -2.705 14.467 0.421 0.425 0.394 0.229

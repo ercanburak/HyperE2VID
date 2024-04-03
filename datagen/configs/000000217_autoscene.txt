@@ -1,0 +1,10 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000165565.jpg 3.000 0.000 225.195 295.854 -0.145 0.559 0.422 0.348 1.292 1.269 1.004 1.058
+/home/burak/coco_dataset/foreground_objects/Grain-PNG-Photos.png 3.000 0.000 36.255 -336.432 3.761 -3.692 3.845 -2.882 0.920 0.817 0.772 0.993
+/home/burak/coco_dataset/unlabeled2017_png/000000188442.png 3.000 0.000 121.706 252.554 1.528 0.075 -3.647 0.463 0.474 0.545 0.287 0.457
+/home/burak/coco_dataset/unlabeled2017_png/000000189252.png 3.000 0.000 337.986 559.664 -9.150 2.130 -2.265 0.783 0.468 0.351 0.521 0.234
+/home/burak/coco_dataset/unlabeled2017_png/000000190748.png 3.000 0.000 109.002 -304.828 -1.326 2.794 -1.081 2.630 0.539 0.481 0.450 0.375
+/home/burak/coco_dataset/foreground_objects/French-Dip-PNG-Photos.png 3.000 0.000 66.213 443.643 -1.166 0.024 1.040 -1.317 1.048 0.759 0.845 0.589
+/home/burak/coco_dataset/foreground_objects/Thinking-Woman-PNG-Clipart-Background.png 3.000 0.000 3.008 -243.064 -11.123 12.323 -12.409 13.590 0.509 0.761 1.074 1.168
+/home/burak/coco_dataset/unlabeled2017_png/000000189595.png 3.000 0.000 354.309 459.821 -0.550 2.525 -0.954 5.841 0.531 0.336 0.217 0.423
+/home/burak/coco_dataset/foreground_objects/Shark-PNG-Picture.png 3.000 0.000 278.607 534.559 -2.435 1.272 1.621 -0.873 1.190 0.582 0.446 1.011

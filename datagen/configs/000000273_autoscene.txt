@@ -1,0 +1,13 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000225339.jpg 3.000 0.000 124.199 -16.597 -0.210 0.197 0.070 -0.321 1.496 1.017 1.464 1.122
+/home/burak/coco_dataset/unlabeled2017_png/000000188452.png 3.000 0.000 275.066 675.300 10.286 -8.550 -5.112 4.370 0.411 0.343 0.372 0.370
+/home/burak/coco_dataset/unlabeled2017_png/000000191333.png 3.000 0.000 148.332 -46.984 -3.936 2.237 -5.171 3.135 0.519 0.466 0.512 0.523
+/home/burak/coco_dataset/foreground_objects/Nest-PNG-Transparent-Photo.png 3.000 0.000 125.897 329.760 -0.567 0.307 -1.955 2.366 0.548 0.840 0.561 0.461
+/home/burak/coco_dataset/foreground_objects/Tie-Transparent-Background.png 3.000 0.000 226.639 -47.399 4.832 -2.412 -0.095 -0.005 0.643 0.873 0.873 0.691
+/home/burak/coco_dataset/foreground_objects/5996e4e69c43bb35d25d73a8.png 3.000 0.000 289.569 -17.333 1.006 -0.512 -5.131 2.963 1.135 1.037 0.724 0.887
+/home/burak/coco_dataset/foreground_objects/5c0fce5b1e49f004df5e3871.png 3.000 0.000 121.872 543.775 -0.275 0.509 -2.881 -0.023 0.406 1.118 1.018 0.623
+/home/burak/coco_dataset/unlabeled2017_png/000000190539.png 3.000 0.000 254.511 -172.542 2.966 -4.132 2.154 -3.920 0.341 0.503 0.512 0.479
+/home/burak/coco_dataset/unlabeled2017_png/000000191229.png 3.000 0.000 129.577 -196.905 -0.460 -0.333 0.059 0.459 0.216 0.504 0.585 0.365
+/home/burak/coco_dataset/unlabeled2017_png/000000192125.png 3.000 0.000 59.304 190.565 -2.719 5.254 0.335 -1.396 0.526 0.353 0.337 0.235
+/home/burak/coco_dataset/foreground_objects/Drink-PNG-Image-Free-Download.png 3.000 0.000 303.726 574.628 10.237 -6.465 3.791 -2.898 0.493 1.196 0.848 1.193
+/home/burak/coco_dataset/foreground_objects/Jar-PNG-Picture.png 3.000 0.000 52.758 180.350 1.250 -0.183 -1.638 1.324 0.960 1.020 0.415 0.595

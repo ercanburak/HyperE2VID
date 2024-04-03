@@ -1,0 +1,14 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000466506.jpg 3.000 0.000 327.745 326.457 -0.545 0.204 -0.598 -0.263 1.377 1.217 1.403 1.447
+/home/burak/coco_dataset/unlabeled2017_png/000000189635.png 3.000 0.000 176.174 327.267 4.942 -3.415 -8.688 7.020 0.538 0.521 0.288 0.287
+/home/burak/coco_dataset/foreground_objects/Rhino-PNG-Clipart.png 3.000 0.000 307.346 116.619 -2.618 17.870 -1.018 4.128 0.823 1.119 0.858 1.109
+/home/burak/coco_dataset/foreground_objects/Halibut-PNG-Image.png 3.000 0.000 325.526 130.008 -1.771 0.740 -4.433 3.349 0.904 0.650 1.065 0.853
+/home/burak/coco_dataset/foreground_objects/Box-Jellyfish-PNG-Clipart.png 3.000 0.000 33.295 -253.167 -0.174 0.652 -0.449 1.345 0.707 1.113 0.483 0.655
+/home/burak/coco_dataset/unlabeled2017_png/000000190422.png 3.000 0.000 63.656 315.524 -8.311 3.190 -11.853 4.253 0.499 0.331 0.222 0.243
+/home/burak/coco_dataset/foreground_objects/Mussel-Transparent-Background.png 3.000 0.000 342.070 486.907 1.927 -3.072 2.571 -6.260 0.449 0.790 0.792 0.578
+/home/burak/coco_dataset/unlabeled2017_png/000000192425.png 3.000 0.000 279.636 -59.056 -23.333 3.803 5.571 -1.515 0.450 0.325 0.411 0.377
+/home/burak/coco_dataset/unlabeled2017_png/000000000327.png 3.000 0.000 226.756 646.098 3.556 -1.595 -2.131 0.928 0.544 0.411 0.344 0.363
+/home/burak/coco_dataset/unlabeled2017_png/000000191968.png 3.000 0.000 315.585 157.165 -1.891 1.332 -2.332 3.408 0.417 0.426 0.371 0.319
+/home/burak/coco_dataset/foreground_objects/Sneakers-PNG-Background-Image.png 3.000 0.000 35.681 167.735 -11.329 2.225 3.418 -0.552 0.492 0.527 1.111 1.029
+/home/burak/coco_dataset/foreground_objects/Rain-Boot-PNG-Transparent-Image.png 3.000 0.000 265.215 386.842 14.736 -5.649 -5.164 2.680 0.754 1.053 1.032 1.065
+/home/burak/coco_dataset/unlabeled2017_png/000000189380.png 3.000 0.000 20.369 -334.740 -0.631 2.120 -0.809 4.336 0.582 0.568 0.278 0.433

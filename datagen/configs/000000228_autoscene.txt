@@ -1,0 +1,4 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000072781.jpg 3.000 0.000 328.970 362.858 0.239 0.423 -0.065 -0.142 1.440 1.066 1.314 1.273
+/home/burak/coco_dataset/unlabeled2017_png/000000190984.png 3.000 0.000 173.379 187.874 -0.157 -0.579 0.089 -0.629 0.285 0.360 0.537 0.240
+/home/burak/coco_dataset/foreground_objects/Halibut-PNG-Image.png 3.000 0.000 61.057 110.019 -0.132 -0.682 0.707 0.135 0.629 0.401 0.621 1.031

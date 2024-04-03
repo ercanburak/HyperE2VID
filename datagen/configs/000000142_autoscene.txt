@@ -1,0 +1,11 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000218805.jpg 3.000 0.000 267.079 134.678 0.183 0.602 -0.385 -0.494 1.249 1.121 1.414 1.424
+/home/burak/coco_dataset/unlabeled2017_png/000000189649.png 3.000 0.000 114.274 114.409 0.084 0.905 1.514 -4.149 0.553 0.313 0.239 0.238
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b2766.png 3.000 0.000 195.679 84.754 3.430 -1.457 1.651 -1.151 0.891 0.960 1.081 0.916
+/home/burak/coco_dataset/unlabeled2017_png/000000189844.png 3.000 0.000 13.533 158.725 -1.690 4.081 0.269 -0.402 0.205 0.246 0.370 0.313
+/home/burak/coco_dataset/foreground_objects/5996e4a99c43bb35d25d73a5.png 3.000 0.000 165.529 292.093 -0.611 4.096 0.185 1.241 0.731 0.712 0.422 0.913
+/home/burak/coco_dataset/unlabeled2017_png/000000192030.png 3.000 0.000 200.597 317.358 1.089 -1.938 0.467 -0.541 0.343 0.287 0.511 0.314
+/home/burak/coco_dataset/foreground_objects/Reindeer-PNG-Transparent-Image.png 3.000 0.000 217.352 323.450 -0.700 -0.340 2.966 -0.159 0.623 0.951 1.075 0.539
+/home/burak/coco_dataset/foreground_objects/Marigold-PNG-File.png 3.000 0.000 115.781 158.835 1.105 -0.634 0.745 -0.485 0.775 1.163 0.835 0.402
+/home/burak/coco_dataset/foreground_objects/Honey-PNG-Photos.png 3.000 0.000 29.010 15.043 -0.002 0.726 -0.291 0.686 0.788 0.560 0.473 1.056
+/home/burak/coco_dataset/unlabeled2017_png/000000191665.png 3.000 0.000 310.037 318.407 0.411 0.082 1.633 -0.877 0.366 0.324 0.367 0.554

@@ -1,0 +1,10 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000092477.jpg 3.000 0.000 193.576 282.708 -0.259 0.344 -0.234 -0.227 1.128 1.436 1.279 1.164
+/home/burak/coco_dataset/unlabeled2017_png/000000189165.png 3.000 0.000 254.921 350.961 0.614 -0.171 -2.471 1.046 0.368 0.240 0.417 0.546
+/home/burak/coco_dataset/unlabeled2017_png/000000000580.png 3.000 0.000 29.023 -80.099 0.767 -1.838 0.496 -0.246 0.579 0.424 0.433 0.253
+/home/burak/coco_dataset/foreground_objects/58987664cba9841eabab6173.png 3.000 0.000 281.513 215.644 -0.467 -0.285 0.600 -0.016 1.140 0.641 1.079 0.558
+/home/burak/coco_dataset/foreground_objects/Suit-Transparent-Background.png 3.000 0.000 199.114 307.931 -0.602 0.643 -3.997 2.188 0.469 0.987 1.142 0.727
+/home/burak/coco_dataset/unlabeled2017_png/000000188737.png 3.000 0.000 346.448 427.422 2.213 -0.862 -2.960 0.295 0.549 0.363 0.578 0.265
+/home/burak/coco_dataset/unlabeled2017_png/000000189302.png 3.000 0.000 340.870 238.730 0.733 -3.293 0.712 -2.161 0.394 0.217 0.480 0.330
+/home/burak/coco_dataset/foreground_objects/Pelican-PNG-Free-Download.png 3.000 0.000 21.528 -86.487 -0.658 1.346 0.069 0.225 0.529 0.812 0.540 0.427
+/home/burak/coco_dataset/foreground_objects/58da605c5f58be1227aec941.png 3.000 0.000 48.836 51.468 -0.738 0.422 2.555 -0.807 0.602 0.991 0.869 0.734

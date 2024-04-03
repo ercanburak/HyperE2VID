@@ -1,0 +1,19 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000213092.jpg 3.000 0.000 254.379 120.198 -0.178 0.168 -0.046 0.249 1.222 1.058 1.324 1.045
+/home/burak/coco_dataset/unlabeled2017_png/000000000327.png 3.000 0.000 359.147 83.760 0.002 0.654 0.042 0.051 0.405 0.557 0.417 0.568
+/home/burak/coco_dataset/foreground_objects/Alligator-PNG-Transparent-HD-Photo.png 3.000 0.000 270.754 451.568 0.584 -0.647 0.830 -0.516 0.451 1.128 0.659 0.832
+/home/burak/coco_dataset/foreground_objects/5c61e382e4b8dd029ff25b02.png 3.000 0.000 318.432 152.857 1.035 -0.743 -3.174 6.433 0.686 0.445 0.580 1.148
+/home/burak/coco_dataset/foreground_objects/Asparagus-Transparent-Background.png 3.000 0.000 43.202 -398.150 4.558 -3.601 0.290 -0.649 0.809 0.820 0.931 0.789
+/home/burak/coco_dataset/unlabeled2017_png/000000000170.png 3.000 0.000 29.035 448.680 0.274 -1.168 0.232 -0.542 0.268 0.588 0.453 0.473
+/home/burak/coco_dataset/unlabeled2017_png/000000000267.png 3.000 0.000 146.046 31.537 3.129 -1.717 0.635 -0.201 0.265 0.259 0.583 0.283
+/home/burak/coco_dataset/unlabeled2017_png/000000000207.png 3.000 0.000 142.002 -292.488 1.574 -0.320 -3.918 2.216 0.320 0.392 0.309 0.463
+/home/burak/coco_dataset/unlabeled2017_png/000000000598.png 3.000 0.000 338.881 486.894 -5.887 6.936 -5.418 6.361 0.296 0.257 0.565 0.212
+/home/burak/coco_dataset/foreground_objects/Kingfisher-Background-PNG.png 3.000 0.000 287.095 -78.252 19.981 -9.125 -7.571 3.404 0.416 0.716 0.446 0.865
+/home/burak/coco_dataset/unlabeled2017_png/000000000243.png 3.000 0.000 94.862 -8.615 1.765 -1.220 13.185 -4.530 0.206 0.292 0.531 0.440
+/home/burak/coco_dataset/unlabeled2017_png/000000000506.png 3.000 0.000 194.758 501.429 4.706 -5.428 4.198 -5.211 0.540 0.446 0.386 0.313
+/home/burak/coco_dataset/foreground_objects/5aead1c86554160a79be9fb0.png 3.000 0.000 307.412 -72.199 4.058 -1.719 4.467 -1.594 0.881 0.612 0.990 0.537
+/home/burak/coco_dataset/foreground_objects/Rhino-PNG-Clipart.png 3.000 0.000 91.024 -104.322 -6.343 4.324 -2.025 1.682 1.151 0.587 1.053 1.189
+/home/burak/coco_dataset/unlabeled2017_png/000000000266.png 3.000 0.000 23.637 175.105 -1.080 2.218 2.019 -1.989 0.201 0.290 0.592 0.421
+/home/burak/coco_dataset/foreground_objects/5a54e536edcceab89d2a2d73.png 3.000 0.000 52.590 446.021 4.042 -5.845 1.898 -3.739 1.030 0.763 0.690 0.589
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b2922.png 3.000 0.000 244.440 609.510 6.036 -0.979 7.109 -0.903 0.664 0.703 0.808 0.588
+/home/burak/coco_dataset/foreground_objects/Suit-Transparent-Background.png 3.000 0.000 269.082 79.778 0.551 -2.292 -0.901 4.176 0.967 1.037 0.992 0.664

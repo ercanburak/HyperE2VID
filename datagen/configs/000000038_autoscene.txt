@@ -1,0 +1,9 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000521403.jpg 3.000 0.000 329.882 247.845 0.079 0.752 0.039 0.065 1.491 1.240 1.309 1.210
+/home/burak/coco_dataset/unlabeled2017_png/000000188122.png 3.000 0.000 345.925 350.422 -1.029 2.377 0.768 -3.638 0.346 0.272 0.248 0.541
+/home/burak/coco_dataset/foreground_objects/Halloween-Costume-PNG-No-Background.png 3.000 0.000 217.271 122.792 0.729 -0.105 0.028 0.746 0.838 0.871 1.171 0.658
+/home/burak/coco_dataset/foreground_objects/Engineer-PNG-Transparent-Photo.png 3.000 0.000 250.264 396.151 -4.990 0.735 -0.379 -0.034 0.622 0.992 1.091 0.814
+/home/burak/coco_dataset/foreground_objects/Carne-Asada-PNG-File.png 3.000 0.000 38.763 77.688 -0.479 0.142 0.669 -0.281 0.679 0.539 0.837 0.708
+/home/burak/coco_dataset/foreground_objects/58987679cba9841eabab6174.png 3.000 0.000 335.854 408.529 6.583 -2.899 3.364 -1.033 1.165 1.054 0.502 1.188
+/home/burak/coco_dataset/unlabeled2017_png/000000189133.png 3.000 0.000 307.425 210.230 0.182 -0.601 -1.332 2.535 0.410 0.429 0.525 0.571
+/home/burak/coco_dataset/unlabeled2017_png/000000190768.png 3.000 0.000 136.657 75.487 -0.522 2.059 0.092 -1.074 0.215 0.333 0.427 0.354

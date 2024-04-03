@@ -1,0 +1,9 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000567467.jpg 3.000 0.000 13.153 -105.420 -0.587 -0.018 0.378 -0.273 1.030 1.489 1.205 1.071
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b27c5.png 3.000 0.000 146.317 102.381 -0.873 0.162 0.523 -0.719 0.754 1.087 0.986 0.506
+/home/burak/coco_dataset/foreground_objects/Human-PNG-Clipart.png 3.000 0.000 183.670 270.527 0.840 -0.436 0.211 0.091 0.477 0.475 0.544 0.498
+/home/burak/coco_dataset/foreground_objects/5956778584b1c2079d25cb47.png 3.000 0.000 57.309 60.116 -0.953 0.358 -4.768 3.188 0.609 0.574 0.654 0.994
+/home/burak/coco_dataset/unlabeled2017_png/000000188094.png 3.000 0.000 202.497 205.653 -0.389 1.412 -1.434 3.321 0.318 0.522 0.223 0.332
+/home/burak/coco_dataset/unlabeled2017_png/000000188138.png 3.000 0.000 275.082 145.908 -0.485 1.028 -1.207 1.638 0.377 0.220 0.283 0.220
+/home/burak/coco_dataset/unlabeled2017_png/000000187918.png 3.000 0.000 296.153 254.722 0.624 -0.038 0.208 -0.091 0.322 0.527 0.520 0.596
+/home/burak/coco_dataset/foreground_objects/Turkey-PNG-File.png 3.000 0.000 109.780 3.566 -0.336 4.064 -0.365 2.010 0.955 0.896 0.938 0.736

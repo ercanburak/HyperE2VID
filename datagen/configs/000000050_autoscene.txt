@@ -1,0 +1,9 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000062065.jpg 3.000 0.000 234.940 280.828 0.328 -0.173 0.307 0.335 1.396 1.211 1.260 1.031
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b27c7.png 3.000 0.000 81.863 -48.000 -0.717 0.118 0.241 -0.941 1.060 0.917 0.744 0.495
+/home/burak/coco_dataset/unlabeled2017_png/000000192442.png 3.000 0.000 242.844 253.578 0.264 -0.782 0.128 0.022 0.532 0.388 0.557 0.513
+/home/burak/coco_dataset/foreground_objects/5af2b1c36554160a79bea033.png 3.000 0.000 239.977 388.379 -0.143 1.613 -0.584 1.586 0.884 0.719 1.171 1.148
+/home/burak/coco_dataset/foreground_objects/Northern-Pintail-PNG-File.png 3.000 0.000 182.787 271.776 0.961 -0.025 -2.343 0.708 0.744 0.895 1.028 0.859
+/home/burak/coco_dataset/unlabeled2017_png/000000191736.png 3.000 0.000 66.670 127.925 1.860 -0.102 2.206 -0.558 0.401 0.428 0.572 0.259
+/home/burak/coco_dataset/unlabeled2017_png/000000188538.png 3.000 0.000 19.283 69.080 -0.872 0.662 0.625 -0.717 0.372 0.545 0.288 0.570
+/home/burak/coco_dataset/foreground_objects/Sunflower-Transparent-PNG.png 3.000 0.000 74.735 87.443 -0.829 0.898 0.992 -1.964 0.872 1.120 0.845 0.781

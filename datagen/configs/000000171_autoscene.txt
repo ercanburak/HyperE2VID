@@ -1,0 +1,25 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000187970.jpg 3.000 0.000 246.732 -184.275 -0.596 0.953 0.075 0.124 1.445 1.498 1.469 1.157
+/home/burak/coco_dataset/unlabeled2017_png/000000190173.png 3.000 0.000 264.132 273.556 3.439 -2.995 -2.438 2.334 0.389 0.426 0.548 0.390
+/home/burak/coco_dataset/foreground_objects/Abraham-Lincoln-Transparent-Background.png 3.000 0.000 47.973 -124.090 -5.802 8.601 -2.007 4.107 0.845 0.970 0.649 1.169
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b2766.png 3.000 0.000 8.561 519.084 0.095 0.626 1.452 -0.591 0.964 0.500 0.904 0.903
+/home/burak/coco_dataset/unlabeled2017_png/000000189683.png 3.000 0.000 262.448 507.276 34.368 -16.265 16.994 -8.544 0.472 0.361 0.362 0.349
+/home/burak/coco_dataset/foreground_objects/Polar-Bear-PNG-Image.png 3.000 0.000 94.841 437.405 -12.042 5.294 1.878 -0.848 0.953 0.426 0.501 0.921
+/home/burak/coco_dataset/foreground_objects/59567bfa84b1c2079d25cb62.png 3.000 0.000 228.523 -275.721 0.389 -0.245 0.087 0.711 0.886 0.510 0.993 1.127
+/home/burak/coco_dataset/unlabeled2017_png/000000190237.png 3.000 0.000 103.807 -276.038 19.620 -3.416 7.604 -1.820 0.280 0.483 0.419 0.297
+/home/burak/coco_dataset/foreground_objects/59bf80c37a216d0b052f12df.png 3.000 0.000 50.828 -100.866 -5.673 7.923 -0.225 -0.109 0.981 0.673 0.473 0.525
+/home/burak/coco_dataset/unlabeled2017_png/000000191753.png 3.000 0.000 103.370 181.195 10.994 -5.026 -7.041 2.877 0.410 0.379 0.567 0.323
+/home/burak/coco_dataset/foreground_objects/59bf80d47a216d0b052f12e1.png 3.000 0.000 217.681 101.062 6.672 -2.413 10.191 -3.513 0.606 0.798 0.556 0.778
+/home/burak/coco_dataset/unlabeled2017_png/000000000070.png 3.000 0.000 212.347 643.052 18.951 -6.730 -1.564 0.135 0.371 0.375 0.537 0.436
+/home/burak/coco_dataset/unlabeled2017_png/000000189194.png 3.000 0.000 312.402 548.968 -1.744 0.637 -17.483 3.797 0.429 0.219 0.540 0.566
+/home/burak/coco_dataset/foreground_objects/Octopus-Toy-PNG-Photos.png 3.000 0.000 259.884 -339.403 -5.314 23.142 0.090 -1.225 0.499 0.502 0.528 0.419
+/home/burak/coco_dataset/unlabeled2017_png/000000188127.png 3.000 0.000 33.364 -26.179 -4.957 13.120 3.494 -8.321 0.271 0.208 0.476 0.272
+/home/burak/coco_dataset/unlabeled2017_png/000000191039.png 3.000 0.000 329.729 682.972 5.506 -1.166 2.462 -0.757 0.368 0.266 0.227 0.546
+/home/burak/coco_dataset/foreground_objects/5a902068b15d5c051b369056.png 3.000 0.000 270.640 359.549 0.280 -1.350 0.799 -0.828 0.452 0.676 0.565 0.862
+/home/burak/coco_dataset/foreground_objects/Marigold-PNG-File.png 3.000 0.000 288.851 183.638 5.940 -1.979 11.647 -4.116 1.034 0.683 0.559 1.077
+/home/burak/coco_dataset/unlabeled2017_png/000000189702.png 3.000 0.000 258.271 855.928 2.084 -4.251 -4.600 8.944 0.347 0.292 0.479 0.509
+/home/burak/coco_dataset/unlabeled2017_png/000000189206.png 3.000 0.000 48.037 615.759 0.239 -0.690 -0.171 -0.479 0.240 0.582 0.583 0.562
+/home/burak/coco_dataset/foreground_objects/Gulls-PNG-Photo.png 3.000 0.000 256.047 17.634 -18.126 8.787 2.777 -0.949 0.831 0.541 1.025 0.628
+/home/burak/coco_dataset/unlabeled2017_png/000000189873.png 3.000 0.000 128.076 325.216 3.291 -0.395 2.208 -0.019 0.505 0.533 0.477 0.388
+/home/burak/coco_dataset/foreground_objects/Pterosaurs-Transparent-Background.png 3.000 0.000 135.803 434.028 -2.220 5.950 -1.342 3.980 0.430 0.929 0.685 0.955
+/home/burak/coco_dataset/foreground_objects/Jersey-PNG-Transparent.png 3.000 0.000 92.839 643.979 -6.512 11.173 6.012 -12.458 1.180 0.954 0.996 0.790

@@ -1,0 +1,19 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000539619.jpg 3.000 0.000 57.985 94.023 -0.294 0.227 0.459 -0.270 1.341 1.407 1.052 1.115
+/home/burak/coco_dataset/unlabeled2017_png/000000000166.png 3.000 0.000 5.000 403.863 0.305 0.703 1.081 -7.283 0.204 0.403 0.524 0.481
+/home/burak/coco_dataset/unlabeled2017_png/000000000323.png 3.000 0.000 224.505 567.423 -1.581 0.235 -1.428 -0.001 0.536 0.407 0.393 0.260
+/home/burak/coco_dataset/unlabeled2017_png/000000000327.png 3.000 0.000 177.203 -124.464 -16.597 3.119 -0.395 0.052 0.464 0.587 0.594 0.424
+/home/burak/coco_dataset/unlabeled2017_png/000000000470.png 3.000 0.000 336.302 -44.710 0.453 0.054 2.857 -8.645 0.268 0.396 0.453 0.236
+/home/burak/coco_dataset/unlabeled2017_png/000000000291.png 3.000 0.000 321.348 597.419 -1.450 8.727 1.367 -8.394 0.329 0.542 0.324 0.393
+/home/burak/coco_dataset/unlabeled2017_png/000000000158.png 3.000 0.000 297.216 631.826 -0.818 5.086 -1.112 7.257 0.597 0.386 0.417 0.386
+/home/burak/coco_dataset/foreground_objects/rccar2.png 3.000 0.000 154.167 -111.674 -0.435 2.356 0.892 -7.078 1.094 0.636 0.519 0.550
+/home/burak/coco_dataset/foreground_objects/Pelican-PNG-Free-Download.png 3.000 0.000 6.312 229.182 0.307 -1.817 -0.868 2.803 1.190 0.576 0.468 0.999
+/home/burak/coco_dataset/foreground_objects/Milkshake-PNG-HD-Quality.png 3.000 0.000 33.816 -104.360 -12.242 9.422 14.484 -11.729 1.020 1.088 0.811 1.003
+/home/burak/coco_dataset/foreground_objects/Hibiscus-PNG-HD.png 3.000 0.000 252.415 494.287 -0.058 -0.582 -2.466 3.066 1.195 0.501 0.621 0.447
+/home/burak/coco_dataset/foreground_objects/Barley-Transparent-PNG.png 3.000 0.000 281.600 -58.995 -6.667 10.221 4.560 -7.026 0.865 0.540 0.937 0.973
+/home/burak/coco_dataset/unlabeled2017_png/000000000498.png 3.000 0.000 69.811 464.591 -11.897 11.521 14.731 -13.481 0.210 0.286 0.412 0.234
+/home/burak/coco_dataset/unlabeled2017_png/000000000233.png 3.000 0.000 280.673 412.862 1.648 -0.993 1.026 0.174 0.466 0.282 0.573 0.599
+/home/burak/coco_dataset/foreground_objects/Salamander-PNG-File.png 3.000 0.000 74.478 -280.249 -0.003 -0.686 -0.818 6.875 0.585 0.518 1.185 0.527
+/home/burak/coco_dataset/foreground_objects/Bok-Choy-PNG-HD.png 3.000 0.000 57.330 368.711 -0.266 0.113 0.512 -1.018 0.987 1.129 0.832 1.137
+/home/burak/coco_dataset/foreground_objects/Carpet-PNG-Photos.png 3.000 0.000 198.118 -46.815 7.143 -3.461 17.022 -7.623 0.902 0.578 0.704 0.403
+/home/burak/coco_dataset/foreground_objects/Termite-PNG-Photo.png 3.000 0.000 163.878 -73.902 -3.150 7.049 -2.348 4.654 0.659 1.123 0.596 1.195

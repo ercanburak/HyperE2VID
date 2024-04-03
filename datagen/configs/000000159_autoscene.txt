@@ -1,0 +1,15 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000295910.jpg 3.000 0.000 193.648 329.783 -0.333 -0.242 -0.437 -0.310 1.136 1.242 1.363 1.223
+/home/burak/coco_dataset/foreground_objects/Flying-Bird-Transparent-Background.png 3.000 0.000 14.802 -140.751 -3.545 6.524 3.232 -6.049 1.025 0.518 0.616 0.743
+/home/burak/coco_dataset/unlabeled2017_png/000000190237.png 3.000 0.000 311.335 -37.238 3.282 -3.247 -8.524 7.476 0.537 0.326 0.550 0.329
+/home/burak/coco_dataset/foreground_objects/Pigeon-PNG-Image.png 3.000 0.000 171.370 382.402 3.298 -0.296 -8.265 2.463 0.403 0.689 0.752 0.484
+/home/burak/coco_dataset/unlabeled2017_png/000000187780.png 3.000 0.000 9.635 232.945 5.200 -7.972 0.910 -0.597 0.413 0.340 0.271 0.567
+/home/burak/coco_dataset/unlabeled2017_png/000000191024.png 3.000 0.000 295.544 144.051 5.366 -17.383 2.662 -8.608 0.365 0.307 0.217 0.358
+/home/burak/coco_dataset/foreground_objects/Fake-Moustache-PNG-Picture.png 3.000 0.000 253.663 -264.208 7.365 -7.759 0.968 -0.764 0.787 0.650 0.773 0.492
+/home/burak/coco_dataset/unlabeled2017_png/000000188045.png 3.000 0.000 129.019 677.228 -0.623 3.375 -0.338 -0.137 0.354 0.250 0.416 0.243
+/home/burak/coco_dataset/foreground_objects/Sunglasses-Transparent-PNG.png 3.000 0.000 239.225 -241.742 -1.252 2.684 2.617 -6.091 0.815 0.407 0.834 1.034
+/home/burak/coco_dataset/foreground_objects/Barn-Owl-PNG-Picture.png 3.000 0.000 296.102 -103.764 -10.406 27.631 3.145 -9.094 0.841 0.736 1.079 0.555
+/home/burak/coco_dataset/foreground_objects/5a00dcf30e8525eec2752ffb.png 3.000 0.000 65.599 444.606 -1.015 2.783 5.849 -12.838 0.933 0.626 1.035 1.039
+/home/burak/coco_dataset/unlabeled2017_png/000000189367.png 3.000 0.000 248.157 -8.487 17.797 -10.747 -0.974 0.678 0.466 0.421 0.430 0.283
+/home/burak/coco_dataset/foreground_objects/Coconut-Tree-PNG-Photos.png 3.000 0.000 112.875 43.036 -8.613 9.867 1.189 -0.612 0.803 0.429 0.637 0.622
+/home/burak/coco_dataset/unlabeled2017_png/000000188740.png 3.000 0.000 312.266 -219.953 1.185 -2.547 0.540 -2.797 0.538 0.575 0.560 0.346

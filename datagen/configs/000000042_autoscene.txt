@@ -1,0 +1,7 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000276534.jpg 3.000 0.000 74.474 -39.231 0.000 0.572 -0.082 -0.460 1.289 1.341 1.414 1.068
+/home/burak/coco_dataset/foreground_objects/5af2b1be6554160a79bea032.png 3.000 0.000 116.595 199.065 -0.019 0.267 -0.254 0.218 0.667 1.055 0.425 0.402
+/home/burak/coco_dataset/foreground_objects/chicken2.png 3.000 0.000 229.436 143.191 0.721 -4.208 -0.252 -1.395 0.513 1.051 1.146 0.808
+/home/burak/coco_dataset/foreground_objects/Sun-PNG-Photo.png 3.000 0.000 283.226 270.792 1.128 -1.277 1.419 -0.453 0.907 1.180 1.029 0.903
+/home/burak/coco_dataset/unlabeled2017_png/000000188664.png 3.000 0.000 138.487 4.364 0.322 -0.877 0.579 -0.049 0.383 0.367 0.256 0.394
+/home/burak/coco_dataset/unlabeled2017_png/000000188425.png 3.000 0.000 326.718 389.782 0.847 -0.022 -0.054 0.229 0.485 0.445 0.538 0.305

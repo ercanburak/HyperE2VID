@@ -1,0 +1,15 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000527572.jpg 3.000 0.000 21.294 -289.937 0.250 0.300 -0.245 0.068 1.028 1.240 1.085 1.150
+/home/burak/coco_dataset/foreground_objects/Floral-Dress-PNG-File.png 3.000 0.000 126.209 400.232 2.510 -10.257 1.701 -7.065 0.719 0.573 0.510 0.760
+/home/burak/coco_dataset/foreground_objects/589c89ce64b351149f22a85e.png 3.000 0.000 126.379 341.566 -6.617 19.402 -0.275 0.359 1.043 0.908 0.584 0.737
+/home/burak/coco_dataset/foreground_objects/Fur-Lined-Leather-Jacket-PNG-Pic.png 3.000 0.000 250.588 754.561 9.054 -2.285 -11.746 3.649 0.617 0.624 1.092 0.875
+/home/burak/coco_dataset/unlabeled2017_png/000000188538.png 3.000 0.000 195.749 138.417 -1.605 1.918 5.814 -5.516 0.571 0.368 0.342 0.499
+/home/burak/coco_dataset/unlabeled2017_png/000000190190.png 3.000 0.000 69.983 395.430 -0.774 2.813 2.061 -4.880 0.484 0.495 0.276 0.214
+/home/burak/coco_dataset/foreground_objects/French-Dip-PNG-Photos.png 3.000 0.000 194.511 -253.801 -0.086 1.028 9.196 -15.352 0.539 0.739 0.849 1.039
+/home/burak/coco_dataset/foreground_objects/58da61295f58be1227aec947.png 3.000 0.000 156.772 462.348 -10.371 6.310 4.263 -1.662 0.881 0.650 0.741 0.479
+/home/burak/coco_dataset/unlabeled2017_png/000000188686.png 3.000 0.000 115.206 -36.145 4.231 -6.584 1.912 -3.741 0.545 0.234 0.360 0.522
+/home/burak/coco_dataset/unlabeled2017_png/000000188878.png 3.000 0.000 137.555 177.049 13.140 -2.681 -0.713 0.492 0.484 0.201 0.251 0.245
+/home/burak/coco_dataset/unlabeled2017_png/000000192076.png 3.000 0.000 10.835 -11.722 2.909 -2.426 -8.296 7.100 0.405 0.406 0.309 0.545
+/home/burak/coco_dataset/foreground_objects/59bf80d47a216d0b052f12e1.png 3.000 0.000 337.512 235.456 0.100 0.262 0.275 0.070 0.893 0.977 0.558 1.152
+/home/burak/coco_dataset/unlabeled2017_png/000000188138.png 3.000 0.000 103.805 514.557 0.496 -1.642 0.435 0.324 0.489 0.307 0.503 0.319
+/home/burak/coco_dataset/foreground_objects/Shark-PNG-Picture.png 3.000 0.000 304.231 251.128 -3.633 9.306 -2.699 4.900 0.805 0.740 1.004 0.581

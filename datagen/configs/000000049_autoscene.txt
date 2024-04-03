@@ -1,0 +1,12 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000532000.jpg 3.000 0.000 233.770 300.718 -0.298 -0.061 0.590 -0.109 1.023 1.360 1.474 1.461
+/home/burak/coco_dataset/foreground_objects/59bedb387a216d0b052f128d.png 3.000 0.000 344.669 95.812 0.925 -4.151 -0.049 -0.739 1.076 1.117 0.950 0.728
+/home/burak/coco_dataset/unlabeled2017_png/000000190386.png 3.000 0.000 115.022 306.874 3.600 -5.888 -3.321 4.900 0.312 0.261 0.459 0.433
+/home/burak/coco_dataset/unlabeled2017_png/000000000166.png 3.000 0.000 43.520 -137.891 1.773 -0.187 -9.066 1.813 0.344 0.221 0.410 0.399
+/home/burak/coco_dataset/foreground_objects/Clouds-PNG-Image.png 3.000 0.000 266.050 139.288 -4.723 3.635 10.101 -7.943 1.064 0.493 0.623 1.008
+/home/burak/coco_dataset/foreground_objects/Stranger-Transparent-Background.png 3.000 0.000 249.119 481.174 -0.311 -0.427 -0.456 0.566 1.152 0.743 0.643 0.766
+/home/burak/coco_dataset/foreground_objects/Bald-Eagle-Transparent-Images-PNG.png 3.000 0.000 77.761 -300.727 -9.362 1.054 5.974 -1.006 0.735 1.171 1.057 0.923
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b2766.png 3.000 0.000 203.113 464.139 5.062 -1.121 -1.682 0.739 0.712 0.511 1.074 1.119
+/home/burak/coco_dataset/unlabeled2017_png/000000188278.png 3.000 0.000 128.229 356.711 0.522 0.350 0.058 0.013 0.304 0.471 0.397 0.556
+/home/burak/coco_dataset/unlabeled2017_png/000000188538.png 3.000 0.000 99.235 397.507 -1.372 3.475 -0.045 1.738 0.555 0.479 0.407 0.535
+/home/burak/coco_dataset/unlabeled2017_png/000000191698.png 3.000 0.000 347.163 578.570 1.527 -10.224 0.424 -4.495 0.310 0.371 0.498 0.367

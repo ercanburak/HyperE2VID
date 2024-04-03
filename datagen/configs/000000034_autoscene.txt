@@ -1,0 +1,8 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000067448.jpg 3.000 0.000 46.989 194.518 0.429 -0.006 0.044 0.206 1.016 1.291 1.402 1.207
+/home/burak/coco_dataset/foreground_objects/Kingfisher-Background-PNG.png 3.000 0.000 180.966 261.386 -1.186 3.087 1.593 -2.054 1.189 0.719 0.652 0.601
+/home/burak/coco_dataset/foreground_objects/58987650cba9841eabab6171.png 3.000 0.000 331.768 188.449 -0.721 0.702 1.579 -0.910 0.935 0.530 0.754 1.190
+/home/burak/coco_dataset/unlabeled2017_png/000000189282.png 3.000 0.000 30.654 -56.521 0.645 -1.082 -0.447 0.556 0.591 0.512 0.474 0.385
+/home/burak/coco_dataset/unlabeled2017_png/000000189892.png 3.000 0.000 304.954 433.895 6.579 -0.839 0.997 -0.050 0.287 0.261 0.592 0.375
+/home/burak/coco_dataset/unlabeled2017_png/000000190237.png 3.000 0.000 30.007 79.004 -0.110 -0.320 -0.109 -0.296 0.449 0.545 0.375 0.376
+/home/burak/coco_dataset/foreground_objects/5a00dcf30e8525eec2752ffb.png 3.000 0.000 180.751 234.505 0.105 0.703 1.103 -0.552 0.471 0.745 1.003 0.432

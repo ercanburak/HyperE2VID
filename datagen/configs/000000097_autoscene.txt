@@ -1,0 +1,11 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000263448.jpg 3.000 0.000 211.530 332.741 0.036 -0.040 -0.025 0.618 1.350 1.191 1.397 1.324
+/home/burak/coco_dataset/unlabeled2017_png/000000190946.png 3.000 0.000 273.392 59.029 -1.752 2.906 0.049 0.243 0.553 0.291 0.422 0.298
+/home/burak/coco_dataset/foreground_objects/Kissing-Bug-PNG-Transparent-Image.png 3.000 0.000 334.375 173.321 -0.526 0.125 -1.344 1.448 0.854 1.095 0.997 0.698
+/home/burak/coco_dataset/unlabeled2017_png/000000191253.png 3.000 0.000 93.552 390.106 -3.664 1.297 5.869 -2.053 0.268 0.401 0.257 0.536
+/home/burak/coco_dataset/unlabeled2017_png/000000192229.png 3.000 0.000 150.269 -84.754 -3.128 9.771 1.547 -5.443 0.238 0.268 0.327 0.274
+/home/burak/coco_dataset/unlabeled2017_png/000000189803.png 3.000 0.000 334.476 9.769 -1.037 0.202 1.499 -1.212 0.372 0.444 0.517 0.202
+/home/burak/coco_dataset/foreground_objects/59400ca4bd0e8b4eeeb603c0.png 3.000 0.000 80.946 -36.229 3.702 -1.105 -1.334 -0.010 1.169 0.716 0.404 0.788
+/home/burak/coco_dataset/foreground_objects/5b44bd6ce99939b4572e32c3.png 3.000 0.000 44.722 435.604 -1.080 6.007 -2.229 11.943 0.665 0.471 0.664 1.139
+/home/burak/coco_dataset/foreground_objects/Jersey-PNG-Transparent.png 3.000 0.000 175.546 20.540 1.038 -6.786 0.613 -3.060 1.011 0.611 0.756 0.863
+/home/burak/coco_dataset/foreground_objects/Camomile-Flower-PNG.png 3.000 0.000 277.956 659.268 -1.090 0.196 6.183 -2.023 0.558 1.031 0.529 0.926

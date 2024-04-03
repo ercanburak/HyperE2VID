@@ -1,0 +1,14 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000427482.jpg 3.000 0.000 176.059 66.883 -0.340 -0.195 -0.612 0.214 1.397 1.291 1.318 1.192
+/home/burak/coco_dataset/foreground_objects/5954bf12deaf2c03413be360.png 3.000 0.000 355.014 155.358 -7.893 2.869 8.372 -3.099 0.756 0.838 0.910 0.863
+/home/burak/coco_dataset/unlabeled2017_png/000000191814.png 3.000 0.000 275.182 71.350 -2.811 0.410 1.197 -0.158 0.522 0.566 0.502 0.297
+/home/burak/coco_dataset/foreground_objects/58c7f157e665570916c653f5.png 3.000 0.000 20.633 -311.210 -0.541 0.051 -0.754 1.375 0.501 1.140 1.138 0.412
+/home/burak/coco_dataset/foreground_objects/Ladybird-PNG-Transparent-HD-Photo.png 3.000 0.000 220.922 -130.344 4.813 -2.663 5.244 -3.136 1.062 0.658 0.600 0.572
+/home/burak/coco_dataset/foreground_objects/5a01d110cad612fd1571187e.png 3.000 0.000 172.174 350.878 2.751 -1.910 -15.559 7.182 0.569 0.408 0.614 0.789
+/home/burak/coco_dataset/unlabeled2017_png/000000000341.png 3.000 0.000 42.433 419.692 2.126 -1.161 -4.640 3.629 0.425 0.344 0.399 0.393
+/home/burak/coco_dataset/unlabeled2017_png/000000189492.png 3.000 0.000 192.557 -60.118 8.033 -7.223 18.934 -17.241 0.337 0.355 0.231 0.305
+/home/burak/coco_dataset/unlabeled2017_png/000000000433.png 3.000 0.000 302.484 749.908 12.255 -2.003 22.256 -3.188 0.337 0.366 0.268 0.376
+/home/burak/coco_dataset/unlabeled2017_png/000000190804.png 3.000 0.000 305.948 72.121 4.379 -16.576 0.273 -2.079 0.420 0.339 0.353 0.298
+/home/burak/coco_dataset/unlabeled2017_png/000000000118.png 3.000 0.000 273.735 382.262 -4.931 7.093 -7.947 9.594 0.530 0.291 0.505 0.569
+/home/burak/coco_dataset/foreground_objects/car1.png 3.000 0.000 213.806 546.203 -4.742 2.407 2.592 -1.723 1.027 0.994 0.947 0.751
+/home/burak/coco_dataset/foreground_objects/Twins-PNG-Free-Download.png 3.000 0.000 274.123 468.120 2.813 -1.777 3.251 -1.042 0.559 0.614 0.691 1.141

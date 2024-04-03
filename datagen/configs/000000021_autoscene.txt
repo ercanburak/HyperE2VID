@@ -1,0 +1,20 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000531589.jpg 3.000 0.000 112.953 137.462 0.129 -0.264 -0.687 -0.026 1.269 1.499 1.315 1.212
+/home/burak/coco_dataset/unlabeled2017_png/000000189082.png 3.000 0.000 205.756 3.354 1.324 -0.155 13.564 -8.154 0.329 0.231 0.346 0.540
+/home/burak/coco_dataset/foreground_objects/Spider-PNG-Pic.png 3.000 0.000 215.699 591.937 6.949 -2.752 -4.888 2.591 0.972 0.456 0.445 1.131
+/home/burak/coco_dataset/foreground_objects/Zebra-PNG-Transparent-Photo.png 3.000 0.000 245.351 -173.807 1.505 -1.668 -4.010 3.179 0.443 0.485 0.730 1.091
+/home/burak/coco_dataset/foreground_objects/Marigold-PNG-File.png 3.000 0.000 288.490 47.611 -4.099 2.538 6.934 -5.015 0.524 0.788 0.424 1.139
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b2746.png 3.000 0.000 50.177 -180.135 -14.504 11.197 -26.436 21.192 1.112 0.869 0.850 1.160
+/home/burak/coco_dataset/unlabeled2017_png/000000187917.png 3.000 0.000 348.291 165.721 3.893 -1.427 9.591 -5.441 0.445 0.292 0.419 0.510
+/home/burak/coco_dataset/foreground_objects/frog.png 3.000 0.000 18.649 -421.101 1.115 -2.980 0.692 -3.712 0.737 0.612 0.578 0.734
+/home/burak/coco_dataset/foreground_objects/putin.png 3.000 0.000 248.808 -85.051 -0.710 2.565 -0.562 0.327 0.944 0.988 0.802 0.877
+/home/burak/coco_dataset/unlabeled2017_png/000000190679.png 3.000 0.000 101.351 424.580 -0.480 0.744 0.434 -0.222 0.491 0.518 0.471 0.437
+/home/burak/coco_dataset/foreground_objects/Shoelaces-PNG-File.png 3.000 0.000 161.775 298.831 -1.468 0.628 -2.784 3.629 0.602 0.885 0.917 0.545
+/home/burak/coco_dataset/unlabeled2017_png/000000000523.png 3.000 0.000 210.447 49.583 -3.429 0.260 2.821 0.023 0.563 0.528 0.294 0.581
+/home/burak/coco_dataset/unlabeled2017_png/000000189554.png 3.000 0.000 79.400 376.640 4.452 -1.627 3.137 -0.729 0.255 0.386 0.362 0.575
+/home/burak/coco_dataset/unlabeled2017_png/000000192123.png 3.000 0.000 60.284 239.000 1.748 -5.547 0.280 0.257 0.547 0.213 0.561 0.441
+/home/burak/coco_dataset/unlabeled2017_png/000000187969.png 3.000 0.000 283.441 691.750 10.050 -1.923 13.185 -2.456 0.509 0.468 0.583 0.420
+/home/burak/coco_dataset/unlabeled2017_png/000000000341.png 3.000 0.000 247.138 70.327 3.912 -0.848 -2.864 0.547 0.579 0.334 0.364 0.293
+/home/burak/coco_dataset/unlabeled2017_png/000000188713.png 3.000 0.000 159.789 462.182 -1.946 0.769 -2.371 1.349 0.588 0.360 0.580 0.482
+/home/burak/coco_dataset/foreground_objects/5996e4e69c43bb35d25d73a8.png 3.000 0.000 81.563 510.437 0.654 -0.349 -0.255 -0.248 0.744 0.782 0.607 1.034
+/home/burak/coco_dataset/foreground_objects/Mayfly-PNG-Transparent-Image.png 3.000 0.000 182.269 354.267 -8.329 8.081 -2.466 1.682 0.937 0.466 0.484 0.411

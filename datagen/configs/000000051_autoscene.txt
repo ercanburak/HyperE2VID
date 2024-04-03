@@ -1,0 +1,16 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000431652.jpg 3.000 0.000 125.479 220.961 0.230 0.170 -0.320 -0.357 1.014 1.055 1.135 1.263
+/home/burak/coco_dataset/unlabeled2017_png/000000192193.png 3.000 0.000 67.286 349.774 0.914 -1.541 -3.130 4.210 0.328 0.389 0.428 0.500
+/home/burak/coco_dataset/unlabeled2017_png/000000188261.png 3.000 0.000 323.357 401.331 -2.619 0.932 -3.651 1.075 0.587 0.547 0.281 0.390
+/home/burak/coco_dataset/foreground_objects/Worms-PNG-Image.png 3.000 0.000 327.572 861.332 -7.702 15.480 1.581 -3.387 1.152 0.735 0.876 0.616
+/home/burak/coco_dataset/unlabeled2017_png/000000190682.png 3.000 0.000 326.236 -269.889 -28.874 6.008 9.790 -2.507 0.356 0.224 0.263 0.533
+/home/burak/coco_dataset/foreground_objects/59567bfa84b1c2079d25cb62.png 3.000 0.000 165.782 387.455 -2.456 8.212 -1.727 6.669 0.904 1.091 0.532 0.426
+/home/burak/coco_dataset/unlabeled2017_png/000000188444.png 3.000 0.000 234.215 -10.192 -10.071 1.297 27.874 -2.677 0.547 0.521 0.549 0.515
+/home/burak/coco_dataset/foreground_objects/5af2b1be6554160a79bea032.png 3.000 0.000 254.609 497.729 4.971 -0.607 5.655 -0.776 1.144 0.864 1.039 0.809
+/home/burak/coco_dataset/unlabeled2017_png/000000189234.png 3.000 0.000 341.617 912.464 -0.438 -0.370 -0.005 -0.006 0.310 0.408 0.463 0.425
+/home/burak/coco_dataset/foreground_objects/Green-Tea-PNG-Pic.png 3.000 0.000 33.078 -395.876 -1.642 1.604 -1.802 1.833 0.653 0.448 0.912 0.797
+/home/burak/coco_dataset/foreground_objects/Grey-Wolf-PNG-Transparent-Image.png 3.000 0.000 290.544 250.334 -10.915 3.351 -8.554 2.772 0.799 1.044 0.979 0.764
+/home/burak/coco_dataset/unlabeled2017_png/000000192096.png 3.000 0.000 63.847 256.779 -9.262 9.732 -13.879 15.510 0.240 0.434 0.317 0.357
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b2758.png 3.000 0.000 331.152 -179.956 -4.653 12.560 9.393 -22.779 1.163 0.967 1.055 0.628
+/home/burak/coco_dataset/unlabeled2017_png/000000191309.png 3.000 0.000 208.380 481.477 1.205 -3.413 12.534 -28.672 0.346 0.459 0.469 0.495
+/home/burak/coco_dataset/foreground_objects/5954bf12deaf2c03413be360.png 3.000 0.000 282.297 -286.704 0.854 -2.173 0.313 -0.956 0.815 0.492 0.903 1.084

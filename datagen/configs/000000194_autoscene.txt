@@ -1,0 +1,9 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000116205.jpg 3.000 0.000 206.935 237.496 -0.200 0.153 0.126 0.087 1.287 1.301 1.199 1.437
+/home/burak/coco_dataset/unlabeled2017_png/000000190012.png 3.000 0.000 150.403 238.938 0.454 0.074 -0.163 0.379 0.206 0.584 0.464 0.229
+/home/burak/coco_dataset/foreground_objects/5956775a84b1c2079d25cb44.png 3.000 0.000 15.487 106.297 0.028 0.597 -0.319 1.069 0.764 1.172 0.850 0.462
+/home/burak/coco_dataset/foreground_objects/Blueberry-PNG-Free-Download.png 3.000 0.000 208.065 305.018 -0.263 -0.369 -0.329 -0.294 0.700 0.925 0.437 0.843
+/home/burak/coco_dataset/unlabeled2017_png/000000188842.png 3.000 0.000 39.066 -90.719 0.342 0.354 0.129 0.330 0.272 0.454 0.550 0.470
+/home/burak/coco_dataset/foreground_objects/Full-Grown-White-Rose-PNG.png 3.000 0.000 341.787 354.228 0.771 -0.249 0.177 -0.216 0.953 0.511 0.794 0.578
+/home/burak/coco_dataset/foreground_objects/broom.png 3.000 0.000 16.326 61.265 2.833 -1.322 -1.172 0.891 0.415 0.624 1.060 0.692
+/home/burak/coco_dataset/unlabeled2017_png/000000000512.png 3.000 0.000 94.521 224.521 -0.541 0.605 0.977 -4.718 0.593 0.367 0.481 0.484

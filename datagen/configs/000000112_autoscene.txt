@@ -1,0 +1,4 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000465726.jpg 3.000 0.000 82.413 46.867 -0.057 -0.014 0.009 0.263 1.460 1.215 1.364 1.330
+/home/burak/coco_dataset/foreground_objects/Bald-Eagle-Transparent-Images-PNG.png 3.000 0.000 211.248 205.757 -0.120 -0.770 0.259 0.054 0.970 0.677 0.772 0.604
+/home/burak/coco_dataset/unlabeled2017_png/000000189822.png 3.000 0.000 63.532 101.566 0.036 -0.196 0.129 -0.096 0.411 0.364 0.395 0.211

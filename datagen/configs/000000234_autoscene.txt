@@ -1,0 +1,11 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000305041.jpg 3.000 0.000 284.834 315.148 0.376 0.311 -0.151 -0.510 1.332 1.148 1.447 1.004
+/home/burak/coco_dataset/unlabeled2017_png/000000189495.png 3.000 0.000 30.346 139.105 1.752 -0.247 0.742 -0.191 0.231 0.462 0.226 0.383
+/home/burak/coco_dataset/foreground_objects/basket.png 3.000 0.000 86.827 180.157 -0.099 -0.801 -0.354 0.150 1.160 1.046 0.513 0.925
+/home/burak/coco_dataset/foreground_objects/chicken2.png 3.000 0.000 235.009 169.854 0.188 -0.572 1.230 -0.508 1.119 0.852 1.044 0.913
+/home/burak/coco_dataset/unlabeled2017_png/000000189123.png 3.000 0.000 246.902 173.800 -1.696 1.120 0.701 0.171 0.274 0.368 0.597 0.427
+/home/burak/coco_dataset/unlabeled2017_png/000000189728.png 3.000 0.000 28.585 166.576 -0.677 0.433 -2.214 4.701 0.528 0.370 0.342 0.411
+/home/burak/coco_dataset/foreground_objects/59400ca4bd0e8b4eeeb603c0.png 3.000 0.000 73.818 69.754 0.991 -0.430 2.881 -0.938 0.712 0.874 1.180 1.032
+/home/burak/coco_dataset/foreground_objects/Marigold-PNG-File.png 3.000 0.000 53.437 -40.173 -1.230 0.254 1.833 -0.213 0.709 0.855 0.554 0.524
+/home/burak/coco_dataset/unlabeled2017_png/000000191313.png 3.000 0.000 179.742 191.106 -0.340 0.070 -1.468 1.107 0.452 0.465 0.321 0.202
+/home/burak/coco_dataset/foreground_objects/Gulls-PNG-Photos.png 3.000 0.000 319.345 244.238 -0.976 3.081 0.693 -1.991 1.061 0.463 0.436 0.854

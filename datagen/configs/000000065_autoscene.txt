@@ -1,0 +1,21 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000035865.jpg 3.000 0.000 47.848 163.179 -0.156 -0.345 0.364 0.007 1.357 1.160 1.007 1.310
+/home/burak/coco_dataset/unlabeled2017_png/000000191196.png 3.000 0.000 154.657 -276.141 1.047 -0.846 -1.095 2.593 0.491 0.569 0.570 0.370
+/home/burak/coco_dataset/foreground_objects/5a00dcf30e8525eec2752ffb.png 3.000 0.000 70.647 252.983 -1.599 0.880 -0.810 0.831 1.190 1.121 0.748 0.807
+/home/burak/coco_dataset/unlabeled2017_png/000000189492.png 3.000 0.000 315.796 77.139 2.963 -5.806 -3.691 7.592 0.431 0.460 0.495 0.302
+/home/burak/coco_dataset/foreground_objects/5a00d05d0e8525eec2752fd2.png 3.000 0.000 252.897 517.015 2.567 -3.291 1.941 -2.518 0.795 0.895 1.121 0.745
+/home/burak/coco_dataset/unlabeled2017_png/000000000186.png 3.000 0.000 183.706 364.090 1.942 -1.525 -1.581 1.951 0.461 0.221 0.222 0.348
+/home/burak/coco_dataset/foreground_objects/frog.png 3.000 0.000 105.834 -105.199 -3.141 6.823 2.051 -4.870 0.401 1.136 1.181 1.036
+/home/burak/coco_dataset/unlabeled2017_png/000000188178.png 3.000 0.000 178.814 -215.669 5.810 -1.191 1.328 -0.827 0.261 0.491 0.509 0.300
+/home/burak/coco_dataset/unlabeled2017_png/000000189021.png 3.000 0.000 277.299 590.623 8.815 -3.617 16.025 -6.167 0.376 0.370 0.271 0.482
+/home/burak/coco_dataset/foreground_objects/Herbs-PNG-Clipart.png 3.000 0.000 102.931 -229.126 1.306 -0.717 2.661 -0.710 0.857 0.575 0.590 0.748
+/home/burak/coco_dataset/foreground_objects/Moth-Transparent-PNG.png 3.000 0.000 223.276 571.201 -2.460 2.435 -2.562 1.788 0.573 0.959 0.631 1.106
+/home/burak/coco_dataset/unlabeled2017_png/000000192151.png 3.000 0.000 73.506 337.481 -4.920 11.847 -1.245 2.268 0.330 0.549 0.254 0.407
+/home/burak/coco_dataset/unlabeled2017_png/000000190780.png 3.000 0.000 315.529 526.517 -5.585 2.540 -3.789 2.257 0.496 0.435 0.561 0.549
+/home/burak/coco_dataset/foreground_objects/chicken1.png 3.000 0.000 270.884 118.407 3.400 -1.604 0.160 0.191 0.950 0.506 0.527 0.677
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b27c5.png 3.000 0.000 115.221 -190.183 7.522 -12.019 -8.789 12.914 1.199 0.730 1.141 0.807
+/home/burak/coco_dataset/foreground_objects/horse.png 3.000 0.000 189.946 473.171 -2.498 11.791 4.483 -24.629 0.914 0.980 1.107 0.773
+/home/burak/coco_dataset/unlabeled2017_png/000000190467.png 3.000 0.000 176.042 75.023 -2.276 2.591 1.130 -0.781 0.220 0.440 0.448 0.540
+/home/burak/coco_dataset/unlabeled2017_png/000000189340.png 3.000 0.000 239.074 551.212 26.870 -3.888 -15.011 2.119 0.495 0.382 0.246 0.266
+/home/burak/coco_dataset/foreground_objects/Sunglasses-Transparent-PNG.png 3.000 0.000 349.231 148.906 -0.833 1.018 -0.569 0.176 1.157 0.597 0.586 0.951
+/home/burak/coco_dataset/foreground_objects/5a05870e9cf05203c4b603ce.png 3.000 0.000 353.295 207.526 4.810 -1.291 6.028 -1.768 0.723 1.177 1.109 1.139

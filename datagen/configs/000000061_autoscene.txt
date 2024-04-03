@@ -1,0 +1,19 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000025980.jpg 3.000 0.000 81.107 227.735 -0.168 -0.502 0.528 0.127 1.339 1.046 1.012 1.457
+/home/burak/coco_dataset/unlabeled2017_png/000000192185.png 3.000 0.000 193.554 406.420 -5.151 9.114 10.196 -16.090 0.484 0.475 0.206 0.202
+/home/burak/coco_dataset/foreground_objects/5a00d06b0e8525eec2752fd3.png 3.000 0.000 150.937 594.940 7.243 -1.564 -6.189 1.235 1.081 0.726 0.809 0.535
+/home/burak/coco_dataset/unlabeled2017_png/000000192231.png 3.000 0.000 149.930 291.049 0.623 -6.036 0.146 -3.751 0.354 0.292 0.473 0.369
+/home/burak/coco_dataset/unlabeled2017_png/000000189277.png 3.000 0.000 28.333 -170.362 8.167 -9.931 -2.555 3.529 0.484 0.402 0.264 0.223
+/home/burak/coco_dataset/unlabeled2017_png/000000192435.png 3.000 0.000 206.340 -1.036 4.922 -9.920 -2.819 5.163 0.587 0.416 0.592 0.437
+/home/burak/coco_dataset/unlabeled2017_png/000000191713.png 3.000 0.000 25.152 324.416 7.255 -1.960 5.648 -2.411 0.282 0.360 0.315 0.555
+/home/burak/coco_dataset/foreground_objects/Kiwi-Bird-PNG-Pic.png 3.000 0.000 288.626 461.294 7.818 -9.079 0.950 -1.233 1.027 0.865 1.018 0.939
+/home/burak/coco_dataset/unlabeled2017_png/000000191056.png 3.000 0.000 67.358 199.212 0.641 -0.048 0.716 -1.183 0.575 0.588 0.591 0.512
+/home/burak/coco_dataset/foreground_objects/Grey-Wolf-PNG-Transparent-Image.png 3.000 0.000 223.811 538.277 2.176 -5.908 1.653 -6.768 0.848 0.481 0.901 0.489
+/home/burak/coco_dataset/unlabeled2017_png/000000187985.png 3.000 0.000 285.199 109.652 -8.193 13.063 2.406 -4.105 0.416 0.349 0.525 0.578
+/home/burak/coco_dataset/foreground_objects/apple1.png 3.000 0.000 80.476 502.251 2.244 -3.089 -1.511 1.550 0.511 1.126 0.642 0.719
+/home/burak/coco_dataset/foreground_objects/fish1.png 3.000 0.000 57.430 259.752 -4.081 16.743 3.257 -11.137 0.484 0.681 0.469 1.024
+/home/burak/coco_dataset/foreground_objects/5aead1916554160a79be9faa.png 3.000 0.000 113.673 265.221 -4.357 4.042 -0.625 1.660 0.803 0.526 0.972 1.195
+/home/burak/coco_dataset/unlabeled2017_png/000000187779.png 3.000 0.000 81.217 241.896 3.285 -0.809 0.233 -0.183 0.403 0.431 0.323 0.380
+/home/burak/coco_dataset/foreground_objects/kim.png 3.000 0.000 238.195 563.052 1.387 -13.867 -1.004 7.881 0.468 0.467 0.642 0.515
+/home/burak/coco_dataset/foreground_objects/Ichthyosaur-Download-PNG-Image.png 3.000 0.000 241.641 459.753 0.706 -0.442 2.972 -5.042 0.472 0.481 1.035 0.592
+/home/burak/coco_dataset/foreground_objects/5af2b1c36554160a79bea033.png 3.000 0.000 324.816 560.241 -4.508 5.251 4.730 -5.491 0.890 0.551 1.084 1.049

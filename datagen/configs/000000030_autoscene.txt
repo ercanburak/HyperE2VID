@@ -1,0 +1,11 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000316586.jpg 3.000 0.000 292.134 363.542 -0.417 0.028 0.553 0.188 1.209 1.369 1.424 1.374
+/home/burak/coco_dataset/unlabeled2017_png/000000191988.png 3.000 0.000 221.707 220.400 -2.624 1.132 3.892 -0.597 0.538 0.254 0.406 0.575
+/home/burak/coco_dataset/unlabeled2017_png/000000191356.png 3.000 0.000 25.774 -96.360 -0.077 -0.543 0.061 0.772 0.434 0.239 0.419 0.203
+/home/burak/coco_dataset/unlabeled2017_png/000000192442.png 3.000 0.000 243.395 282.930 -0.003 0.683 -0.288 0.506 0.307 0.583 0.266 0.594
+/home/burak/coco_dataset/foreground_objects/5940063dbd0e8b4eeeb603bf.png 3.000 0.000 327.767 353.922 0.233 -0.033 0.369 -1.055 0.997 0.973 0.413 0.752
+/home/burak/coco_dataset/foreground_objects/Mantis-PNG-Transparent-Image.png 3.000 0.000 219.579 339.848 -0.370 -0.522 -0.001 0.330 0.738 0.621 0.481 1.070
+/home/burak/coco_dataset/foreground_objects/Termite-PNG-Photo.png 3.000 0.000 120.466 39.374 -0.022 -0.272 1.308 -0.734 0.581 0.505 0.663 0.804
+/home/burak/coco_dataset/foreground_objects/Shark-PNG-Picture.png 3.000 0.000 202.349 229.810 0.388 -0.005 0.249 -0.041 0.420 0.888 0.971 0.782
+/home/burak/coco_dataset/foreground_objects/59cfc6e2d3b1936210a5ddd2.png 3.000 0.000 47.562 189.101 -1.043 0.153 0.698 -0.785 0.803 0.797 0.540 0.549
+/home/burak/coco_dataset/unlabeled2017_png/000000191206.png 3.000 0.000 99.087 117.677 0.054 0.074 -0.142 -0.106 0.439 0.566 0.362 0.230

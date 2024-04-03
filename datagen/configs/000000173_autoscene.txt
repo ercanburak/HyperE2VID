@@ -1,0 +1,14 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000379556.jpg 3.000 0.000 194.014 156.973 0.279 0.145 0.519 -0.004 1.004 1.208 1.368 1.375
+/home/burak/coco_dataset/foreground_objects/58b062948a4b5bbbc8492956.png 3.000 0.000 217.869 -102.883 -0.040 -0.112 -0.032 -0.211 0.689 1.138 0.417 0.668
+/home/burak/coco_dataset/unlabeled2017_png/000000188830.png 3.000 0.000 218.885 80.243 2.745 -0.783 2.551 -0.635 0.338 0.251 0.470 0.294
+/home/burak/coco_dataset/unlabeled2017_png/000000190703.png 3.000 0.000 219.494 613.525 -1.630 4.130 -7.115 12.887 0.381 0.351 0.442 0.251
+/home/burak/coco_dataset/foreground_objects/Halibut-PNG-Image.png 3.000 0.000 332.220 620.443 -0.981 0.628 -9.325 1.624 0.489 0.895 0.721 1.068
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b2923.png 3.000 0.000 101.852 359.811 -1.885 6.004 1.786 -5.793 0.744 0.931 1.115 0.442
+/home/burak/coco_dataset/unlabeled2017_png/000000191723.png 3.000 0.000 152.857 -98.429 3.550 -2.650 -2.693 1.617 0.342 0.403 0.553 0.556
+/home/burak/coco_dataset/foreground_objects/putin.png 3.000 0.000 345.139 736.868 0.535 0.113 -1.295 0.676 0.498 0.437 0.523 1.015
+/home/burak/coco_dataset/unlabeled2017_png/000000188743.png 3.000 0.000 154.425 -207.495 2.311 -9.602 0.753 -5.730 0.399 0.280 0.347 0.369
+/home/burak/coco_dataset/unlabeled2017_png/000000190761.png 3.000 0.000 75.318 -234.860 8.380 -1.575 19.190 -3.605 0.468 0.586 0.530 0.403
+/home/burak/coco_dataset/unlabeled2017_png/000000190173.png 3.000 0.000 298.796 431.235 -3.268 11.022 0.993 -4.027 0.320 0.483 0.236 0.330
+/home/burak/coco_dataset/foreground_objects/Marigold-PNG-File.png 3.000 0.000 339.126 642.925 0.909 -0.923 3.496 -2.197 0.676 0.824 1.098 1.112
+/home/burak/coco_dataset/foreground_objects/Human-PNG-Free-Download.png 3.000 0.000 75.010 421.523 0.749 -1.425 1.735 -1.971 1.081 1.032 0.784 0.618

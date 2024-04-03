@@ -1,0 +1,9 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000497921.jpg 3.000 0.000 89.730 54.743 -0.240 -0.648 -0.306 -0.318 1.009 1.297 1.365 1.267
+/home/burak/coco_dataset/unlabeled2017_png/000000190567.png 3.000 0.000 207.978 -28.666 -1.687 0.443 3.702 -2.259 0.497 0.477 0.599 0.517
+/home/burak/coco_dataset/foreground_objects/Mallard-Transparent-Background.png 3.000 0.000 0.296 -342.134 -13.199 1.863 -7.708 0.855 0.873 0.993 1.145 0.779
+/home/burak/coco_dataset/foreground_objects/Komodo-Dragon-PNG-Picture.png 3.000 0.000 69.659 206.514 10.646 -3.525 -15.694 3.912 0.756 0.569 0.530 0.680
+/home/burak/coco_dataset/foreground_objects/Bok-Choy-PNG-HD.png 3.000 0.000 56.837 -285.361 -0.972 1.045 0.134 -0.045 0.456 0.630 0.843 0.451
+/home/burak/coco_dataset/foreground_objects/Mayfly-PNG-Transparent-Image.png 3.000 0.000 353.656 464.882 1.747 -6.149 -7.825 20.227 0.559 0.953 0.737 1.108
+/home/burak/coco_dataset/unlabeled2017_png/000000191837.png 3.000 0.000 84.123 -289.249 -0.098 0.302 -7.980 7.539 0.493 0.208 0.395 0.267
+/home/burak/coco_dataset/unlabeled2017_png/000000188550.png 3.000 0.000 118.539 527.908 -2.526 1.053 -5.445 4.031 0.296 0.581 0.341 0.218

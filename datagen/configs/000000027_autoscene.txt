@@ -1,0 +1,14 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000228021.jpg 3.000 0.000 174.942 145.258 -1.007 0.173 -0.107 -0.678 1.033 1.400 1.180 1.416
+/home/burak/coco_dataset/foreground_objects/5996e4e69c43bb35d25d73a8.png 3.000 0.000 118.639 -21.688 21.709 -17.980 18.157 -13.870 0.714 0.576 0.687 0.769
+/home/burak/coco_dataset/unlabeled2017_png/000000190444.png 3.000 0.000 94.870 -213.074 1.420 -16.514 -1.535 12.288 0.353 0.382 0.479 0.534
+/home/burak/coco_dataset/foreground_objects/5c6404c0e4b8dd029ff25b57.png 3.000 0.000 107.027 29.703 4.470 -17.600 -5.580 21.123 0.719 0.728 0.525 0.808
+/home/burak/coco_dataset/foreground_objects/Thinking-Woman-PNG-Clipart-Background.png 3.000 0.000 158.078 745.703 3.285 -6.713 -2.687 5.200 0.849 0.913 0.432 1.030
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b284c.png 3.000 0.000 235.172 253.044 28.487 -6.504 5.361 -1.756 0.526 0.497 0.664 1.157
+/home/burak/coco_dataset/foreground_objects/chicken3.png 3.000 0.000 161.985 544.072 -5.059 5.698 6.149 -6.568 0.522 0.442 0.893 0.967
+/home/burak/coco_dataset/foreground_objects/Marigold-PNG-File.png 3.000 0.000 192.912 -283.677 -9.516 2.385 0.597 0.091 0.982 1.186 0.621 0.517
+/home/burak/coco_dataset/unlabeled2017_png/000000188835.png 3.000 0.000 189.392 472.711 -3.416 9.198 -1.941 5.472 0.467 0.202 0.404 0.408
+/home/burak/coco_dataset/unlabeled2017_png/000000000331.png 3.000 0.000 271.965 454.268 -4.529 1.732 -5.102 2.607 0.526 0.243 0.339 0.283
+/home/burak/coco_dataset/unlabeled2017_png/000000188513.png 3.000 0.000 194.851 -332.571 6.979 -16.688 -1.327 4.346 0.495 0.209 0.502 0.406
+/home/burak/coco_dataset/unlabeled2017_png/000000189545.png 3.000 0.000 225.697 523.659 -4.385 1.051 2.204 -0.641 0.523 0.329 0.395 0.309
+/home/burak/coco_dataset/unlabeled2017_png/000000190148.png 3.000 0.000 163.517 335.101 -6.442 12.130 -9.896 16.370 0.308 0.286 0.501 0.394

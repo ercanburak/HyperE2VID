@@ -1,0 +1,5 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000062823.jpg 3.000 0.000 102.400 139.035 0.310 0.218 0.420 0.225 1.274 1.435 1.122 1.099
+/home/burak/coco_dataset/foreground_objects/Aloe-PNG-Clipart.png 3.000 0.000 327.928 363.276 0.350 0.332 -0.096 -0.050 1.055 0.730 0.563 0.800
+/home/burak/coco_dataset/unlabeled2017_png/000000189906.png 3.000 0.000 165.035 205.222 -0.266 -0.266 0.166 0.166 0.548 0.208 0.477 0.258
+/home/burak/coco_dataset/foreground_objects/Italian-Bread-PNG-Transparent-Image.png 3.000 0.000 20.925 32.301 0.296 0.517 0.639 0.055 0.698 1.139 1.000 1.127

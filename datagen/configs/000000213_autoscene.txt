@@ -1,0 +1,9 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000024748.jpg 3.000 0.000 95.663 54.991 -0.060 -0.656 -0.256 0.106 1.473 1.086 1.343 1.334
+/home/burak/coco_dataset/foreground_objects/5a00d4e20e8525eec2752fdd.png 3.000 0.000 246.821 673.254 -3.419 1.820 -13.472 5.138 0.763 0.562 0.765 0.552
+/home/burak/coco_dataset/foreground_objects/Turkey-PNG-File.png 3.000 0.000 165.714 6.288 6.458 -4.586 12.237 -8.558 1.069 0.711 0.954 0.986
+/home/burak/coco_dataset/foreground_objects/Rhino-PNG-Clipart.png 3.000 0.000 235.644 -208.032 7.875 -1.086 2.078 -0.398 0.615 1.183 0.469 0.624
+/home/burak/coco_dataset/unlabeled2017_png/000000189859.png 3.000 0.000 117.032 -170.085 -11.352 2.650 8.640 -1.790 0.565 0.551 0.598 0.568
+/home/burak/coco_dataset/unlabeled2017_png/000000188089.png 3.000 0.000 180.560 -255.346 -6.682 5.098 -6.566 4.413 0.252 0.475 0.226 0.350
+/home/burak/coco_dataset/foreground_objects/Moth-Transparent-PNG.png 3.000 0.000 169.317 403.727 -12.436 2.260 -23.962 3.452 0.977 0.704 0.775 0.855
+/home/burak/coco_dataset/unlabeled2017_png/000000191527.png 3.000 0.000 273.951 398.315 1.813 -5.966 -0.415 2.986 0.399 0.555 0.470 0.467

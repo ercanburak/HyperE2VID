@@ -1,0 +1,9 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000229306.jpg 3.000 0.000 222.803 96.512 0.245 0.287 0.305 0.544 1.239 1.339 1.072 1.287
+/home/burak/coco_dataset/foreground_objects/5996e4e69c43bb35d25d73a8.png 3.000 0.000 219.022 72.250 -0.153 -0.356 -0.050 0.463 0.988 0.828 0.765 0.879
+/home/burak/coco_dataset/foreground_objects/5c8662eec115b30282adb5b7.png 3.000 0.000 218.302 332.036 0.482 -0.443 -0.190 -0.491 0.420 0.996 0.688 0.847
+/home/burak/coco_dataset/unlabeled2017_png/000000188770.png 3.000 0.000 76.679 -71.502 1.348 -0.241 -2.185 0.764 0.285 0.378 0.279 0.350
+/home/burak/coco_dataset/unlabeled2017_png/000000192412.png 3.000 0.000 83.728 36.844 0.337 0.058 -0.048 -0.757 0.212 0.247 0.551 0.507
+/home/burak/coco_dataset/foreground_objects/Northern-Pintail-PNG-File.png 3.000 0.000 292.545 285.241 -1.051 0.756 0.393 -1.587 0.551 0.700 0.518 0.983
+/home/burak/coco_dataset/foreground_objects/Bhagat-Singh-PNG-Clipart.png 3.000 0.000 344.865 264.395 -2.645 0.980 0.741 -0.146 1.093 0.626 0.778 0.834
+/home/burak/coco_dataset/unlabeled2017_png/000000188072.png 3.000 0.000 10.085 131.134 -1.041 0.379 -1.050 0.557 0.417 0.302 0.413 0.392

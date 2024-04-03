@@ -1,0 +1,16 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000233866.jpg 3.000 0.000 7.085 125.660 -0.073 -0.309 0.268 -0.597 1.396 1.176 1.059 1.046
+/home/burak/coco_dataset/unlabeled2017_png/000000191065.png 3.000 0.000 37.900 -202.058 12.017 -6.626 -2.155 0.794 0.520 0.447 0.484 0.453
+/home/burak/coco_dataset/foreground_objects/chicken2.png 3.000 0.000 168.628 -52.362 -3.829 11.752 -1.650 6.833 0.813 1.118 1.096 0.587
+/home/burak/coco_dataset/unlabeled2017_png/000000187974.png 3.000 0.000 193.472 -43.728 2.116 -2.082 -2.201 1.029 0.423 0.294 0.383 0.208
+/home/burak/coco_dataset/unlabeled2017_png/000000190268.png 3.000 0.000 213.582 88.096 -7.336 8.683 -0.981 1.321 0.414 0.265 0.474 0.569
+/home/burak/coco_dataset/foreground_objects/5a902068b15d5c051b369056.png 3.000 0.000 34.798 333.020 2.392 -0.033 -0.694 0.188 0.929 0.582 1.162 0.423
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b27c5.png 3.000 0.000 264.142 -109.424 0.739 -0.280 -6.288 2.857 0.443 1.132 0.994 1.034
+/home/burak/coco_dataset/unlabeled2017_png/000000189367.png 3.000 0.000 120.082 -240.335 -1.104 2.549 1.132 -2.706 0.319 0.253 0.568 0.260
+/home/burak/coco_dataset/foreground_objects/fly.png 3.000 0.000 340.218 566.121 -0.426 1.765 -4.717 19.375 0.579 1.010 0.409 0.723
+/home/burak/coco_dataset/unlabeled2017_png/000000190736.png 3.000 0.000 284.084 76.634 3.713 -1.433 1.010 -0.399 0.292 0.590 0.312 0.487
+/home/burak/coco_dataset/foreground_objects/pig.png 3.000 0.000 161.434 444.947 -0.150 0.677 4.987 -8.445 0.609 0.704 0.850 0.640
+/home/burak/coco_dataset/foreground_objects/Bull-PNG-Free-Download.png 3.000 0.000 0.472 -179.006 2.902 -3.271 -1.318 1.462 0.824 0.412 1.035 0.714
+/home/burak/coco_dataset/unlabeled2017_png/000000192151.png 3.000 0.000 253.391 577.628 -4.869 5.085 3.072 -3.919 0.333 0.365 0.515 0.521
+/home/burak/coco_dataset/foreground_objects/cockroach.png 3.000 0.000 50.762 -364.328 2.196 -2.835 -1.493 0.586 0.890 0.417 0.989 0.579
+/home/burak/coco_dataset/unlabeled2017_png/000000191633.png 3.000 0.000 4.947 124.061 -10.235 6.670 -1.758 1.175 0.269 0.556 0.378 0.555

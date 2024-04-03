@@ -1,0 +1,7 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000072929.jpg 3.000 0.000 59.470 19.669 0.010 -0.122 0.110 -0.013 1.466 1.278 1.196 1.196
+/home/burak/coco_dataset/foreground_objects/Barley-Transparent-PNG.png 3.000 0.000 319.646 319.472 -0.175 -0.575 -0.732 0.206 1.120 0.788 0.419 1.079
+/home/burak/coco_dataset/unlabeled2017_png/000000191060.png 3.000 0.000 159.338 193.916 0.066 0.669 0.161 -0.712 0.231 0.324 0.363 0.390
+/home/burak/coco_dataset/unlabeled2017_png/000000000548.png 3.000 0.000 274.693 301.472 -0.108 0.449 0.327 0.224 0.552 0.380 0.224 0.571
+/home/burak/coco_dataset/foreground_objects/spider.png 3.000 0.000 207.362 223.596 0.571 -0.017 -0.360 -0.257 1.165 0.841 0.551 1.027
+/home/burak/coco_dataset/foreground_objects/Mallard-Transparent-Background.png 3.000 0.000 253.387 261.360 -0.543 0.979 0.108 -0.098 0.486 0.495 1.007 0.904

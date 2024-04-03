@@ -1,0 +1,10 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000546522.jpg 3.000 0.000 298.849 315.476 -0.485 -0.180 0.007 0.121 1.137 1.132 1.461 1.071
+/home/burak/coco_dataset/unlabeled2017_png/000000190340.png 3.000 0.000 110.589 83.070 -0.165 0.672 -1.691 0.780 0.297 0.470 0.398 0.316
+/home/burak/coco_dataset/unlabeled2017_png/000000189787.png 3.000 0.000 200.104 106.227 -0.198 0.766 1.524 -5.081 0.344 0.558 0.575 0.450
+/home/burak/coco_dataset/foreground_objects/Milkshake-PNG-HD-Quality.png 3.000 0.000 147.103 163.701 0.488 -1.285 0.068 0.593 0.935 0.463 0.869 1.091
+/home/burak/coco_dataset/unlabeled2017_png/000000189894.png 3.000 0.000 15.193 -106.771 0.433 0.410 -0.287 -0.128 0.526 0.541 0.514 0.226
+/home/burak/coco_dataset/foreground_objects/58b062948a4b5bbbc8492956.png 3.000 0.000 308.190 257.629 -0.910 1.024 -1.673 1.659 0.539 0.477 0.626 0.720
+/home/burak/coco_dataset/foreground_objects/58da61445f58be1227aec94a.png 3.000 0.000 143.858 272.153 -1.327 0.772 -1.363 1.115 0.560 0.821 0.832 0.613
+/home/burak/coco_dataset/foreground_objects/Maple-Leaf-PNG-Transparent-1.png 3.000 0.000 77.579 192.408 -0.347 -0.210 -0.205 -0.228 0.410 0.476 0.987 1.031
+/home/burak/coco_dataset/unlabeled2017_png/000000192475.png 3.000 0.000 135.592 30.601 0.142 -0.203 -0.596 -0.240 0.241 0.420 0.283 0.286

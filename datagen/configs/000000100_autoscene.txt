@@ -1,0 +1,5 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000489412.jpg 3.000 0.000 117.559 125.544 0.381 0.341 -0.172 -0.213 1.084 1.410 1.356 1.393
+/home/burak/coco_dataset/foreground_objects/Albatross-PNG-HD.png 3.000 0.000 12.476 -24.779 0.940 -0.360 0.502 -0.666 0.599 0.710 1.140 0.431
+/home/burak/coco_dataset/unlabeled2017_png/000000000232.png 3.000 0.000 283.714 246.277 -0.212 0.283 -0.141 0.707 0.443 0.542 0.428 0.342
+/home/burak/coco_dataset/foreground_objects/5a01ed1e18e87004f1ca4305.png 3.000 0.000 121.223 81.918 -1.129 0.513 -0.249 0.578 0.825 0.714 0.872 0.844

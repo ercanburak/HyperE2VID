@@ -1,0 +1,20 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000071200.jpg 3.000 0.000 216.352 357.570 -0.070 0.432 -0.071 -0.006 1.285 1.476 1.408 1.144
+/home/burak/coco_dataset/foreground_objects/Labrador-PNG-Picture.png 3.000 0.000 161.127 591.118 3.315 -27.187 4.103 -33.556 0.636 0.824 1.105 0.443
+/home/burak/coco_dataset/foreground_objects/French-Dip-PNG-Photos.png 3.000 0.000 207.406 361.164 -4.291 12.305 0.796 -1.606 0.779 0.789 0.823 0.700
+/home/burak/coco_dataset/foreground_objects/59db60be3752880e93e16ed9.png 3.000 0.000 269.652 -73.663 -0.580 0.087 0.004 -0.338 1.180 0.693 0.573 0.615
+/home/burak/coco_dataset/unlabeled2017_png/000000188811.png 3.000 0.000 70.098 -237.707 2.154 -5.220 3.513 -8.372 0.482 0.420 0.494 0.308
+/home/burak/coco_dataset/foreground_objects/5a835b8fabc3d121aba71298.png 3.000 0.000 20.989 175.186 1.981 -2.075 2.100 -3.870 0.737 0.749 0.905 0.932
+/home/burak/coco_dataset/foreground_objects/Full-Grown-White-Rose-PNG.png 3.000 0.000 225.935 106.914 -0.182 1.026 -0.165 0.244 0.751 0.491 0.433 0.725
+/home/burak/coco_dataset/unlabeled2017_png/000000190221.png 3.000 0.000 136.239 384.725 0.338 0.070 0.916 -1.497 0.285 0.422 0.516 0.241
+/home/burak/coco_dataset/unlabeled2017_png/000000191490.png 3.000 0.000 121.461 -292.973 8.969 -1.027 3.422 -0.121 0.530 0.348 0.384 0.399
+/home/burak/coco_dataset/unlabeled2017_png/000000191595.png 3.000 0.000 170.132 27.377 0.370 -0.044 0.156 -0.270 0.499 0.395 0.340 0.447
+/home/burak/coco_dataset/unlabeled2017_png/000000192289.png 3.000 0.000 53.092 292.184 -2.011 1.652 -0.299 0.185 0.395 0.562 0.231 0.440
+/home/burak/coco_dataset/foreground_objects/Box-Jellyfish-PNG-Clipart.png 3.000 0.000 12.226 -349.699 -0.084 0.124 -0.395 0.734 0.521 0.465 1.008 0.780
+/home/burak/coco_dataset/unlabeled2017_png/000000187874.png 3.000 0.000 282.586 444.536 -3.657 1.544 -9.938 2.269 0.303 0.218 0.264 0.255
+/home/burak/coco_dataset/unlabeled2017_png/000000188996.png 3.000 0.000 104.677 361.821 -1.794 1.553 1.330 -0.972 0.385 0.317 0.589 0.248
+/home/burak/coco_dataset/foreground_objects/Beach-PNG-Pic.png 3.000 0.000 57.697 -226.374 -0.654 0.065 0.522 -0.425 0.987 0.696 0.589 0.521
+/home/burak/coco_dataset/unlabeled2017_png/000000192188.png 3.000 0.000 109.152 231.467 0.121 0.345 -2.846 4.964 0.458 0.201 0.249 0.360
+/home/burak/coco_dataset/foreground_objects/horse.png 3.000 0.000 286.978 -13.507 -0.943 1.279 -12.567 10.391 0.969 0.914 1.142 0.574
+/home/burak/coco_dataset/unlabeled2017_png/000000191121.png 3.000 0.000 15.240 435.860 -10.603 16.961 -3.813 5.699 0.388 0.219 0.570 0.459
+/home/burak/coco_dataset/foreground_objects/Grandma-PNG-Picture.png 3.000 0.000 48.993 455.272 -2.439 9.220 -0.374 2.008 0.743 1.144 0.492 0.405

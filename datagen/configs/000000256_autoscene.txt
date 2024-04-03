@@ -1,0 +1,7 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000356786.jpg 3.000 0.000 138.900 125.563 -0.453 -0.145 -0.321 -0.336 1.403 1.394 1.344 1.338
+/home/burak/coco_dataset/unlabeled2017_png/000000190522.png 3.000 0.000 163.391 187.978 -0.197 -0.141 0.078 -0.075 0.552 0.385 0.380 0.265
+/home/burak/coco_dataset/unlabeled2017_png/000000192308.png 3.000 0.000 312.107 284.739 -1.859 0.708 -1.167 -0.091 0.423 0.341 0.427 0.599
+/home/burak/coco_dataset/foreground_objects/5a01d110cad612fd1571187e.png 3.000 0.000 202.366 201.058 -0.323 1.044 0.259 -2.353 0.956 0.778 0.532 0.597
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b27ab.png 3.000 0.000 73.818 39.096 -0.213 -0.196 -0.218 -0.510 1.080 0.829 0.568 0.605
+/home/burak/coco_dataset/foreground_objects/Grandma-PNG-Picture.png 3.000 0.000 206.648 169.410 0.302 0.133 0.345 0.261 1.180 1.155 0.667 1.079

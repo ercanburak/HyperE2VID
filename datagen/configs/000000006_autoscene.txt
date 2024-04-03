@@ -1,0 +1,8 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000251817.jpg 3.000 0.000 199.421 70.983 -0.454 -0.290 0.376 0.204 1.045 1.422 1.367 1.186
+/home/burak/coco_dataset/unlabeled2017_png/000000000280.png 3.000 0.000 23.518 -17.505 -0.190 -0.603 0.063 -0.900 0.585 0.203 0.361 0.433
+/home/burak/coco_dataset/foreground_objects/Scorpion-PNG-Free-Download.png 3.000 0.000 300.854 328.939 -0.295 -0.128 0.221 0.016 1.039 0.578 1.042 0.534
+/home/burak/coco_dataset/foreground_objects/Common-Raven-PNG-Clipart.png 3.000 0.000 95.795 108.233 0.266 -2.118 0.504 -2.068 0.554 0.559 0.936 0.955
+/home/burak/coco_dataset/foreground_objects/Worms-PNG-Image.png 3.000 0.000 32.068 -4.470 0.068 -0.302 0.011 -0.211 0.735 1.119 0.789 0.774
+/home/burak/coco_dataset/unlabeled2017_png/000000000506.png 3.000 0.000 106.816 -11.646 1.481 -1.256 1.033 -2.196 0.316 0.253 0.212 0.369
+/home/burak/coco_dataset/unlabeled2017_png/000000000466.png 3.000 0.000 166.327 278.234 0.260 0.134 -3.186 1.477 0.361 0.236 0.573 0.364

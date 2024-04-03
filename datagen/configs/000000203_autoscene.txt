@@ -1,0 +1,21 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000123537.jpg 3.000 0.000 77.026 -303.714 -0.099 0.487 -0.487 0.316 1.375 1.166 1.403 1.411
+/home/burak/coco_dataset/foreground_objects/59567bfa84b1c2079d25cb62.png 3.000 0.000 54.725 613.865 3.174 -3.472 -2.390 3.873 0.880 1.095 0.404 0.782
+/home/burak/coco_dataset/unlabeled2017_png/000000000602.png 3.000 0.000 339.375 -24.177 -0.279 -0.433 0.106 0.044 0.521 0.457 0.506 0.598
+/home/burak/coco_dataset/foreground_objects/5a05870e9cf05203c4b603ce.png 3.000 0.000 1.243 -143.561 4.367 -0.118 -14.533 1.428 1.019 0.670 1.190 0.897
+/home/burak/coco_dataset/unlabeled2017_png/000000190650.png 3.000 0.000 93.751 484.682 5.419 -12.483 9.081 -19.077 0.292 0.457 0.492 0.513
+/home/burak/coco_dataset/unlabeled2017_png/000000191214.png 3.000 0.000 235.327 41.477 -1.111 7.314 -1.401 11.034 0.242 0.276 0.204 0.539
+/home/burak/coco_dataset/foreground_objects/5956778584b1c2079d25cb47.png 3.000 0.000 128.919 93.095 5.280 -3.031 -9.104 4.253 1.068 0.783 0.426 1.070
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b2766.png 3.000 0.000 355.414 552.905 5.923 -5.604 9.797 -7.366 0.421 0.640 0.952 0.603
+/home/burak/coco_dataset/foreground_objects/Khaki-Pant-PNG-Picture.png 3.000 0.000 234.414 -191.187 -8.554 6.887 12.407 -9.978 0.799 1.148 1.139 1.175
+/home/burak/coco_dataset/unlabeled2017_png/000000000103.png 3.000 0.000 166.072 245.248 3.353 -6.339 -6.134 9.128 0.229 0.239 0.396 0.488
+/home/burak/coco_dataset/unlabeled2017_png/000000188045.png 3.000 0.000 335.580 130.302 -2.855 1.234 -3.495 1.554 0.588 0.587 0.452 0.465
+/home/burak/coco_dataset/unlabeled2017_png/000000190396.png 3.000 0.000 124.035 538.550 5.042 -2.231 -1.712 1.017 0.543 0.273 0.382 0.315
+/home/burak/coco_dataset/foreground_objects/Rain-Boot-PNG-Transparent-Image.png 3.000 0.000 77.951 -199.967 0.262 -0.915 -12.905 9.029 0.620 0.671 0.564 0.501
+/home/burak/coco_dataset/unlabeled2017_png/000000188704.png 3.000 0.000 306.331 -173.059 1.464 -2.786 -0.177 -0.506 0.412 0.228 0.476 0.281
+/home/burak/coco_dataset/foreground_objects/Angry-Person-PNG-Transparent-HD-Photo.png 3.000 0.000 240.784 187.590 -0.801 2.515 3.846 -8.470 0.890 0.622 1.133 0.551
+/home/burak/coco_dataset/foreground_objects/585aa81c4f6ae202fedf2907.png 3.000 0.000 197.445 -176.552 -1.558 7.613 2.053 -14.116 0.490 1.121 0.470 0.433
+/home/burak/coco_dataset/foreground_objects/Dirty-Pig-PNG.png 3.000 0.000 7.426 6.824 16.295 -7.494 -9.439 5.060 0.694 0.481 1.141 0.774
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b27c5.png 3.000 0.000 63.704 -126.257 -4.599 6.486 0.155 0.783 0.602 0.787 1.025 0.913
+/home/burak/coco_dataset/unlabeled2017_png/000000000537.png 3.000 0.000 312.655 852.444 0.193 0.014 0.427 -1.229 0.304 0.467 0.223 0.268
+/home/burak/coco_dataset/unlabeled2017_png/000000192475.png 3.000 0.000 86.456 -157.494 9.009 -17.247 8.041 -16.518 0.505 0.258 0.595 0.303

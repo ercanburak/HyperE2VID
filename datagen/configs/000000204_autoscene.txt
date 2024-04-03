@@ -1,0 +1,4 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000551035.jpg 3.000 0.000 53.629 79.103 -0.269 -0.557 -0.158 0.095 1.165 1.365 1.438 1.259
+/home/burak/coco_dataset/foreground_objects/Asparagus-Transparent-Background.png 3.000 0.000 157.976 174.650 -0.332 -0.472 -0.452 -0.428 1.026 0.659 0.796 0.757
+/home/burak/coco_dataset/unlabeled2017_png/000000188180.png 3.000 0.000 69.940 23.988 -0.052 0.410 -0.234 -0.061 0.395 0.512 0.496 0.532

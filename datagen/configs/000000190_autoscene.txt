@@ -1,0 +1,11 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000017849.jpg 3.000 0.000 135.851 147.370 -0.050 0.395 0.009 0.868 1.436 1.349 1.016 1.095
+/home/burak/coco_dataset/unlabeled2017_png/000000191092.png 3.000 0.000 42.164 109.436 0.097 -0.793 0.099 -0.371 0.554 0.365 0.518 0.442
+/home/burak/coco_dataset/foreground_objects/Peony-Transparent-PNG.png 3.000 0.000 32.773 -63.701 -2.876 1.944 1.120 -0.574 0.869 0.729 0.684 1.035
+/home/burak/coco_dataset/foreground_objects/Angelfish-Transparent-PNG.png 3.000 0.000 35.447 -96.425 0.317 -2.139 -0.491 0.164 0.617 0.951 0.593 0.894
+/home/burak/coco_dataset/foreground_objects/Human-PNG-Clipart.png 3.000 0.000 340.446 399.461 0.442 0.134 -0.067 3.918 0.960 0.573 0.629 0.783
+/home/burak/coco_dataset/unlabeled2017_png/000000188740.png 3.000 0.000 277.804 205.558 -0.380 -0.411 -0.632 1.291 0.256 0.286 0.213 0.501
+/home/burak/coco_dataset/foreground_objects/Goldfish-PNG-Free-Download.png 3.000 0.000 21.500 4.240 2.411 -0.714 -1.370 0.016 1.078 1.165 0.786 1.142
+/home/burak/coco_dataset/foreground_objects/Ice-Drink-Transparent-Background.png 3.000 0.000 173.164 227.132 -0.680 -0.190 -1.721 1.633 0.846 0.644 0.820 1.012
+/home/burak/coco_dataset/unlabeled2017_png/000000189545.png 3.000 0.000 30.964 43.477 0.210 0.651 0.346 -1.977 0.443 0.475 0.525 0.236
+/home/burak/coco_dataset/unlabeled2017_png/000000188213.png 3.000 0.000 255.935 383.395 0.250 0.526 0.170 0.299 0.333 0.515 0.337 0.472

@@ -1,0 +1,16 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000000580.jpg 3.000 0.000 299.567 342.790 -0.090 -0.221 0.202 -0.249 1.061 1.245 1.214 1.492
+/home/burak/coco_dataset/foreground_objects/Swan-PNG-Photos.png 3.000 0.000 106.487 -247.254 -17.004 11.976 -10.772 7.489 0.495 0.664 0.644 0.798
+/home/burak/coco_dataset/foreground_objects/Rat-PNG-Photos.png 3.000 0.000 261.604 2.104 -12.422 1.831 6.901 -0.704 1.003 1.056 0.978 0.522
+/home/burak/coco_dataset/unlabeled2017_png/000000190154.png 3.000 0.000 291.850 54.896 -6.835 2.732 -9.576 3.282 0.584 0.576 0.293 0.467
+/home/burak/coco_dataset/unlabeled2017_png/000000189070.png 3.000 0.000 142.542 11.459 1.176 -5.227 0.827 -0.922 0.412 0.217 0.443 0.502
+/home/burak/coco_dataset/foreground_objects/Barley-Transparent-PNG.png 3.000 0.000 285.796 628.510 -3.403 4.202 2.783 -3.910 0.437 0.595 0.467 0.993
+/home/burak/coco_dataset/unlabeled2017_png/000000190062.png 3.000 0.000 304.351 492.178 -2.797 1.613 -1.060 0.796 0.315 0.316 0.420 0.347
+/home/burak/coco_dataset/foreground_objects/Chicken-Transparent-PNG.png 3.000 0.000 150.526 452.313 -0.209 -0.338 0.998 -5.677 0.645 0.656 0.712 0.403
+/home/burak/coco_dataset/unlabeled2017_png/000000192353.png 3.000 0.000 332.536 761.619 -22.195 8.035 4.616 -2.024 0.460 0.356 0.495 0.405
+/home/burak/coco_dataset/unlabeled2017_png/000000188896.png 3.000 0.000 135.045 -95.685 10.319 -2.415 -2.172 0.271 0.337 0.587 0.296 0.440
+/home/burak/coco_dataset/unlabeled2017_png/000000189482.png 3.000 0.000 25.632 428.836 -3.388 2.699 -3.747 2.791 0.541 0.569 0.283 0.526
+/home/burak/coco_dataset/foreground_objects/5a0586a79cf05203c4b603ca.png 3.000 0.000 61.496 295.760 1.141 -3.960 2.123 -8.456 1.026 0.904 1.100 1.055
+/home/burak/coco_dataset/foreground_objects/Clouds-PNG-Image.png 3.000 0.000 195.388 -40.709 -0.176 0.170 0.353 -1.740 0.872 0.496 0.693 0.895
+/home/burak/coco_dataset/foreground_objects/5954ca93deaf2c03413be389.png 3.000 0.000 36.541 -193.297 -0.009 -0.001 -0.430 -0.399 1.045 0.970 0.930 0.440
+/home/burak/coco_dataset/unlabeled2017_png/000000188020.png 3.000 0.000 174.472 -134.669 -1.494 7.316 0.247 -0.036 0.445 0.571 0.245 0.563

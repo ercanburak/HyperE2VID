@@ -1,0 +1,25 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000349053.jpg 3.000 0.000 115.629 -0.018 -0.111 -0.640 0.046 0.732 1.147 1.142 1.272 1.350
+/home/burak/coco_dataset/foreground_objects/Barn-Owl-PNG-Picture.png 3.000 0.000 254.140 765.168 5.419 -6.430 1.836 -1.183 0.998 0.696 0.767 1.019
+/home/burak/coco_dataset/unlabeled2017_png/000000000398.png 3.000 0.000 215.547 -366.932 -2.184 0.990 5.028 -4.792 0.261 0.315 0.527 0.260
+/home/burak/coco_dataset/foreground_objects/58987679cba9841eabab6174.png 3.000 0.000 263.490 -274.467 1.054 -0.871 10.303 -6.582 0.554 0.710 1.059 0.454
+/home/burak/coco_dataset/foreground_objects/Nelson-Mandela-PNG-Image.png 3.000 0.000 251.013 403.038 0.090 -3.091 -2.860 21.481 1.038 0.598 0.926 0.931
+/home/burak/coco_dataset/unlabeled2017_png/000000190138.png 3.000 0.000 79.352 -293.192 -17.888 8.708 -28.059 13.802 0.297 0.356 0.549 0.401
+/home/burak/coco_dataset/unlabeled2017_png/000000190190.png 3.000 0.000 109.581 107.481 3.306 -3.225 -4.315 4.936 0.252 0.446 0.221 0.311
+/home/burak/coco_dataset/foreground_objects/Fresh-Healthy-Food-PNG-Pic.png 3.000 0.000 215.789 -218.300 3.180 -29.333 -2.516 21.166 0.793 1.017 0.849 1.095
+/home/burak/coco_dataset/unlabeled2017_png/000000000035.png 3.000 0.000 54.568 -153.854 -1.156 2.333 0.354 0.269 0.558 0.542 0.462 0.388
+/home/burak/coco_dataset/unlabeled2017_png/000000188316.png 3.000 0.000 194.075 -326.624 1.424 -0.664 -6.055 4.673 0.210 0.324 0.320 0.588
+/home/burak/coco_dataset/foreground_objects/Jar-PNG-Picture.png 3.000 0.000 281.745 -269.031 -5.813 1.177 -19.793 3.231 0.744 0.631 0.984 0.740
+/home/burak/coco_dataset/foreground_objects/Shark-PNG-Picture.png 3.000 0.000 231.320 560.443 -2.152 3.792 15.299 -27.038 0.852 0.979 0.666 1.009
+/home/burak/coco_dataset/foreground_objects/Short-Hair-PNG-Photos.png 3.000 0.000 192.694 234.143 -0.784 2.027 -0.740 2.815 1.071 0.707 0.541 0.582
+/home/burak/coco_dataset/foreground_objects/putin.png 3.000 0.000 277.225 -50.410 -9.113 6.467 1.462 -1.004 0.724 1.058 0.964 0.597
+/home/burak/coco_dataset/unlabeled2017_png/000000188988.png 3.000 0.000 11.243 -27.575 -1.716 0.370 45.269 -10.008 0.546 0.530 0.540 0.500
+/home/burak/coco_dataset/foreground_objects/Amphibian-PNG-HD.png 3.000 0.000 218.103 2.683 -14.757 21.436 1.376 -2.111 0.869 0.873 0.547 0.776
+/home/burak/coco_dataset/unlabeled2017_png/000000190758.png 3.000 0.000 315.035 -218.489 0.436 0.381 0.893 -2.893 0.527 0.420 0.589 0.456
+/home/burak/coco_dataset/foreground_objects/Halibut-PNG-Image.png 3.000 0.000 246.542 759.786 3.788 -1.399 -0.014 -0.114 0.621 1.193 1.054 0.556
+/home/burak/coco_dataset/unlabeled2017_png/000000189194.png 3.000 0.000 244.761 322.871 0.929 -1.608 -6.989 19.419 0.207 0.203 0.401 0.274
+/home/burak/coco_dataset/unlabeled2017_png/000000189082.png 3.000 0.000 150.902 -382.784 -12.811 10.589 -14.039 12.502 0.474 0.513 0.236 0.544
+/home/burak/coco_dataset/unlabeled2017_png/000000188117.png 3.000 0.000 124.892 -372.273 0.495 0.310 -2.675 6.314 0.301 0.323 0.584 0.552
+/home/burak/coco_dataset/unlabeled2017_png/000000192172.png 3.000 0.000 106.474 460.511 -2.518 0.313 -1.692 0.497 0.494 0.205 0.553 0.262
+/home/burak/coco_dataset/foreground_objects/5ca393a61cf23004f2836818.png 3.000 0.000 9.084 -293.579 2.931 -1.917 -6.431 3.706 0.860 0.642 1.114 0.778
+/home/burak/coco_dataset/foreground_objects/Carpet-PNG-Photos.png 3.000 0.000 139.163 -449.816 7.195 -2.191 11.358 -3.400 0.406 0.445 0.747 0.515

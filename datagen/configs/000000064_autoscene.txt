@@ -1,0 +1,4 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000108720.jpg 3.000 0.000 285.567 251.422 0.005 -0.116 0.165 0.097 1.200 1.089 1.465 1.450
+/home/burak/coco_dataset/unlabeled2017_png/000000191844.png 3.000 0.000 306.855 307.395 -0.529 -0.088 -0.189 0.267 0.423 0.406 0.280 0.383
+/home/burak/coco_dataset/foreground_objects/Husky-PNG-Transparent-File.png 3.000 0.000 346.801 353.796 1.328 -1.011 0.333 0.484 0.582 1.198 0.941 1.176

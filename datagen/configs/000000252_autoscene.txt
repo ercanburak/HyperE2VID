@@ -1,0 +1,4 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000161298.jpg 3.000 0.000 59.115 48.629 -0.383 -0.459 -0.209 -0.372 1.228 1.065 1.484 1.020
+/home/burak/coco_dataset/foreground_objects/Socks-PNG-Transparent-Image.png 3.000 0.000 182.801 231.557 1.228 -0.337 1.134 -0.320 1.163 1.051 0.573 1.138
+/home/burak/coco_dataset/unlabeled2017_png/000000189302.png 3.000 0.000 72.149 22.832 0.081 0.179 -0.282 -0.270 0.303 0.494 0.360 0.206

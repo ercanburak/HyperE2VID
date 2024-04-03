@@ -1,0 +1,9 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000286589.jpg 3.000 0.000 200.499 202.879 0.309 -0.583 0.151 -0.158 1.102 1.440 1.463 1.434
+/home/burak/coco_dataset/foreground_objects/Shoelaces-PNG-File.png 3.000 0.000 74.192 -7.942 -1.087 1.525 -1.637 1.235 0.865 0.905 0.775 0.484
+/home/burak/coco_dataset/unlabeled2017_png/000000191820.png 3.000 0.000 306.311 398.613 -0.256 0.421 -0.232 0.563 0.476 0.554 0.523 0.417
+/home/burak/coco_dataset/unlabeled2017_png/000000192330.png 3.000 0.000 253.576 304.294 -0.163 1.017 -0.748 0.270 0.278 0.212 0.288 0.488
+/home/burak/coco_dataset/unlabeled2017_png/000000188664.png 3.000 0.000 45.146 82.894 -0.174 0.683 0.210 0.322 0.470 0.205 0.467 0.450
+/home/burak/coco_dataset/foreground_objects/Common-Raven-PNG-Clipart.png 3.000 0.000 236.943 216.844 2.168 -2.531 0.329 -0.996 1.033 0.971 0.922 0.718
+/home/burak/coco_dataset/foreground_objects/tractor.png 3.000 0.000 33.582 67.177 -0.752 1.832 0.400 -1.478 0.881 1.054 0.684 0.526
+/home/burak/coco_dataset/foreground_objects/chair1.png 3.000 0.000 98.663 37.744 1.139 -0.038 -2.029 1.004 1.146 0.573 0.450 0.742

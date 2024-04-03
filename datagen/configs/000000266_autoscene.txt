@@ -1,0 +1,10 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000303207.jpg 3.000 0.000 300.946 295.661 0.164 0.049 -0.483 -0.024 1.314 1.304 1.112 1.192
+/home/burak/coco_dataset/foreground_objects/Sunglasses-Transparent-PNG.png 3.000 0.000 45.661 186.507 0.169 0.016 0.014 -0.374 0.640 0.906 0.975 0.705
+/home/burak/coco_dataset/foreground_objects/589c89ce64b351149f22a85e.png 3.000 0.000 113.173 -19.964 1.049 -1.493 0.898 -1.265 1.190 1.159 0.883 0.452
+/home/burak/coco_dataset/unlabeled2017_png/000000189070.png 3.000 0.000 162.501 310.771 -2.395 1.784 -0.743 1.119 0.528 0.354 0.459 0.550
+/home/burak/coco_dataset/unlabeled2017_png/000000000470.png 3.000 0.000 341.544 357.323 -0.404 0.461 0.652 -0.635 0.272 0.544 0.578 0.500
+/home/burak/coco_dataset/unlabeled2017_png/000000190936.png 3.000 0.000 32.751 -76.985 0.779 -0.024 0.484 0.192 0.380 0.390 0.303 0.284
+/home/burak/coco_dataset/unlabeled2017_png/000000189841.png 3.000 0.000 94.804 -33.524 -1.248 2.012 0.079 -0.434 0.542 0.228 0.428 0.549
+/home/burak/coco_dataset/foreground_objects/Ladybird-PNG-Transparent-HD-Photo.png 3.000 0.000 159.392 260.558 0.603 -0.529 5.235 -1.103 0.885 0.502 0.821 0.972
+/home/burak/coco_dataset/foreground_objects/French-Dip-PNG-Photos.png 3.000 0.000 304.292 215.496 1.406 -1.553 -1.894 1.903 0.798 0.490 1.197 0.870

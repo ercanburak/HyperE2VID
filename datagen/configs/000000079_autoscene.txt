@@ -1,0 +1,21 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000307351.jpg 3.000 0.000 244.726 136.318 -0.174 -0.183 0.117 0.124 1.346 1.020 1.294 1.331
+/home/burak/coco_dataset/unlabeled2017_png/000000000477.png 3.000 0.000 253.834 852.389 -9.185 10.491 12.175 -12.759 0.351 0.297 0.501 0.405
+/home/burak/coco_dataset/unlabeled2017_png/000000000225.png 3.000 0.000 252.888 126.230 24.705 -3.887 0.168 -0.182 0.254 0.450 0.312 0.225
+/home/burak/coco_dataset/unlabeled2017_png/000000000323.png 3.000 0.000 179.983 -254.554 6.090 -9.273 1.305 -1.789 0.406 0.498 0.300 0.482
+/home/burak/coco_dataset/unlabeled2017_png/000000190042.png 3.000 0.000 258.156 178.753 1.227 -1.280 0.902 -0.305 0.389 0.458 0.412 0.580
+/home/burak/coco_dataset/unlabeled2017_png/000000192283.png 3.000 0.000 15.937 128.041 -5.952 3.123 6.300 -3.781 0.430 0.566 0.503 0.206
+/home/burak/coco_dataset/unlabeled2017_png/000000191903.png 3.000 0.000 107.469 653.745 -2.047 6.769 -1.608 5.482 0.488 0.284 0.239 0.579
+/home/burak/coco_dataset/foreground_objects/5af2b1c36554160a79bea033.png 3.000 0.000 76.044 480.356 0.443 -2.402 2.072 -7.841 0.403 0.843 0.566 1.017
+/home/burak/coco_dataset/foreground_objects/58da605c5f58be1227aec941.png 3.000 0.000 320.697 -275.766 -0.872 0.527 0.254 -0.911 0.583 0.435 0.931 0.612
+/home/burak/coco_dataset/foreground_objects/Gabriella-Wilde-Transparent-PNG.png 3.000 0.000 273.038 169.065 1.469 -2.076 -1.872 2.748 0.745 0.646 1.062 0.568
+/home/burak/coco_dataset/foreground_objects/Horned-Lizard-PNG-Transparent.png 3.000 0.000 155.200 -305.912 -3.962 9.371 6.718 -15.446 1.193 0.699 1.182 0.479
+/home/burak/coco_dataset/foreground_objects/585aa81c4f6ae202fedf2907.png 3.000 0.000 9.066 312.941 0.417 0.429 -0.398 -0.275 0.746 1.186 1.030 1.028
+/home/burak/coco_dataset/foreground_objects/Herbs-PNG-Clipart.png 3.000 0.000 34.206 -13.027 -5.350 2.924 35.553 -16.255 0.489 1.030 0.460 1.177
+/home/burak/coco_dataset/unlabeled2017_png/000000190058.png 3.000 0.000 281.375 -297.417 -0.926 6.947 -3.464 23.838 0.300 0.474 0.231 0.430
+/home/burak/coco_dataset/foreground_objects/5aed6bce6554160a79be9ff4.png 3.000 0.000 137.588 -34.243 -14.447 10.874 -0.010 -0.664 0.429 0.582 0.630 0.434
+/home/burak/coco_dataset/foreground_objects/Octopus-Toy-PNG-Photos.png 3.000 0.000 38.393 -268.871 -0.196 0.725 -0.741 1.210 0.990 0.617 1.042 0.598
+/home/burak/coco_dataset/unlabeled2017_png/000000192149.png 3.000 0.000 278.046 824.916 -2.975 3.785 4.232 -3.865 0.495 0.535 0.370 0.410
+/home/burak/coco_dataset/foreground_objects/Husky-PNG-Transparent-File.png 3.000 0.000 116.671 287.262 42.800 -11.198 7.435 -1.949 0.468 0.476 1.048 1.155
+/home/burak/coco_dataset/foreground_objects/Maple-Leaf-PNG-Transparent-1.png 3.000 0.000 352.569 -33.321 -1.573 0.701 0.580 -0.586 1.154 0.952 0.577 0.457
+/home/burak/coco_dataset/unlabeled2017_png/000000190077.png 3.000 0.000 275.527 524.063 2.216 -1.672 -2.605 2.750 0.426 0.464 0.520 0.218

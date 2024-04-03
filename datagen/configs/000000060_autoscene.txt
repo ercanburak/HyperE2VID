@@ -1,0 +1,7 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000141999.jpg 3.000 0.000 332.295 327.580 0.205 0.122 0.205 0.130 1.459 1.240 1.235 1.083
+/home/burak/coco_dataset/foreground_objects/Ladybird-PNG-Transparent-HD-Photo.png 3.000 0.000 201.044 207.763 -0.148 0.358 0.523 0.120 0.472 0.404 0.491 1.044
+/home/burak/coco_dataset/foreground_objects/Thinking-Woman-PNG-Clipart-Background.png 3.000 0.000 96.555 92.161 0.289 0.406 0.280 0.161 0.701 1.002 0.901 0.482
+/home/burak/coco_dataset/unlabeled2017_png/000000191424.png 3.000 0.000 259.992 242.308 0.084 -0.046 0.324 0.249 0.590 0.287 0.308 0.361
+/home/burak/coco_dataset/foreground_objects/Fake-Moustache-PNG-Picture.png 3.000 0.000 249.853 219.215 -0.052 -0.001 -0.158 -0.157 0.668 0.477 0.867 0.996
+/home/burak/coco_dataset/unlabeled2017_png/000000000503.png 3.000 0.000 315.321 311.888 -0.398 0.547 -0.068 0.956 0.461 0.205 0.444 0.236

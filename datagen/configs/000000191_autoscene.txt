@@ -1,0 +1,22 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000235167.jpg 3.000 0.000 286.479 -140.718 -0.054 0.669 0.228 -0.937 1.035 1.202 1.323 1.285
+/home/burak/coco_dataset/unlabeled2017_png/000000191848.png 3.000 0.000 37.116 187.982 0.073 0.358 -0.079 0.306 0.356 0.339 0.472 0.497
+/home/burak/coco_dataset/foreground_objects/Lady-PNG-Image.png 3.000 0.000 260.018 -22.477 -1.238 2.686 0.547 -2.423 1.096 0.404 0.606 1.085
+/home/burak/coco_dataset/unlabeled2017_png/000000189406.png 3.000 0.000 275.239 711.855 1.586 -11.665 -5.515 30.933 0.359 0.405 0.414 0.576
+/home/burak/coco_dataset/foreground_objects/Asparagus-Transparent-Background.png 3.000 0.000 78.900 435.604 3.447 -3.926 7.513 -7.016 0.686 1.164 0.764 0.952
+/home/burak/coco_dataset/foreground_objects/Bok-Choy-PNG-HD.png 3.000 0.000 329.220 -16.410 -4.599 4.862 0.497 -1.150 0.567 0.660 0.777 1.054
+/home/burak/coco_dataset/foreground_objects/5a835b9eabc3d121aba7129a.png 3.000 0.000 26.966 -30.993 5.898 -1.724 -25.606 6.862 0.591 1.052 0.550 0.458
+/home/burak/coco_dataset/foreground_objects/5a00d4a40e8525eec2752fda.png 3.000 0.000 44.003 93.647 -5.090 1.836 -18.963 5.779 1.145 0.634 0.596 1.066
+/home/burak/coco_dataset/unlabeled2017_png/000000191140.png 3.000 0.000 97.584 -13.696 -17.677 2.366 3.396 -0.169 0.565 0.326 0.331 0.292
+/home/burak/coco_dataset/unlabeled2017_png/000000191888.png 3.000 0.000 341.478 436.410 0.369 -3.585 1.718 -7.317 0.396 0.587 0.469 0.507
+/home/burak/coco_dataset/unlabeled2017_png/000000189070.png 3.000 0.000 2.562 -185.762 13.694 -5.209 9.704 -3.615 0.327 0.248 0.492 0.456
+/home/burak/coco_dataset/foreground_objects/Nescafe-PNG-Clipart.png 3.000 0.000 245.328 754.648 -2.152 3.849 2.051 -3.168 0.704 0.961 0.799 1.091
+/home/burak/coco_dataset/unlabeled2017_png/000000189414.png 3.000 0.000 271.748 -96.636 -1.080 0.379 -0.162 0.107 0.502 0.449 0.447 0.526
+/home/burak/coco_dataset/foreground_objects/apple1.png 3.000 0.000 256.027 -125.335 -0.925 0.261 -5.885 7.867 1.110 0.549 1.143 0.731
+/home/burak/coco_dataset/foreground_objects/Yellow-Dandelion-PNG-Transparent-Image.png 3.000 0.000 306.506 60.022 -2.140 1.881 6.443 -3.296 0.739 0.423 1.097 0.877
+/home/burak/coco_dataset/foreground_objects/Carpet-PNG-Photos.png 3.000 0.000 196.872 -104.822 -10.282 8.748 10.602 -8.696 0.608 1.028 0.807 0.850
+/home/burak/coco_dataset/unlabeled2017_png/000000190925.png 3.000 0.000 250.009 650.041 4.253 -0.325 5.384 -0.791 0.357 0.370 0.565 0.361
+/home/burak/coco_dataset/unlabeled2017_png/000000190710.png 3.000 0.000 251.848 -186.228 0.497 -2.239 0.358 -2.512 0.530 0.480 0.471 0.541
+/home/burak/coco_dataset/unlabeled2017_png/000000000032.png 3.000 0.000 130.684 -53.956 7.749 -1.249 20.462 -3.232 0.475 0.327 0.363 0.282
+/home/burak/coco_dataset/unlabeled2017_png/000000189250.png 3.000 0.000 35.342 594.252 -28.924 21.656 17.009 -13.145 0.218 0.553 0.298 0.409
+/home/burak/coco_dataset/foreground_objects/Vest-Transparent-Background.png 3.000 0.000 208.294 152.490 -3.624 6.075 4.594 -6.874 1.138 1.117 0.420 0.958

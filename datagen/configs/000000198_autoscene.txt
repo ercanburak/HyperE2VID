@@ -1,0 +1,8 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000324247.jpg 3.000 0.000 103.114 65.929 -0.389 0.008 0.570 -0.067 1.162 1.171 1.151 1.059
+/home/burak/coco_dataset/foreground_objects/Herbs-PNG-Clipart.png 3.000 0.000 319.794 258.248 0.217 -0.145 0.136 -0.952 0.899 0.850 0.702 1.155
+/home/burak/coco_dataset/foreground_objects/Swan-PNG-Photos.png 3.000 0.000 342.714 363.585 0.248 0.201 0.588 -2.715 0.664 1.166 0.704 0.772
+/home/burak/coco_dataset/unlabeled2017_png/000000189309.png 3.000 0.000 136.118 217.948 0.002 0.578 0.860 -0.227 0.472 0.207 0.408 0.476
+/home/burak/coco_dataset/unlabeled2017_png/000000189553.png 3.000 0.000 15.072 40.674 -1.412 2.271 -0.705 0.840 0.396 0.587 0.259 0.280
+/home/burak/coco_dataset/unlabeled2017_png/000000189273.png 3.000 0.000 126.696 75.329 0.716 -4.950 -0.306 2.385 0.543 0.218 0.474 0.259
+/home/burak/coco_dataset/foreground_objects/Halibut-PNG-Image.png 3.000 0.000 68.896 85.438 -0.459 0.452 0.775 -1.039 0.964 0.849 0.966 0.439

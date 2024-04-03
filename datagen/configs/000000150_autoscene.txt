@@ -1,0 +1,7 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000071701.jpg 3.000 0.000 152.425 19.289 -0.548 -0.306 0.058 0.678 1.075 1.308 1.444 1.399
+/home/burak/coco_dataset/foreground_objects/5954bf12deaf2c03413be360.png 3.000 0.000 87.606 2.278 1.883 -2.358 0.366 -0.395 0.491 0.587 0.636 0.993
+/home/burak/coco_dataset/unlabeled2017_png/000000190047.png 3.000 0.000 202.536 336.937 3.324 -0.280 0.225 -0.377 0.213 0.565 0.552 0.347
+/home/burak/coco_dataset/foreground_objects/5a00d05d0e8525eec2752fd2.png 3.000 0.000 235.399 177.812 -0.380 -0.253 -0.239 1.121 0.954 1.008 0.831 1.117
+/home/burak/coco_dataset/foreground_objects/Marigold-PNG-File.png 3.000 0.000 304.890 169.383 0.218 -0.662 -0.565 0.695 1.143 0.641 1.114 0.720
+/home/burak/coco_dataset/unlabeled2017_png/000000192203.png 3.000 0.000 259.688 227.661 0.210 -0.155 0.084 -0.103 0.261 0.499 0.556 0.576

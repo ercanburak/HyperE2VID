@@ -1,0 +1,16 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000373538.jpg 3.000 0.000 264.959 137.917 0.055 -0.678 -0.447 -0.442 1.459 1.424 1.171 1.206
+/home/burak/coco_dataset/unlabeled2017_png/000000191973.png 3.000 0.000 232.772 -175.580 2.329 -0.940 5.219 -2.007 0.461 0.412 0.231 0.428
+/home/burak/coco_dataset/foreground_objects/59567bfa84b1c2079d25cb62.png 3.000 0.000 183.415 312.845 -0.551 -0.319 -0.062 -0.258 0.647 0.465 1.016 1.141
+/home/burak/coco_dataset/unlabeled2017_png/000000189918.png 3.000 0.000 109.239 -75.105 9.214 -3.681 5.547 -2.551 0.554 0.233 0.243 0.252
+/home/burak/coco_dataset/unlabeled2017_png/000000189488.png 3.000 0.000 108.913 427.749 -3.832 2.952 -7.521 5.731 0.382 0.321 0.565 0.500
+/home/burak/coco_dataset/foreground_objects/Horned-Lizard-PNG-Transparent.png 3.000 0.000 148.106 495.048 -3.570 10.830 -1.238 3.942 0.465 0.815 0.860 0.471
+/home/burak/coco_dataset/unlabeled2017_png/000000189573.png 3.000 0.000 22.286 -119.689 1.379 -4.718 -2.975 8.662 0.351 0.507 0.214 0.585
+/home/burak/coco_dataset/unlabeled2017_png/000000188586.png 3.000 0.000 130.623 -19.723 -1.167 1.938 -1.071 0.788 0.205 0.539 0.274 0.421
+/home/burak/coco_dataset/foreground_objects/5954bf12deaf2c03413be360.png 3.000 0.000 212.221 -18.213 3.796 -3.681 13.914 -15.975 0.795 0.888 0.746 0.884
+/home/burak/coco_dataset/unlabeled2017_png/000000190552.png 3.000 0.000 218.550 372.284 6.550 -4.094 15.206 -9.388 0.550 0.269 0.407 0.422
+/home/burak/coco_dataset/foreground_objects/Sparrow-PNG-Photos.png 3.000 0.000 86.955 307.415 -0.231 -0.204 -0.012 3.928 1.042 0.680 0.668 0.960
+/home/burak/coco_dataset/unlabeled2017_png/000000189803.png 3.000 0.000 339.761 552.930 4.255 -0.342 1.660 0.123 0.576 0.517 0.401 0.387
+/home/burak/coco_dataset/foreground_objects/Bison-Transparent-Background.png 3.000 0.000 97.453 -53.919 2.227 -4.444 2.100 -2.724 0.817 0.586 1.010 1.179
+/home/burak/coco_dataset/foreground_objects/Termite-PNG-Photo.png 3.000 0.000 75.542 403.116 0.061 -0.780 1.773 -0.761 1.053 0.563 0.627 0.453
+/home/burak/coco_dataset/foreground_objects/Moth-Transparent-PNG.png 3.000 0.000 217.722 -108.087 -3.621 8.295 1.137 -4.348 1.165 1.006 0.432 1.000

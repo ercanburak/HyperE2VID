@@ -1,0 +1,15 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000052226.jpg 3.000 0.000 290.461 291.591 -0.352 -0.380 0.549 -0.085 1.024 1.107 1.311 1.323
+/home/burak/coco_dataset/unlabeled2017_png/000000192020.png 3.000 0.000 67.034 -287.736 -8.969 7.018 -2.172 1.580 0.549 0.465 0.372 0.404
+/home/burak/coco_dataset/unlabeled2017_png/000000188924.png 3.000 0.000 311.628 636.610 0.091 -3.628 -0.536 1.166 0.234 0.404 0.600 0.319
+/home/burak/coco_dataset/unlabeled2017_png/000000191559.png 3.000 0.000 357.105 146.268 -1.130 1.429 3.606 -8.475 0.555 0.519 0.221 0.560
+/home/burak/coco_dataset/foreground_objects/octopus.png 3.000 0.000 23.355 -377.239 6.993 -1.380 7.031 -1.538 0.682 0.932 0.424 0.850
+/home/burak/coco_dataset/unlabeled2017_png/000000188835.png 3.000 0.000 114.420 -136.797 7.832 -1.578 -11.857 2.399 0.591 0.438 0.423 0.370
+/home/burak/coco_dataset/foreground_objects/Chicken-Transparent-PNG.png 3.000 0.000 198.558 -231.088 -4.737 7.561 -5.571 7.677 0.676 0.709 0.486 1.029
+/home/burak/coco_dataset/unlabeled2017_png/000000190195.png 3.000 0.000 53.149 -148.087 8.866 -4.547 -4.420 2.061 0.300 0.349 0.353 0.478
+/home/burak/coco_dataset/unlabeled2017_png/000000188491.png 3.000 0.000 212.265 612.407 4.665 -8.684 2.846 -6.582 0.221 0.582 0.347 0.546
+/home/burak/coco_dataset/foreground_objects/Human-PNG-Clipart.png 3.000 0.000 159.418 23.198 -0.421 0.891 -0.331 1.058 0.415 0.938 0.642 0.906
+/home/burak/coco_dataset/foreground_objects/Goldfish-PNG-Free-Download.png 3.000 0.000 183.046 -48.500 -1.290 -0.038 11.740 -3.418 1.041 0.443 0.625 0.619
+/home/burak/coco_dataset/foreground_objects/Northern-Pintail-PNG-File.png 3.000 0.000 144.079 512.618 -2.170 9.116 1.334 -7.837 0.948 1.061 0.589 0.902
+/home/burak/coco_dataset/foreground_objects/Beaver-PNG-HD.png 3.000 0.000 39.554 430.344 -10.004 4.798 1.468 -1.234 0.918 0.603 0.731 0.824
+/home/burak/coco_dataset/foreground_objects/Shark-PNG-Picture.png 3.000 0.000 343.681 -60.745 -3.045 0.895 -1.920 0.640 0.639 1.027 0.851 0.737

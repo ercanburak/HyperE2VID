@@ -1,0 +1,15 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000511601.jpg 3.000 0.000 119.642 -43.396 0.672 -0.163 0.844 -0.062 1.294 1.261 1.155 1.413
+/home/burak/coco_dataset/foreground_objects/Labrador-PNG-Picture.png 3.000 0.000 127.962 -194.108 2.085 -9.602 2.558 -9.648 1.091 0.806 0.888 1.139
+/home/burak/coco_dataset/foreground_objects/tree.png 3.000 0.000 176.413 237.919 2.320 -2.775 -6.050 7.127 1.173 0.648 1.162 0.880
+/home/burak/coco_dataset/unlabeled2017_png/000000188853.png 3.000 0.000 24.908 603.291 -6.534 1.852 -10.402 2.782 0.469 0.284 0.312 0.353
+/home/burak/coco_dataset/unlabeled2017_png/000000189360.png 3.000 0.000 327.118 264.649 -1.026 0.711 2.464 -1.591 0.300 0.462 0.569 0.208
+/home/burak/coco_dataset/unlabeled2017_png/000000191800.png 3.000 0.000 357.055 463.591 0.513 -1.524 -0.136 1.969 0.284 0.200 0.486 0.289
+/home/burak/coco_dataset/unlabeled2017_png/000000189501.png 3.000 0.000 346.694 755.538 -5.523 7.938 -0.074 -0.323 0.559 0.562 0.215 0.288
+/home/burak/coco_dataset/foreground_objects/Heart-Pendant-PNG-Image.png 3.000 0.000 60.305 355.489 -13.527 27.980 -7.274 15.877 0.933 0.813 1.187 1.082
+/home/burak/coco_dataset/foreground_objects/58da605c5f58be1227aec941.png 3.000 0.000 228.676 263.137 -15.402 9.022 -5.276 2.788 0.575 0.443 0.972 0.473
+/home/burak/coco_dataset/unlabeled2017_png/000000191788.png 3.000 0.000 183.787 135.179 -3.088 0.245 -3.564 0.764 0.221 0.452 0.500 0.452
+/home/burak/coco_dataset/unlabeled2017_png/000000188538.png 3.000 0.000 207.585 255.610 -0.169 -0.168 -0.234 -0.222 0.358 0.549 0.322 0.204
+/home/burak/coco_dataset/foreground_objects/5c6404c0e4b8dd029ff25b57.png 3.000 0.000 81.464 -294.012 -5.468 22.594 -0.899 2.824 0.648 1.174 0.565 1.162
+/home/burak/coco_dataset/foreground_objects/Beaver-PNG-HD.png 3.000 0.000 292.575 15.024 -9.590 4.360 -17.027 8.479 0.657 1.140 1.008 0.418
+/home/burak/coco_dataset/foreground_objects/5a54e527edcceab89d2a2d71.png 3.000 0.000 115.524 -157.425 -9.197 8.993 -0.530 -0.045 0.724 0.451 0.487 1.012

@@ -1,0 +1,13 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000028730.jpg 3.000 0.000 42.262 453.588 0.306 0.277 0.024 -0.465 1.491 1.464 1.254 1.388
+/home/burak/coco_dataset/foreground_objects/Halibut-PNG-Image.png 3.000 0.000 251.055 140.991 10.826 -9.405 -15.871 14.426 1.124 0.402 0.756 0.969
+/home/burak/coco_dataset/foreground_objects/59567be284b1c2079d25cb61.png 3.000 0.000 321.069 751.022 0.115 1.442 2.443 -5.728 1.079 1.015 0.882 1.165
+/home/burak/coco_dataset/unlabeled2017_png/000000000498.png 3.000 0.000 67.450 593.044 -13.379 2.860 1.134 -0.277 0.572 0.540 0.390 0.567
+/home/burak/coco_dataset/foreground_objects/fish1.png 3.000 0.000 222.117 477.461 -0.073 2.463 1.963 -12.223 1.109 0.893 1.053 1.012
+/home/burak/coco_dataset/unlabeled2017_png/000000188138.png 3.000 0.000 27.841 419.350 -2.413 2.967 5.408 -7.464 0.241 0.524 0.528 0.477
+/home/burak/coco_dataset/foreground_objects/Gulls-PNG-Photos.png 3.000 0.000 31.053 -438.338 -11.577 2.147 0.998 -0.397 0.871 0.471 0.885 0.858
+/home/burak/coco_dataset/unlabeled2017_png/000000188775.png 3.000 0.000 19.410 280.614 2.832 -8.462 3.372 -10.997 0.559 0.322 0.457 0.576
+/home/burak/coco_dataset/foreground_objects/58c7e853e665570916c653aa.png 3.000 0.000 267.548 570.023 5.997 -5.185 -0.437 0.396 0.444 0.963 1.168 0.742
+/home/burak/coco_dataset/unlabeled2017_png/000000189639.png 3.000 0.000 52.258 533.739 1.143 -2.844 -1.032 2.340 0.580 0.373 0.323 0.522
+/home/burak/coco_dataset/unlabeled2017_png/000000190376.png 3.000 0.000 42.500 78.594 -5.372 18.325 6.481 -23.680 0.473 0.398 0.492 0.294
+/home/burak/coco_dataset/foreground_objects/Khaki-Pant-PNG-Picture.png 3.000 0.000 55.528 450.973 10.844 -25.390 -9.019 20.206 0.682 0.864 1.128 1.083

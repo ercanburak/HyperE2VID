@@ -1,0 +1,21 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000449851.jpg 3.000 0.000 333.667 202.555 0.451 -0.174 -0.548 -0.276 1.418 1.149 1.356 1.355
+/home/burak/coco_dataset/foreground_objects/Rat-PNG-Photos.png 3.000 0.000 217.707 461.747 -0.672 0.613 0.437 0.450 0.815 0.454 1.076 0.712
+/home/burak/coco_dataset/foreground_objects/5940063dbd0e8b4eeeb603bf.png 3.000 0.000 139.153 -216.258 -16.897 5.582 -8.655 2.348 0.644 0.873 0.693 1.141
+/home/burak/coco_dataset/unlabeled2017_png/000000191180.png 3.000 0.000 8.720 -384.959 -2.247 0.878 -2.198 1.794 0.228 0.428 0.327 0.327
+/home/burak/coco_dataset/unlabeled2017_png/000000192010.png 3.000 0.000 119.797 504.737 0.808 -4.605 -0.794 4.639 0.421 0.292 0.249 0.218
+/home/burak/coco_dataset/unlabeled2017_png/000000188324.png 3.000 0.000 252.198 72.003 9.038 -5.559 -22.251 15.012 0.563 0.550 0.456 0.479
+/home/burak/coco_dataset/foreground_objects/Barley-Transparent-PNG.png 3.000 0.000 315.326 199.567 -15.990 5.187 6.098 -2.067 1.162 1.136 0.489 0.948
+/home/burak/coco_dataset/foreground_objects/5a019a827ca233f48ba62757.png 3.000 0.000 167.626 -28.012 -16.648 5.583 -4.371 1.336 0.568 1.008 0.624 1.055
+/home/burak/coco_dataset/unlabeled2017_png/000000191968.png 3.000 0.000 223.983 446.224 20.462 -5.555 -9.671 3.086 0.283 0.553 0.274 0.581
+/home/burak/coco_dataset/foreground_objects/58987679cba9841eabab6174.png 3.000 0.000 236.484 483.319 -4.921 2.296 -4.131 2.508 0.806 0.795 0.567 0.651
+/home/burak/coco_dataset/unlabeled2017_png/000000189592.png 3.000 0.000 84.662 -25.259 0.028 0.734 0.072 0.531 0.524 0.542 0.434 0.573
+/home/burak/coco_dataset/foreground_objects/5996e4a99c43bb35d25d73a5.png 3.000 0.000 101.793 371.912 -10.390 3.609 6.199 -1.624 0.912 0.616 0.608 0.888
+/home/burak/coco_dataset/unlabeled2017_png/000000189385.png 3.000 0.000 338.805 73.157 -0.391 0.076 0.221 -0.048 0.318 0.496 0.583 0.425
+/home/burak/coco_dataset/foreground_objects/5a835b8fabc3d121aba71298.png 3.000 0.000 265.231 -128.001 0.118 0.225 -6.781 1.471 0.744 0.838 0.954 0.482
+/home/burak/coco_dataset/unlabeled2017_png/000000188430.png 3.000 0.000 236.928 682.380 -0.455 0.181 20.627 -2.170 0.550 0.332 0.237 0.395
+/home/burak/coco_dataset/unlabeled2017_png/000000191512.png 3.000 0.000 93.897 -43.401 -0.841 -0.047 -0.721 0.480 0.494 0.299 0.245 0.572
+/home/burak/coco_dataset/foreground_objects/Asparagus-Transparent-Background.png 3.000 0.000 244.447 144.021 -11.908 3.391 0.828 0.212 0.809 1.122 0.405 0.683
+/home/burak/coco_dataset/unlabeled2017_png/000000192089.png 3.000 0.000 50.621 -59.387 -0.962 4.676 -1.478 3.395 0.418 0.359 0.387 0.592
+/home/burak/coco_dataset/foreground_objects/monkey.png 3.000 0.000 337.078 231.061 -0.501 -0.322 -0.015 -0.434 0.544 0.543 1.021 0.824
+/home/burak/coco_dataset/foreground_objects/Amphibian-PNG-HD.png 3.000 0.000 188.326 290.393 -5.540 4.242 14.331 -11.821 0.772 0.692 0.932 0.911

@@ -1,0 +1,7 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000259020.jpg 3.000 0.000 328.150 452.923 -0.057 -0.427 -0.020 0.364 1.499 1.347 1.318 1.200
+/home/burak/coco_dataset/unlabeled2017_png/000000189522.png 3.000 0.000 7.384 264.817 -0.356 0.609 -1.814 1.939 0.256 0.369 0.226 0.437
+/home/burak/coco_dataset/foreground_objects/580b585b2edbce24c47b27b2.png 3.000 0.000 270.248 163.354 2.947 -1.404 2.064 -1.114 0.865 0.969 1.000 0.617
+/home/burak/coco_dataset/foreground_objects/Pigeon-PNG-Image.png 3.000 0.000 290.492 450.873 4.018 -4.870 5.038 -6.018 0.809 1.027 0.600 1.042
+/home/burak/coco_dataset/unlabeled2017_png/000000192293.png 3.000 0.000 263.434 664.002 -0.540 -0.146 -0.681 -0.135 0.355 0.526 0.394 0.433
+/home/burak/coco_dataset/foreground_objects/Peony-Transparent-PNG.png 3.000 0.000 187.515 524.877 0.128 -0.618 -2.709 1.441 0.402 0.933 0.692 0.907

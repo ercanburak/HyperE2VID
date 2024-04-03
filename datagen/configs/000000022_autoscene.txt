@@ -1,0 +1,9 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000515690.jpg 3.000 0.000 48.958 -50.374 -0.033 0.559 0.710 -0.051 1.195 1.319 1.307 1.419
+/home/burak/coco_dataset/foreground_objects/Zebra-PNG-Transparent-Photo.png 3.000 0.000 153.307 259.932 1.133 -3.328 0.401 -0.513 0.813 0.416 0.629 0.769
+/home/burak/coco_dataset/foreground_objects/5c3dc0b1e39d5d01c21da8c5.png 3.000 0.000 66.095 138.131 2.886 -1.987 0.463 -0.081 0.453 0.750 1.025 0.654
+/home/burak/coco_dataset/foreground_objects/5a00d06b0e8525eec2752fd3.png 3.000 0.000 177.309 86.411 1.125 -0.522 -0.609 -0.049 0.455 0.519 1.028 1.160
+/home/burak/coco_dataset/unlabeled2017_png/000000000146.png 3.000 0.000 71.912 166.792 -0.179 0.205 2.579 -5.095 0.462 0.562 0.241 0.313
+/home/burak/coco_dataset/unlabeled2017_png/000000188121.png 3.000 0.000 156.064 166.661 0.368 -2.298 0.728 -4.068 0.362 0.229 0.473 0.310
+/home/burak/coco_dataset/unlabeled2017_png/000000187802.png 3.000 0.000 230.418 289.815 5.853 -0.372 1.467 -0.230 0.458 0.425 0.457 0.296
+/home/burak/coco_dataset/foreground_objects/Nelson-Mandela-PNG-Image.png 3.000 0.000 219.802 298.366 0.367 -0.097 -0.362 -0.150 0.449 0.930 0.997 0.446

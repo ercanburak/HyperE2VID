@@ -1,0 +1,5 @@
+256 256 10.0
+/home/burak/coco_dataset/unlabeled2017/000000475672.jpg 3.000 0.000 133.835 144.461 0.272 0.062 0.563 0.329 1.406 1.292 1.233 1.105
+/home/burak/coco_dataset/foreground_objects/Carne-Asada-PNG-File.png 3.000 0.000 45.222 28.956 -0.341 0.198 -0.356 1.109 0.866 0.537 0.653 0.895
+/home/burak/coco_dataset/foreground_objects/5a00d06b0e8525eec2752fd3.png 3.000 0.000 4.388 -8.255 -0.634 0.408 0.028 -0.250 0.896 0.858 1.047 0.494
+/home/burak/coco_dataset/unlabeled2017_png/000000191107.png 3.000 0.000 82.292 68.456 -0.004 0.322 -1.000 0.602 0.480 0.401 0.411 0.586
